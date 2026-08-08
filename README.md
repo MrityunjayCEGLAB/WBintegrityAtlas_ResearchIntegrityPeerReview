@@ -1,29 +1,46 @@
-# WB-IntegrityAtlas
+<p align="center">
+  <img src="docs/images/wb_integrityatlas_logo.png" alt="WB-IntegrityAtlas" width="900"/>
+</p>
 
-## A Biology-Informed Framework for Evaluating Western Blot Protein-Identity Claims Using Proteome-Scale Molecular-Weight Neighbourhoods
+<h1 align="center">WB-IntegrityAtlas</h1>
 
-[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
+<p align="center">
+<b>A biology-informed framework for evaluating western blot protein-identity claims using proteome-scale molecular-weight neighbourhoods.</b>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3.9+-blue.svg">
+<img src="https://img.shields.io/badge/Platform-Linux%20%7C%20macOS%20%7C%20Windows-green.svg">
+<img src="https://img.shields.io/badge/License-MIT-orange.svg">
+<img src="https://img.shields.io/badge/Status-Research-purple.svg">
+</p>
 
 ---
 
 ## Overview
 
-WB-IntegrityAtlas is a proteome-scale computational framework designed to support biology-informed evaluation of western blot protein-identity claims.
+WB-IntegrityAtlas is a biology-informed computational framework developed to support the evaluation of western blot protein-identity claims.
 
-Unlike conventional western blot image-forensics tools, which primarily detect image duplication, manipulation, inappropriate splicing, or other visual irregularities, WB-IntegrityAtlas evaluates the **biological context** surrounding protein identity.
+Unlike conventional image-forensics tools, which detect duplicated or manipulated images, WB-IntegrityAtlas evaluates the **biological context** surrounding a reported protein by characterising the complexity of its molecular-weight neighbourhood within the reference proteome.
 
-The software systematically characterises molecular-weight neighbourhoods across an entire reference proteome using protein density, common loading controls, signalling proteins, and audit-relevant protein families to identify molecular-weight regions where protein-identity claims may require stronger supporting biological evidence.
+The framework integrates
 
-The framework is intended as a **defensive research-integrity resource** to support:
+- Protein density
+- Common loading and compartment markers
+- Frequently studied signalling proteins
+- Audit-relevant protein families
 
-- Journal editors
-- Peer reviewers
-- Research-integrity professionals
-- Institutional investigation committees
-- Biomedical researchers
+to identify molecular-weight regions where protein-identity claims may require stronger supporting biological evidence.
 
-during the evaluation of western blot evidence.
+---
+
+## Graphical Overview
+
+<p align="center">
+<img src="docs/images/wb_integrityatlas_workflow.png" width="1000">
+</p>
+
+**WB-IntegrityAtlas workflow.** Starting from a reference proteome, the pipeline calculates theoretical molecular weights, organises proteins into molecular-weight neighbourhoods, annotates proteins using biologically relevant audit features, computes neighbourhood-level statistics, assigns audit-priority categories, and generates publication-ready outputs for biology-informed western blot review.
 
 ---
 
