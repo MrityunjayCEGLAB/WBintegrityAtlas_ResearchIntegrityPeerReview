@@ -1,228 +1,493 @@
-Western Blot Integrity Atlas - Complete Report Package
-======================================================
+# WB-IntegrityAtlas
 
-Purpose
--------
-This package generates the complete Western Blot Integrity Atlas from a
-proteome FASTA and the external marker/signaling/family TSV configuration
-files. The updated runner combines the previous table-rich report with all
-four molecular-weight plots in one consolidated PDF.
+## A Biology-Informed Framework for Evaluating Western Blot Protein-Identity Claims Using Proteome-Scale Molecular-Weight Neighbourhoods
 
-The runner is defensive-audit software. It is intended to support review of
-western blot identity claims, source-file provenance, antibody validation,
-and appropriate controls. It must not be used to plan, enable, or disguise
-blot substitution or fabrication.
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)]()
+[![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
-Primary runner
---------------
-Use:
+---
 
-  wb_integrity_atlas_full_report.py
+## Overview
 
-The original runner is retained as:
+WB-IntegrityAtlas is a proteome-scale computational framework designed to support biology-informed evaluation of western blot protein-identity claims.
 
-  wb_integrity_atlas_externalized.py
+Unlike conventional western blot image-forensics tools, which primarily detect image duplication, manipulation, inappropriate splicing, or other visual irregularities, WB-IntegrityAtlas evaluates the **biological context** surrounding protein identity.
 
-The updated runner keeps the same command-line inputs as the original runner.
-It does NOT require a pre-generated mw_bin_summary CSV, and there is no
---bin_csv flag. The protein atlas, bin summary, malpractice-bin table, plot
-PNGs, and complete PDF are all generated internally in one run.
+The software systematically characterises molecular-weight neighbourhoods across an entire reference proteome using protein density, common loading controls, signalling proteins, and audit-relevant protein families to identify molecular-weight regions where protein-identity claims may require stronger supporting biological evidence.
 
-Install dependencies
---------------------
-From the wb_atlas_update directory:
+The framework is intended as a **defensive research-integrity resource** to support:
 
-  python -m pip install -r requirements.txt
+- Journal editors
+- Peer reviewers
+- Research-integrity professionals
+- Institutional investigation committees
+- Biomedical researchers
 
-Equivalent direct installation:
+during the evaluation of western blot evidence.
 
-  python -m pip install pandas matplotlib reportlab
+---
 
-Human example
--------------
-Place the human reference-proteome FASTA in this directory, or give its full
-path, then run:
+## Why WB-IntegrityAtlas?
 
-  python wb_integrity_atlas_full_report.py \
-    --proteome-fasta human_UP000005640.fasta \
-    --marker-file configs/human_marker_genes.tsv \
-    --signaling-prefix-file configs/human_signaling_prefixes.tsv \
-    --family-pattern-file configs/human_family_patterns.tsv \
-    --malpractice-file malpractice/human_reported_malpractice_cases.tsv \
-    --species-name "Homo sapiens" \
-    --outdir human_wb_atlas
+Western blot integrity assessment has traditionally focused on detecting:
 
-Cow example
------------
-  python wb_integrity_atlas_full_report.py \
-    --proteome-fasta cow_UP000009136.fasta \
-    --marker-file configs/cow_marker_genes.tsv \
-    --signaling-prefix-file configs/cow_signaling_prefixes.tsv \
-    --family-pattern-file configs/cow_family_patterns.tsv \
-    --malpractice-file malpractice/cow_reported_malpractice_cases.tsv \
-    --species-name "Bos taurus" \
-    --outdir cow_wb_atlas
+- duplicated panels
+- inappropriate image manipulation
+- image splicing
+- image reuse
+- AI-generated scientific images
 
-Mouse example
--------------
-  python wb_integrity_atlas_full_report.py \
-    --proteome-fasta mouse_UP000000589.fasta \
-    --marker-file configs/mouse_marker_genes.tsv \
-    --signaling-prefix-file configs/mouse_signaling_prefixes.tsv \
-    --family-pattern-file configs/mouse_family_patterns.tsv \
-    --malpractice-file malpractice/mouse_reported_malpractice_cases.tsv \
-    --species-name "Mus musculus" \
-    --outdir mouse_wb_atlas
+Although these approaches are extremely valuable, they do not determine whether a western blot band actually represents the reported protein.
 
-Chicken example
----------------
-  python wb_integrity_atlas_full_report.py \
-    --proteome-fasta chicken_UP000000539.fasta \
-    --marker-file configs/chicken_marker_genes.tsv \
-    --signaling-prefix-file configs/chicken_signaling_prefixes.tsv \
-    --family-pattern-file configs/chicken_family_patterns.tsv \
-    --malpractice-file malpractice/chicken_reported_malpractice_cases.tsv \
-    --species-name "Gallus gallus" \
-    --outdir chicken_wb_atlas
+Protein identity depends upon biological evidence including
 
-Demo run included in the package
---------------------------------
-  python wb_integrity_atlas_full_report.py \
-    --proteome-fasta demo_human_subset.fasta \
-    --marker-file configs/human_marker_genes.tsv \
-    --signaling-prefix-file configs/human_signaling_prefixes.tsv \
-    --family-pattern-file configs/human_family_patterns.tsv \
-    --malpractice-file malpractice/human_reported_malpractice_cases.tsv \
-    --species-name "Homo sapiens demo subset" \
-    --outdir demo_full_output
+- theoretical molecular weight
+- neighbouring proteins with similar migration
+- loading controls
+- signalling proteins
+- protein-family relationships
+- antibody specificity
+- orthogonal validation
 
-Command-line flags
-------------------
---proteome-fasta
-  Required. Proteome FASTA, preferably a UniProt reference-proteome FASTA.
+WB-IntegrityAtlas addresses this complementary problem by providing proteome-wide biological context for western blot interpretation.
 
---marker-file
-  Required. TSV containing gene_symbol, category, and note columns.
+---
 
---signaling-prefix-file
-  Required. TSV containing prefix, category, and note columns.
+# Key Features
 
---family-pattern-file
-  Required. TSV containing family, regex, category, and note columns.
+✓ Proteome-wide molecular-weight atlas
 
---malpractice-file
-  Optional. TSV of reported public malpractice cases. When supplied, the
-  script generates reported_malpractice_bins.csv and embeds its table in the
-  PDF.
+✓ Automatic theoretical molecular-weight calculation
 
---species-name
-  Optional report label. Default: "Unspecified species".
+✓ Protein-density analysis
 
---outdir
-  Optional output directory. Default: wb_integrity_atlas_out.
+✓ Common loading-control annotation
 
---bin-kda
-  Optional molecular-weight bin width. Default: 2.0 kDa.
+✓ Compartment-marker annotation
 
-Outputs
--------
-Each run creates the following inside --outdir:
+✓ Signalling-protein annotation
 
-  proteome_wb_integrity_atlas.csv
-    Complete per-protein atlas with calculated mass, annotations, bin metrics,
-    audit priority, and defensive audit note.
+✓ Audit-relevant protein-family annotation
 
-  mw_bin_summary.csv
-    Complete molecular-weight-bin summary with protein counts, marker counts,
-    signaling-prefix counts, family annotations, examples, burden score, and
-    priority.
+✓ Molecular-weight neighbourhood construction
 
-  reported_malpractice_bins.csv
-    Generated only when --malpractice-file is supplied.
+✓ Audit-priority scoring
 
-  plots/figure_2_molecular_weight_distribution.png
-  plots/figure_3_most_crowded_bins.png
-  plots/figure_4_marker_signaling_distribution.png
-  plots/figure_5_audit_burden.png
-    Standalone high-resolution PNGs embedded in the PDF.
+✓ Comprehensive PDF report generation
 
-  western_blot_integrity_atlas_full_report_with_plots.pdf
-    The complete consolidated report. It includes:
-      - summary metrics and method
-      - all four updated plots
-      - highest-audit score summary
-      - detailed highest-audit table
-      - common loading/compartment marker table
-      - complete molecular-weight-bin table
-      - first 120 proteins sorted by molecular weight
-      - reported malpractice case table, when supplied
-      - integrity-audit checklist and generated-file inventory
+✓ Molecular-weight auditability analysis
 
-  western_blot_integrity_atlas_report.pdf
-    Byte-identical compatibility copy of the consolidated report, preserving
-    the previous report filename for downstream workflows.
+✓ Species-independent design
 
-Package layout
---------------
+---
+
+# Workflow
+
+```
+Reference proteome FASTA
+            │
+            ▼
+Sequence parsing
+            │
+            ▼
+Theoretical molecular-weight calculation
+            │
+            ▼
+Protein assignment into 2-kDa neighbourhoods
+            │
+            ▼
+Biological annotation
+
+    • Protein density
+    • Common markers
+    • Signalling proteins
+    • Protein families
+
+            │
+            ▼
+Neighbourhood summarisation
+            │
+            ▼
+Audit-burden scoring
+            │
+            ▼
+Audit-priority classification
+            │
+            ▼
+Generated outputs
+
+• Protein atlas
+• Bin summary
+• Figures
+• PDF report
+• Auditability analysis
+```
+
+---
+
+# Repository Structure
+
+```
+WB-IntegrityAtlas/
+
 configs/
-  Species-specific marker, signaling-prefix, and family-pattern TSV files.
+    Species-specific annotation files
 
 malpractice/
-  Public reported-case TSV files and source tables.
-
-wb_integrity_atlas_externalized.py
-  Original externalized table-report runner retained unchanged.
-
-wb_integrity_atlas_full_report.py
-  Updated one-pass runner for CSVs, all plots, and the consolidated PDF.
-
-requirements.txt
-  Python dependencies.
-
-demo_human_subset.fasta
-  Small input for a quick installation test.
+    Publicly documented protein-substitution cases
 
 demo_full_output/
-  Output generated from the included demo FASTA by the updated runner.
+    Example output generated from demo FASTA
 
 reference_full_output/
-  Consolidated report and plots generated from the full uploaded atlas CSVs.
-  These files demonstrate the intended final layout. The normal production
-  workflow still starts from FASTA/configuration inputs and does not use CSV
-  inputs.
+    Reference atlas output
 
-Important interpretation notes
-------------------------------
-- Theoretical molecular weight is an audit context, not proof of identity.
-- High-priority bins indicate where documentation and orthogonal controls are
-  especially important. They do not indicate wrongdoing.
-- Similar molecular weight never makes proteins interchangeable.
-- Cow, mouse, and chicken case files may include orthology/protein-family audit
-  projections. Check species_interpretation before describing a case as direct
-  evidence for a species.
-- Edit the species TSV configuration files when the FASTA uses alternative gene
-  symbols or when the audit categories need to be updated.
+wb_integrity_atlas_full_report.py
+    Main atlas-generation pipeline
 
-Troubleshooting
----------------
-1. "No protein sequences were parsed"
-   Confirm that --proteome-fasta points to a readable FASTA with records that
-   begin with >.
+wb_integrity_atlas_externalized.py
+    Legacy implementation
 
-2. Missing required TSV columns
-   Keep the column names exactly as documented above. TSV files must be
-   tab-delimited.
+wb_mw_auditability.py
+    Molecular-weight auditability analysis
 
-3. Matplotlib or ReportLab import error
-   Run: python -m pip install -r requirements.txt
+requirements.txt
 
-4. Empty marker table
-   Confirm that the FASTA headers include GN= gene symbols matching the marker
-   TSV. Alternative symbols may require edits to the species config file.
+README.md
+```
 
-5. Very large PDF
-   This is expected for the full reference proteome because the consolidated
-   report contains all bin rows, multiple tables, and four high-resolution
-   figures. The complete per-protein table remains in CSV to keep the PDF
-   finite; the PDF displays the first 120 proteins exactly as in the previous
-   table-rich report.
+---
+
+# Installation
+
+Clone the repository
+
+```bash
+git clone https://github.com/USERNAME/WB-IntegrityAtlas.git
+
+cd WB-IntegrityAtlas
+```
+
+Install dependencies
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+or
+
+```bash
+pip install pandas matplotlib reportlab numpy
+```
+
+---
+
+# Required Inputs
+
+The main pipeline requires:
+
+### 1. Reference proteome FASTA
+
+Example
+
+```
+human_UP000005640.fasta
+```
+
+---
+
+### 2. Marker annotation
+
+```
+configs/human_marker_genes.tsv
+```
+
+Contains
+
+- gene symbols
+- marker categories
+- notes
+
+---
+
+### 3. Signalling prefixes
+
+```
+configs/human_signaling_prefixes.tsv
+```
+
+Contains
+
+- signalling prefixes
+- pathway annotations
+
+---
+
+### 4. Protein-family annotations
+
+```
+configs/human_family_patterns.tsv
+```
+
+Contains
+
+- family names
+- regular-expression patterns
+- biological categories
+
+---
+
+### 5. Malpractice dataset (optional)
+
+```
+malpractice/human_reported_malpractice_cases.tsv
+```
+
+Used for mapping documented protein-substitution cases onto the atlas.
+
+---
+
+# Running WB-IntegrityAtlas
+
+Example:
+
+```bash
+python wb_integrity_atlas_full_report.py \
+--proteome-fasta human_UP000005640.fasta \
+--marker-file configs/human_marker_genes.tsv \
+--signaling-prefix-file configs/human_signaling_prefixes.tsv \
+--family-pattern-file configs/human_family_patterns.tsv \
+--malpractice-file malpractice/human_reported_malpractice_cases.tsv \
+--species-name "Homo sapiens" \
+--outdir human_wb_atlas
+```
+
+---
+
+# Outputs
+
+Each analysis generates the following outputs.
+
+---
+
+## Protein Atlas
+
+```
+proteome_wb_integrity_atlas.csv
+```
+
+Contains one row per protein including
+
+- accession
+- protein name
+- gene symbol
+- sequence length
+- theoretical molecular weight
+- molecular-weight neighbourhood
+- marker annotation
+- signalling annotation
+- protein-family annotation
+- audit-burden score
+- audit-priority category
+- defensive review recommendation
+
+---
+
+## Molecular-Weight Bin Summary
+
+```
+mw_bin_summary.csv
+```
+
+Contains
+
+- protein count
+- marker count
+- signalling count
+- family count
+- representative proteins
+- dominant families
+- audit-burden score
+- audit priority
+
+---
+
+## Figures
+
+High-resolution publication-quality figures including
+
+- Molecular-weight distribution
+
+- Protein-density distribution
+
+- Marker distribution
+
+- Signalling-protein distribution
+
+- Audit-burden distribution
+
+---
+
+## PDF Report
+
+```
+western_blot_integrity_atlas_full_report_with_plots.pdf
+```
+
+Contains
+
+- summary statistics
+
+- methods
+
+- publication-quality figures
+
+- molecular-weight neighbourhood tables
+
+- highest-priority regions
+
+- integrity recommendations
+
+---
+
+# Molecular-Weight Auditability Analysis
+
+Following atlas generation, molecular-weight auditability can be analysed using
+
+```bash
+python wb_mw_auditability.py human_wb_atlas
+```
+
+This module quantifies how informative a protein's theoretical molecular weight is for distinguishing it from other proteins within the reference proteome.
+
+Generated outputs include
+
+- protein auditability tables
+
+- neighbourhood auditability
+
+- ambiguity rankings
+
+- information-theoretic metrics
+
+- publication-quality figures
+
+---
+
+# Species Support
+
+The framework is fully configurable.
+
+Changing
+
+- reference proteome
+
+- marker annotations
+
+- signalling annotations
+
+- family annotations
+
+allows straightforward adaptation to additional organisms without modifying the underlying workflow.
+
+---
+
+# Intended Applications
+
+WB-IntegrityAtlas may assist
+
+- journal editors
+
+- peer reviewers
+
+- research-integrity investigators
+
+- laboratory researchers
+
+- educators
+
+during
+
+- western blot review
+
+- manuscript assessment
+
+- editorial screening
+
+- biological interpretation of protein identity
+
+- research-integrity training
+
+---
+
+# Important Interpretation
+
+WB-IntegrityAtlas is **not** an image-forensics tool.
+
+The framework **does not**
+
+- detect image manipulation
+
+- identify scientific misconduct
+
+- determine protein identity
+
+- replace expert scientific judgement
+
+Instead, it identifies molecular-weight neighbourhoods where additional supporting evidence may reasonably be requested.
+
+A high audit-priority score **does not imply**
+
+- wrongdoing
+
+- incorrect protein identity
+
+- fabricated data
+
+It indicates that the surrounding molecular-weight neighbourhood contains numerous biologically plausible alternative proteins and therefore warrants more careful evaluation.
+
+---
+
+# Citation
+
+If you use WB-IntegrityAtlas in your research, please cite
+
+Dwivedi M., Vijay N.
+
+**WB-IntegrityAtlas: A biology-informed framework for evaluating western blot protein-identity claims using proteome-scale molecular-weight neighbourhoods.**
+
+(Manuscript submitted.)
+
+---
+
+# License
+
+MIT License
+
+---
+
+# Contact
+
+**Mrityunjay Dwivedi**
+
+Computational Evolutionary Genomics Laboratory
+
+Department of Biological Sciences
+
+Indian Institute of Science Education and Research (IISER) Bhopal
+
+India
+
+---
+
+# Acknowledgements
+
+The authors thank members of the Computational Evolutionary Genomics Laboratory, IISER Bhopal, for discussions and feedback during the development of WB-IntegrityAtlas.
+
+---
+
+## Disclaimer
+
+WB-IntegrityAtlas is intended exclusively as a defensive research-integrity and educational resource.
+
+It should be used to support transparent, evidence-informed evaluation of western blot protein-identity claims alongside experimental validation and expert scientific judgement. The framework is not intended to diagnose scientific misconduct or replace established editorial or institutional investigation procedures.
