@@ -454,7 +454,7 @@ If you use WB-IntegrityAtlas in your research, please cite
 
 Dwivedi M., Vijay N.
 
-**WB-IntegrityAtlas: A biology-informed framework for evaluating western blot protein-identity claims using proteome-scale molecular-weight neighbourhoods.**
+**Beyond Image Duplication: A Proteome-Scale Framework for Auditing Western Blot Protein-Identity Claims**
 
 (Manuscript submitted.)
 
