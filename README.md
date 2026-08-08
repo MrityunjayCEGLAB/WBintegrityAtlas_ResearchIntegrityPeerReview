@@ -37,7 +37,7 @@ to identify molecular-weight regions where protein-identity claims may require s
 ## Graphical Overview
 
 <p align="center">
-<img src="docs/images/wb_integrityatlas_workflow.png" width="1000">
+<img src="./docs/images/wb_integrityatlas_workflow.png" width="1000">
 </p>
 
 **WB-IntegrityAtlas workflow.** Starting from a reference proteome, the pipeline calculates theoretical molecular weights, organises proteins into molecular-weight neighbourhoods, annotates proteins using biologically relevant audit features, computes neighbourhood-level statistics, assigns audit-priority categories, and generates publication-ready outputs for biology-informed western blot review.
