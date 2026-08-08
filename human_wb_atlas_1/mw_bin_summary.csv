@@ -1,0 +1,274 @@
+mw_bin_label,bin_start_kda,bin_end_kda,protein_count,marker_count,signaling_prefix_count,family_count,families,marker_genes,signaling_genes,examples_audit_families,audit_burden_score,audit_priority
+0.0-2.0 kDa,0.0,2.0,58,0,0,1,Actin family,,,"TRDD1, TRBD1, IGHD1-1, IGHD5-12, IGHD5OR15-5B, IGHD6-19, IGHD6-13, IGHD3-10, , IGLJ4, IGHD3-9, IGKJ4, IGKJ3, IGKJ2, IGLJ5, IGHD3-3, IGKJ5, LOC128462377",3.65,routine
+2.0-4.0 kDa,2.0,4.0,108,0,0,1,Mitochondrial markers,,,"TRAJ22, TRAJ36, TRAJ50, TRAJ6, TRAJ33, TRAJ17, TRAJ41, TRAJ54, TRAJ9, , IGHJ2, TRAJ42, TRAJ5, TRAJ7, TRAJ57, TRAJ44, TRAJ26, TRAJ25",6.15,routine
+4.0-6.0 kDa,4.0,6.0,67,0,0,2,Actin family; Mitochondrial markers,,,"FAM86JP, ID2B, OST4, BAGE4, , MT-RNR2, LOC128071545, , IGLJ2, LOC128031832, , KRTAP20-4, , LOC128092246, BAGE5, IGLJ1, BAGE, ",4.85,routine
+6.0-8.0 kDa,6.0,8.0,162,0,1,3,JAK-STAT; Mitochondrial markers; p53 pathway,,STATH,"PRCD, MT1E, PMAIP1, TOMM5 [Mitochondrial markers], MT1H, MT2A, MT1L, MT1X, MT1F, MT1HL1, SMIM30, ARHGAP5-AS1, PLN, MT1M, MT1B, MT1A, MT1G, HTN3",11.85,elevated
+8.0-10.0 kDa,8.0,10.0,284,0,2,7,Actin family; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Mitochondrial markers; Tubulin family; p53 pathway,,"CDKN2A-AS1, RBAKDN","DEFB110, TOMM6 [Mitochondrial markers], GNG12, UQCC6 [Mitochondrial markers], GTF2H5, PIGY, DEFB124, TMEM167A, NDUFA1, CD24, CCDC179, DEFB123, C16orf74, RBAKDN, TEX53, COX8C [Mitochondrial markers], DEFB131B, SPRR2G",22.45,elevated
+10.0-12.0 kDa,10.0,12.0,408,0,3,7,Actin family; Apoptosis caspase/BCL; FOXO/SMAD transcription; Heat shock proteins; Histone family; Lamin family; Mitochondrial markers,,"RBIS, RBM12B-AS1, SMAD5-AS1","FLVCR1-DT, DEFB109D, WT1-AS, DBI, LINC03043, BANF1, CENPW, MLLT11, DEFB115, DEFA5, UQCC3, CCL3, DPM3, CHCHD7, SCGB3A1, NPS, PYDC1, SRP9",29.75,high
+12.0-14.0 kDa,12.0,14.0,706,0,9,7,Actin family; Cell-cycle CDK/cyclin; Histone family; MAPK cascade; Mitochondrial markers; Tubulin family; p53 pathway,,"CDK2AP1, CDK2AP2, CDKN2AIPNL, MAPKAPK5-AS1, RASAL2-AS1, RBX1, RHOXF1P3, TP53AIP1, TP53TG3","DNAL4, IGLV3-25, EMC6, C1orf210, CXorf51A, CXorf51B, PSENEN, PAGE2B, IGLV3-19, TRAV27, NAP1L6P, BLID, WFDC12, NDUFB2 [Mitochondrial markers], PVALB, BPY2, , WDR83OS",38.75,high
+14.0-16.0 kDa,14.0,16.0,473,2,6,6,Actin family; Cell-cycle CDK/cyclin; Histone family; Lamin family; Mitochondrial markers; p53 pathway,"H2AC1, H3C1","CDKN2B, GSKIP, RBP1, RBP2, RBP5, RBP7","CXCL9, H2AJ [Histone family], SRSP, GABARAPL1, PAGE5, SMR3A, TEX46, CLPSL1, BEX4, LIMD2, LSM10, SEM1, ADAMTSL4-AS1, H2AC11 [Histone family], TEX54, H2AC18 [Histone family], HCP5, H2AC6 [Histone family]",43.5,high
+16.0-18.0 kDa,16.0,18.0,490,1,5,9,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; p53 pathway,TOMM20,"BCL2L15, CDKN2A, CDKN2D, MAP3K7CL, RBM3","LEKR1, TUG1, C14orf119, JPT1, LINC00588, C1D, PXT1, HBD, LINC01565, RPS19, CSNK1G2-AS1, SMIM44, MRPL27, CST5, CCDC197, PLA2G2A, TMEM250, CNIH4",39.25,high
+18.0-20.0 kDa,18.0,20.0,440,1,4,8,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Mitochondrial markers; Tubulin family; p53 pathway,COX4I1,"CDKN1A, CDKN2C, PIK3CD-AS1, RBM8A","NCBP2, ZCCHC13, UBE2I, MTFP1 [Mitochondrial markers], KRTAP1-5, PPIA, CTAGE3P, BIK [Actin family], H2BC19P [Histone family], UMODL1-AS1, , KRTAP4-4, TIMM17A [Mitochondrial markers], IGF2-AS, TMEM238, ACP1, LCN6, IL17F",37.0,high
+20.0-22.0 kDa,20.0,22.0,582,0,12,8,Actin family; Apoptosis caspase/BCL; Heat shock proteins; Histone family; Lamin family; Mitochondrial markers; NF-kB/Rel; p53 pathway,,"BCL2A1, BCL2L2, PRKRIP1, RBBP9, RBM18, RBPMS, RHOA, RHOG, RHOH, RHOXF1, TP53I11, VEGFB","LINC02908, TMEM52B, COX4I2 [Mitochondrial markers], IL22, TTC9C, DCTD, FTL, VCX3A, SAT1, SMIM23, TIMM22 [Mitochondrial markers], MRPL17, , IL1RN, AK6, JPT2, COPRS, TMEM217B",44.0,high
+22.0-24.0 kDa,22.0,24.0,540,0,18,9,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; Mitochondrial markers; Tubulin family; p53 pathway,,"BCL2L10, BCL2L11, BCL7A, BCL7B, BCL7C, CDKN1B, CDKN3, RASL10A, RASL10B, RBP4, RBPMS2, RHOB, RHOC, RHOD, RHOF, RHOJ, RHOQ, TP53INP2","RHOC, LIF, ZNF581, RAB1C, AP3S2, H1-6 [Histone family], PTTG1, ANKRD66, CCDC28B, C2orf80, PPIF [Mitochondrial markers], FGF4, TMEM223, IFNA14, PTTG3P, MSC, SNX22, STMN4",53.75,high
+24.0-26.0 kDa,24.0,26.0,548,0,3,7,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Histone family; Lamin family; MAPK cascade; Mitochondrial markers,,"MAPK1IP1L, RBM24, RBM38","FGF19, DPT, KLRF2, TNNI3, RNASE10, GCA, HOXB7, MISP3, SOST, HMGB2, PDGFA, TRIM61, GTF3C6, FRAT2, DNAAF6, TBC1D28, CREG1, CBLN2",29.75,high
+26.0-28.0 kDa,26.0,28.0,497,0,12,7,AKT pathway; Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Mitochondrial markers; Tubulin family; p53 pathway,,"AKT1S1, BCL10, BCL2, BCL2L1, BCL2L12, CASP14, CCN5, RASL11A, RASL11B, RASSF3, RHOV, TP53INP1","TMED5, PRR23E, C1QA, TNFSF8, FBXL22, MOB4, SPAG7, TSPAN8, NMRK2, GINS4, CD79B, BCL2L1 [Apoptosis caspase/BCL], RND1, PBDC1, MXI1 [Actin family], RTP2, ATP6V1E2, SPEGNB",43.25,high
+28.0-30.0 kDa,28.0,30.0,500,1,8,9,Actin family; Cell-cycle CDK/cyclin; FOXO/SMAD transcription; Histone family; Lamin family; Mitochondrial markers; NF-kB/Rel; Tubulin family; p53 pathway,PCNA,"CCNQ, FOSL1, FOXO3B, PIK3IP1, RASL12, RELL1, RHOU, TP53RK","CTRL, LRRC61, TSPAN3, FAM220A, ZFAND2B, CRYBB1, RPL8, HLA-DQA2, DPY19L2P1, KLK8, CMBL, SPR, NR0B2, HOXB9, , RTRAF, MS4A12, PDCL2",43.75,high
+30.0-32.0 kDa,30.0,32.0,469,2,10,7,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Histone family; Lamin family; Mitochondrial markers; Tubulin family,"VDAC1, VDAC2","CASP3, CCNB1IP1, PRKAB1, PRKAB2, RASD1, RASD2, RBM7, RHOXF2, RHOXF2B, TGFBR3L","BPGM, ASB13, HHEX, CALB1, PLSCR5, KRTAP10-9, COMT, EXOSC8, TLCD4, HAPSTR2, HLA-DRB5, NOTCH2NLR, TIGAR, NSA2, PIANP, PLP1, THAP8, CER1",50.25,high
+32.0-34.0 kDa,32.0,34.0,502,0,16,9,AKT pathway; Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Lamin family; Mitochondrial markers; NF-kB/Rel; Tubulin family,,"AKTIP, CASP6, CCNC, CCND1, CCND2, CCND3, CCNP, CCNYL1B, CDK2, CDK4, CDK5, CDKN1C, NFKBID, RBFOX3, RBM11, RELL2","PGAM5 [Mitochondrial markers], PRSS42P, CUEDC2, YIF1A, KLK5, GJB1, HNRNPCL3, HNRNPCL4, GSX2, CCDC106, SCGN, ART5, ASRGL1, DGUOK [Mitochondrial markers], TAF1D, ZMAT3, SLC25A29 [Mitochondrial markers], RNASEH1",50.75,high
+34.0-36.0 kDa,34.0,36.0,884,1,15,7,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Histone family; Mitochondrial markers; NF-kB/Rel; p53 pathway,RPLP0,"CASP7, CCNG1, CDK1, CDK3, CDK5R1, FOSB, FOSL2, JUN, JUNB, JUND, NFKBIA, PRKRA, RBKS, TP53I3, TP53TG5","FCN2, ZFP36, PILRA, PPCS, PGP, SLC25A1 [Mitochondrial markers], OR7A17, TP53TG5 [p53 pathway], OR1R1, OR9G9, RHBDL2, LRRC30, TMX2, OR5BS1, FCGR2B, CDK5R1 [Cell-cycle CDK/cyclin], SLC25A11 [Mitochondrial markers], PRSS29P",52.75,high
+36.0-38.0 kDa,36.0,38.0,584,2,9,8,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Tubulin family,"GAPDH, TBP","BCL2L14, CCNH, CDK6, MAP2K6, NFKBIB, PRKAG1, RASSF2, RASSF4, RBMX2","LOC128966728, VGLL3, ZAR1L, ASB7, OR5A2, BNIP2 [Actin family], AKR1B10, KIR3DP1, HMOX2, TECR, MC3R, OR5I1, GIPC1, OR56B1, POU5F2, GAPDH, CASTOR2, OR5V1",49.5,high
+38.0-40.0 kDa,38.0,40.0,577,0,16,10,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Tubulin family,,"CASP12, CCN2, CCN3, CCN6, CCNG2, CCNO, CCNY, CCNYL3, CDK20, CDK5R2, CDK7, MAP2K3, RASSF1, RASSF7, RBFA, RHO","EFNB1, FST, OPCML, PAQR5, GIMAP2, PPP1R3G, CCDC42, MTARC2 [Mitochondrial markers], TAAR8, RRN3P2, ACMSD, TBPL2, MAGT1, DNAJB1, AQP7B, ST3GAL4, ST6GALNAC6, FAM228B",51.5,high
+40.0-42.0 kDa,40.0,42.0,526,1,23,8,Actin family; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; Tubulin family,ACTB,"CCN4, CCNDBP1, CCNI2, CCNYL1, CCNYL2, CDK10, CDKL1, FOS, HIF1AN, MAPK1, MAPK11, MAPK12, MAPK14, PRKACA, PRKACB, PRKACG, PRKX, RBFOX2, RBM4, RBM43, RBM48, RBM4B, VEGFD","CYTIP [Actin family], ANGPTL7, ELAC1, VN1R1, GLT8D2, CXADR, GNAT1, B4GALT4, PACC1, LHX6, POMK, GNAO1, PTGFR, L1RE1, HLA-E, MACROH2A2 [Histone family], NPIPA3 [Actin family], ERI1",65.5,high
+42.0-44.0 kDa,42.0,44.0,495,0,22,9,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Tubulin family; p53 pathway,,"CASP4, CCN1, CCNI, CCNJ, CDK9, CDKL4, MAP2K1, MAPK13, MAPK3, MAPKAPK3, NFKBIL1, PRKAR1A, PRKAR1B, RASSF6, RBFOX1, RBMS2, RBMX, RBMXL1, RBMXL2, TP53, TP53I13, VEGFA","SSTR4, ACTBL2 [Actin family], SPOUT1, ACTA2 [Actin family], TECRL, CRLF2, CCR9, POTEKP [Actin family], ACTC1 [Actin family], ZDHHC2, CCN1 [Cell-cycle CDK/cyclin], ZDHHC18, POLDIP2 [Actin family], DUSP5, ACTA1 [Actin family], FAM217B, HSD3B2, FETUB",59.75,high
+44.0-46.0 kDa,44.0,46.0,466,0,9,9,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; ER markers; FOXO/SMAD transcription; Heat shock proteins; Lamin family; MAPK cascade; Mitochondrial markers,,"CASP1, CCNB2, MAP2K2, MAP2K4, MAPKAPK2, PRKAR2A, RBM17, RBMS1, TGFB1","SERPINE2, NIPAL4, NKX1-1, RIBC1, KCNJ9, AGPAT4, MEI4, ZNG1B, PAFAH2, ZNG1C, QTRT1, GNA13, B3GNT5, ERCC8, PDZK1P1, PIPOX, ZNG1E, ZNG1A",40.25,high
+46.0-48.0 kDa,46.0,48.0,492,0,19,11,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; FOXO/SMAD transcription; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Tubulin family,,"BCL3, CASP9, CCNE1, CCNE2, GSK3B, MAP2K7, PRKAR2B, PTEN, RASSF5, RBBP4, RBBP7, RBM22, RBM41, RBMS3, RELT, SMAD7, TGFB2, TGFB3, VEGFC","ABHD3, OLFML3, TNFRSF19, EGLN1, B3GNT2, TNFRSF11B, HEPACAM, OAS1, PCID2, COX15 [Mitochondrial markers], TPBG, SEC14L3, ZC3H10, TDG, GPR137, AADACL4, POLDIP3 [Actin family], ACP4",56.75,high
+48.0-50.0 kDa,48.0,50.0,459,5,14,12,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; ER markers; FOXO/SMAD transcription; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Nuclear receptor PPAR; Tubulin family,"CALR, TUBA1C, TUBB, TUBB2A, TUBB2B","CASP5, CCNA2, CCNB1, CCNJL, CDK15, MAPK8, MAPK9, PPARD, RASSF8, RBBP8P1, RBM23, RBM34, SMAD3, TGFB1I1","MRPS5, MOK, PSKH1, BZW1, BMP10, IFRD2, PANX1, ESRRB, KRT18, TFAP2A, RNF150, PLIN2, ZNF597, STAMBP, KPTN, SMAD3 [FOXO/SMAD transcription], NBPF7P, KRT17",75.0,high
+50.0-52.0 kDa,50.0,52.0,433,3,8,9,Actin family; Apoptosis caspase/BCL; ER markers; FOXO/SMAD transcription; Heat shock proteins; Lamin family; MAPK cascade; Mitochondrial markers; Tubulin family,"TUBA1A, TUBA1B, TUBB3","BCL6B, CASP2, FOXO6, GSK3A, MAP2K5, PRKN, RASSF9, RBM42","TTC23, RASSF9, TINF2 [Actin family], SEPTIN14, FAM90A20, ONECUT3, FOLH1B, INTS15, PIGU, NKD2, PLA2G7, SIGLEC9, FAM90A2P, TNFRSF10A, TUBA8 [Tubulin family], ADSS2, MAP2K5 [MAPK cascade], SLC29A2",53.75,high
+52.0-54.0 kDa,52.0,54.0,418,0,16,12,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; FOXO/SMAD transcription; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Nuclear receptor PPAR; Tubulin family,,"BCL2L13, CCNA1, CDK14, CDK8, FOXO4, MAP3K8, MAPK10, NFKBIE, PPARA, RASGEF1C, RBM45, SMAD1, SMAD2, SMAD5, SMAD6, SMAD9","GLRA2, FAM81B, CHRDL1, ATP6AP1, TIGD3, PKNOX2, FEZF1, PPP2R2D, CPSF7, MYBPH, XKRX, CHST9, GTPBP3 [Mitochondrial markers], CELF1, AGT, GPAT4, PROC, MFSD12",53.0,high
+54.0-56.0 kDa,54.0,56.0,463,0,21,11,AKT pathway; Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; Tubulin family; p53 pathway,,"AKT1, AKT2, AKT3, CASP8, CDK16, CDK18, MAPKAPK5, MDM2, MDM4, PIK3R3, PRKAG3, RASGEF1A, RASGEF1B, RBMY1A1, RBMY1B, RBMY1C, RBMY1D, RBMY1E, RBMY1F, RBPJ, TGFBR1","MMP12, STK38L, MMP1, ZBTB45, GCGR, HCLS1, SLC16A4, PI4K2A, PFKFB4, METTL4, SIGLEC8, SLC38A1, SLC17A4, FUCA2, SLC2A1, CAMK2A, ADPGK, NARS2",59.75,high
+56.0-58.0 kDa,56.0,58.0,417,1,7,10,AKT pathway; Actin family; Cell-cycle CDK/cyclin; ER markers; Heat shock proteins; Histone family; Lamin family; Mitochondrial markers; Nuclear receptor PPAR; p53 pathway,P4HB,"CDK19, CDK5RAP3, CDKL2, PPARG, RASSF10, RBCK1, RBPJL","KCNS3, CYP21A2 [p53 pathway], IPPK, CDKL2 [Cell-cycle CDK/cyclin], SLC38A2, TENT2, ZNF525, LPCAT3, IRF5, PHF10, SAMD1, SLC9B1, ZNF639, ZBTB37, STEAP2, TPH2, MGAT4C, USP14",43.0,high
+58.0-60.0 kDa,58.0,60.0,388,1,10,11,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; ER markers; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; Tubulin family; p53 pathway,ATP5F1A,"CASP10, CCNL1, CCNL2, CDK17, MAPK15, MAPKAP1, PRKCSH, RBBP5, RBM39, SRC","LCK, RCOR2, OXSR1, IKZF3, GLCCI1, CCT6A, GALNS, ZBTB7B, POGLUT2, PAK2, SPNS2, ZRSR2, STK35, SLC29A4, SNTB1, CYP8B1, ZC3H12D, ZNF837",47.65,high
+60.0-62.0 kDa,60.0,62.0,371,0,4,9,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; FOXO/SMAD transcription; Heat shock proteins; Lamin family; Mitochondrial markers; NF-kB/Rel; p53 pathway,,"CDKN2AIP, RBM46, RELA, SMAD4","DCLRE1B, ZNF454, ZNF350, OTOA, CSPG5, OIT3, RBM46, KRT6C, UGT1A4, SLC22A7, KPNA6, GATA6, FMO3, ZNF215, RPS6KL1, KRT6A, SLC26A10P, KRT6B",31.3,high
+62.0-64.0 kDa,62.0,64.0,324,0,3,5,Actin family; Apoptosis caspase/BCL; Mitochondrial markers; NF-kB/Rel; p53 pathway,,"PRKAA2, PRKAG2, RELB","UTP18, EOGT, SRPK3, CLCC1, DNAJC21, GTF2H1, SLC15A4, ACOT12, C1orf87, CATSPER2, TDRKH, SPTLC3, MLLT1, ITPRIP [Actin family], KRT9, ZNF155, GNS, ZNF852",24.45,elevated
+64.0-66.0 kDa,64.0,66.0,303,0,6,7,Actin family; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; MAPK cascade; Mitochondrial markers; p53 pathway,,"CCNK, CDKAL1, MAPK4, PRKAA1, RBM47, TGFBR2","CCDC82, MFSD6L, PRKAA1, ZNF382, FAM151A, ARSI, ZNF34, GALNT13, SHC3, PRDM14, TRIM23, LILRB5, PAK4, ARID5A, C2orf42, ZBTB46, RBM47, IKZF4",29.4,elevated
+66.0-68.0 kDa,66.0,68.0,259,2,4,8,Actin family; Cell-cycle CDK/cyclin; ER markers; Lamin family; MAPK cascade; Mitochondrial markers; Tubulin family; p53 pathway,"CANX, LMNB1","CDK5RAP1, CDKL3, MAP3K7, PRKCZ","CKAP4, ZNF583, TNFRSF11A, IGFALS, KRT1, , NOP56, MBD4, FRRS1, FARSB, FSIP1 [Actin family], IGF2BP2, CHRM3, ENC1, SLC13A1, TRIP4, MPP3, ACSM3 [Mitochondrial markers]",34.95,high
+68.0-70.0 kDa,68.0,70.0,251,0,8,8,Actin family; FOXO/SMAD transcription; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel,,"FOXO1, MAP3K2, PRKCI, RASGRP2, RBM14, REL, RHOBTB3, RHOT2",", PES1, SLC6A13, FPGT, PTPN11, PGBD2, PIAS3, PTPN9, SUSD5, PRODH [Mitochondrial markers], KLHL41, LRIT1, KARS1, GATAD2A, POF1B, LINGO2 [Actin family], MSLN, WDR46",30.55,high
+70.0-72.0 kDa,70.0,72.0,265,2,4,7,Actin family; FOXO/SMAD transcription; Heat shock proteins; Histone family; Lamin family; MAPK cascade; Mitochondrial markers,"HSPA1A, HSPA8","FOXO3, MAP3K3, RBBP8NL, RHOT1","RUFY2, HSPA2 [Heat shock proteins], PABPC3, F2, CLGN, SLCO2A1, ZP1, HSPA1A [Heat shock proteins], HSPA1B [Heat shock proteins], NELFB, FNBP1L, NTN4, ZSWIM9, ENOX2, FBXL4, GLCE, MOCS1, F11",34.5,high
+72.0-74.0 kDa,72.0,74.0,219,1,3,5,Actin family; ER markers; Heat shock proteins; JAK-STAT; Mitochondrial markers,SDHA,"HIF3A, JAKMIP1, RAF1","ZCWPW1, ANKS3, FRMD6, THEMIS2, NBPF4, SLC27A4, SYK, GLB1L2, ASNSD1, TMCC1, WDR26, WRNIP1, ZNF528, LY9, CREBRF, SLC6A14, APLP1, LIMD1",24.2,elevated
+74.0-76.0 kDa,74.0,76.0,223,1,2,5,Actin family; Heat shock proteins; Lamin family; Mitochondrial markers; Tubulin family,LMNA,"RASGRP4, TGFBI","SLC5A11, ERVK-24, FLRT2, TBR1, PATZ1, CHML, SLC5A9, FIGNL1, PADI4, FLRT1, RRN3, SYN1, UBASH3A, BRD7, LMNA [Lamin family], HDC, LOC122539214, SLCO1A2",22.9,elevated
+76.0-78.0 kDa,76.0,78.0,201,0,6,5,AKT pathway; Actin family; MAPK cascade; NF-kB/Rel; Tubulin family,,"MAPK8IP1, PRKCA, PRKCB, PRKCD, PRKCH, PRKG1","LNX2, CPEB3, SYTL4, FAM200B, GPCPD1, GRAMD1C, PLPPR3, CNGA2, RALBP1, USHBP1, GLB1, CCDC81, TUBGCP4 [Tubulin family], ZNF630, CLPTM1, IFT70B, BEST3, AKAP8",22.8,elevated
+78.0-80.0 kDa,78.0,80.0,210,0,5,7,AKT pathway; Actin family; Apoptosis caspase/BCL; Histone family; Mitochondrial markers; NF-kB/Rel; Tubulin family,,"BCL6, NFKBIZ, PRKCG, RASGRP3, RHOBTB1","BMX [AKT pathway], SETMAR [Histone family], MARCHF7, DVL3, DLL1, NFKBIZ [NF-kB/Rel], RNF6, RGL3, TBC1D14, UVRAG, ZNF429, ZBED1, MED25, ZNF573, LTF, PHACTR4 [Actin family], PJA2, FNDC7",23.25,elevated
+80.0-82.0 kDa,80.0,82.0,202,0,4,8,AKT pathway; Actin family; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; Lamin family; Mitochondrial markers; NF-kB/Rel,,"CCNT1, CCNT2, PIK3R2, PRKCQ","RNPEPL1, SKI, ZNF770, DNAAF1, KIF3A, RAP1GAP2, PCCA [Mitochondrial markers], ARHGEF16, FLYWCH1, TRAP1 [Heat shock proteins; Mitochondrial markers], C1R, SLC44A2, SLC9A7, ZNF441, KLHL11, CPEB4, PEG10, PAMR1",22.1,elevated
+82.0-84.0 kDa,82.0,84.0,204,1,7,5,Actin family; Apoptosis caspase/BCL; Heat shock proteins; MAPK cascade; Mitochondrial markers,HSP90AB1,"BCLAF3, MAPK6, PIK3R1, PRKCE, RASEF, RBAK, RHOBTB2","SANBR, VWA2, ZBTB1, MZF1, ARHGAP28, FYB2, MX2, EEF2K, FIGN, LRRFIP2 [Actin family], DZANK1, SLC6A16, VPS52, DCLK1, INTS10, MTSS1, ORC3, EXT2",29.45,elevated
+84.0-86.0 kDa,84.0,86.0,150,2,3,8,AKT pathway; Actin family; Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; JAK-STAT; Mitochondrial markers; NF-kB/Rel,"HSP90AA1, TFRC","PIK3R6, RBM28, STAT4","SOX5, SLC30A5, SLC7A14, MAP7, PIGQ, RIN1, HMMR, NIBAN2, ADAM10, PCSK1, MFN1, ARMH4, POMT2, PIK3R6, ARHGAP24, SNRK, FCHSD2, FOXM1",28.0,elevated
+86.0-88.0 kDa,86.0,88.0,183,0,4,7,Actin family; Cell-cycle CDK/cyclin; JAK-STAT; MAPK cascade; Mitochondrial markers; NF-kB/Rel; Tubulin family,,"CCNF, MAPK8IP2, PRKG2, STAT1","HCN3, VPS51, DGCR8, LRCH3, SMURF1, STRN, MTMR12, SEC23A, MAGED1, PDZD4, ZNF184, HGS, SMURF2, DCST2, ZNF700, IL17RC, ZNF711, PCSK7",20.4,elevated
+88.0-90.0 kDa,88.0,90.0,149,0,4,6,Actin family; JAK-STAT; MAPK cascade; Mitochondrial markers; NF-kB/Rel; p53 pathway,,"MAPK7, RBSN, STAT3, STAT5B","ACAP2, IFT80, , ITGB5, BRD2, LARGE1, ZNF585B, STAT3 [JAK-STAT], CDH18, CTAGE8, UNK, MFSD6, PTPN12, BRAT1, CMTR2, HECTD2, LENG8, ZER1",17.95,elevated
+90.0-92.0 kDa,90.0,92.0,136,0,10,6,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; JAK-STAT; MAPK cascade; Nuclear receptor PPAR,,"BCL11A, CDK11A, MAP3K20, PIK3AP1, PPARGC1A, RASA4, RASA4B, RASAL1, RASGRP1, STAT5A","TMPRSS6, ARHGEF7, RASAL1, WDR27, TMC6, RRM1, RSBN1, CATSPER1, KIFC2, DACT1, ADAMTS4, SUSD2, LRRC8E, CAGE1, SART1, ZNF616, TLR1, DLG3",26.3,elevated
+92.0-94.0 kDa,92.0,94.0,140,0,6,6,Cell-cycle CDK/cyclin; Heat shock proteins; Histone family; MAPK cascade; Mitochondrial markers; Tubulin family,,"CDK11B, HIF1A, MAP3K11, MAP3K12, RBM5, TGFBR3","NLGN4Y, FGFR2, AVIL, ZNF227, SORT1, KDM1B [Histone family], ANAPC4, TMEM63A, RBM5, CSF3R, CNGB3, FAM171B, ANKS6, ELAC2, CDH17, ARHGAP26, DDX20, CDC5L",20.5,elevated
+94.0-96.0 kDa,94.0,96.0,126,1,4,5,Actin family; Apoptosis caspase/BCL; Heat shock proteins; JAK-STAT; MAPK cascade,EEF2,"BCL11B, JAKMIP2, RASA3, STAT6","ANKRD20A1, , ANKRD20A2P, DDX31, COG3, EXO1, USP6NL, ANKRD20A3P, ZNF160, ZNF43, TMTC2, SLC39A10, STAT6 [JAK-STAT], TPCN1, ANKRD20A4P, E2F8, TTC7B, LRRC8A",21.05,elevated
+96.0-98.0 kDa,96.0,98.0,139,0,8,5,Actin family; Heat shock proteins; JAK-STAT; Mitochondrial markers; NF-kB/Rel,,"NFKB2, PIK3R5, PRKD2, RASA2, RBM12, RBM15B, STAT2, TGFBRAP1","GRIPAP1, PDCD6IP [Actin family], VWA7, VLDLR, SLC12A9, IL17RA, AHR, SEMA4D, TTC7A, ARHGAP12, NOM1, SPICE1, DCAF6, DDX24, PARP9, NLGN1, PTCHD4, ATP6V0A4",22.7,elevated
+98.0-100.0 kDa,98.0,100.0,109,0,1,5,Actin family; Histone family; JAK-STAT; Mitochondrial markers; p53 pathway,,JAKMIP3,"LRRD1, DNM2, ATP6V0A2, ZHX1, MOCOS, SFMBT1, PDE4A, SKIDA1, SLC4A11, MCM10, LRRC8D, ZNF484, SP140, DPP9, TRPV4, TTC16, VAV1, PDE6B",10.7,elevated
+100.0-102.0 kDa,100.0,102.0,141,0,5,4,Actin family; MAPK cascade; Mitochondrial markers; Tubulin family,,"PIK3C3, PRKD1, PRKD3, RBBP8, RBM25","XAB2, ESYT3, ZCCHC14, CIZ1 [Actin family], CTNNA1, ENPP3, NFATC2, RIN2, C2orf78, ZNF473, RBM25, PSMD2, CLCA1, SF3B2, ERMP1, KIF20A, CDH4, CHSY3",17.55,elevated
+102.0-104.0 kDa,102.0,104.0,127,0,3,7,Actin family; Apoptosis caspase/BCL; Histone family; MAPK cascade; Mitochondrial markers; Nuclear receptor PPAR; Tubulin family,,"MAP3K10, RASIP1, RBM10","USP20, CCDC178, ZZZ3, CHRD, SLFN13, PCDHA5, PCDHA2, AFTPH, TCAF1, AASS [Mitochondrial markers], CRACDL, KSR1, KCNQ5, CIP2A, MTBP, PRRT3, GRM7, KIF18A",16.1,elevated
+104.0-106.0 kDa,104.0,106.0,118,0,2,5,Actin family; Lamin family; MAPK cascade; Mitochondrial markers; NF-kB/Rel,,"MAP3K14, NFKB1","TMTC3, GRIK3, NPIPB12 [Actin family], MAP3K14 [MAPK cascade], USP26, PEX6, CC2D1A, EXOC2, ADGRD2, GOLGA6L25, ANKLE2, , USP29, AGBL2, THBS3, TNPO3, OCRL, ROR1",12.65,elevated
+106.0-108.0 kDa,106.0,108.0,102,0,5,4,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Mitochondrial markers,,"BCLAF1, CDKL5, RB1, RBM15, RBM19","DDX12P, TRAK1, DLGAP3, GTF2IRD1, CLSTN3, WDR3, BCLAF1 [Apoptosis caspase/BCL], RB1, NCOA7, PHC3, ANO6, GALNT5, CCDC14, OSBPL6, TRPC6, MORC4, NUP107, ZC3H18",15.6,elevated
+108.0-110.0 kDa,108.0,110.0,92,0,1,4,Actin family; Cell-cycle CDK/cyclin; Lamin family; MAPK cascade,,MAP3K13,"DLGAP4, MAML1, HERVK_113, ERVK-19, EPHA1, ESPNL, CTNND1, INTS4, PIGG [Lamin family], CCDC80, IPO13, EIF4ENIF1, SLC4A9, KIF28P, EPHA2, EPHB4, MAP3K13 [MAPK cascade], DDX11",9.1,elevated
+110.0-112.0 kDa,110.0,112.0,86,0,1,3,Actin family; Histone family; Mitochondrial markers,,RASAL3,"ICE2, RAI14, KIF23, TMEM132A, TAF4, EFCAB13, EPHA3, MIB1, ZSWIM4, USP37, SNX14, VPS18, MERTK, ATP2A1, FNBP4, MED24, SAP130 [Histone family], EPHB3",8.05,elevated
+112.0-114.0 kDa,112.0,114.0,93,1,3,5,Actin family; Apoptosis caspase/BCL; MAPK cascade; Mitochondrial markers; Nuclear receptor PPAR,ATP1A1,"MAP3K21, PPARGC1B, RBM26","PKN2, MLLT6, EPHA7, TRPC4, GRID1, STK10, SIPA1, SNX13, MAP1S, SYNE3, SALL4, KANSL1L, ATP1A2, NAA25, TOP3A, GTF2I, USP15, SEPTIN4",17.9,elevated
+114.0-116.0 kDa,114.0,116.0,71,0,1,3,Actin family; Apoptosis caspase/BCL; Mitochondrial markers,,RBMXL3,"TMPRSS9, PPFIBP1, ANO1, ATP4A, ATP1A4, SYCP1, PUM2, FAN1, NCAPG, SEMA6A, OGDHL [Mitochondrial markers], ITGA9, UBAP2L, ITGA5, TNK2, GIGYF1 [Actin family], ANO3, NLRC3",7.3,elevated
+116.0-118.0 kDa,116.0,118.0,88,0,2,4,Actin family; Apoptosis caspase/BCL; Histone family; Mitochondrial markers,,"RASA1, RBM44","AGBL3, GARRE1, RIMBP2, PSD3, ITGAV, TAOK1, PCDH7, TMEM132E, NLRC4, KL, MYO1D, HIP1 [Actin family], DGKI, PSD4, ADGRF3, EPHA6, DCLRE1A, RASA1",10.4,elevated
+118.0-120.0 kDa,118.0,120.0,73,0,3,7,AKT pathway; Actin family; Histone family; Lamin family; Mitochondrial markers; Tubulin family; p53 pathway,,"PIK3CD, RBM12B, RBM27","AXDND1, FRMD4B, INTS3, AMOT, RBM12B, MRTFB, NLRP3, ANKRD18B, U2SURP, TUBGCP5 [Tubulin family], SEC24C, PTK7, MYO1A, VARS2 [Mitochondrial markers], RIPOR2 [Actin family], HERC4, TSHZ3, ARHGAP30",13.4,elevated
+120.0-122.0 kDa,120.0,122.0,72,0,2,4,Actin family; Histone family; MAPK cascade; p53 pathway,,"MAP3K9, RBL1","GEMIN4, GUCY2D, LATS2, NLRP12, SUGP2, STK11IP [Actin family], LUZP1, ADCY7, NUTM1, DNA2, USPL1, NLRP2, RAPGEF1, FAM120C, SEMA5A, SLC12A4, KDM4A, CASR",9.6,elevated
+122.0-124.0 kDa,122.0,124.0,71,1,1,2,AKT pathway; Actin family,VCL,PIK3CB,"ANKIB1, TTI1 [Actin family], PALM2AKAP2, MUC1, FNIP2 [Actin family], TRHDE, CEP131, MEGF10, USP25, CP, ZNF658, MAML3, DSG2, TMEM132D, MYT1, BNC2, PTPRH, BUB1 [AKT pathway]",11.55,elevated
+124.0-126.0 kDa,124.0,126.0,70,0,3,3,Actin family; JAK-STAT; p53 pathway,,"JAK3, PIK3CA, TP53BP2","AMER1, C6orf132, OTUD4, ZEB1, SORBS2, HELQ, CCDC73, PLD1, ANKRD24, TBC1D31, ANLN, SRGAP1, PIK3CA, ZNF516, RET, PDE3B, UPF1, RANBP17",10.25,elevated
+126.0-128.0 kDa,126.0,128.0,61,0,2,1,Actin family,,"PIK3CG, SRCIN1","ALG13, SENP6, PCDH18, SLC12A5, PCDH17, PCDH19, SLC4A5, CILP2, SMC6, BTBD7, PIK3CG, NPIPB5 [Actin family], PUM1, DENND2B, FHOD1, FBLN2, IGSF9, KIAA1614",6.8,elevated
+128.0-130.0 kDa,128.0,130.0,70,0,4,3,Actin family; Lamin family; Mitochondrial markers,,"RASAL2, RBL2, RBM33, RBM6","CEP128, MYBPC2, ERC1 [Actin family], MCF2L, DHX34, SORCS2, NCKAP1L, ZFPM2, POLR1B, RFC1, MYH16, MYBPC1, USP7, ABL2, RBL2, ANKFY1, INPP5F, TRAPPC9",11.75,elevated
+130.0-132.0 kDa,130.0,132.0,57,0,1,3,Actin family; JAK-STAT; Lamin family,,JAK2,"SPOCD1, CCDC40, PRDM10, XPO4, AP3D1, ITGAE, STYXL2 [Actin family], PPP2R3A, ZBED4, FILIP1L [Actin family; Lamin family], HEPH, KCNT2, SPATA31C1, MAN2A2, PTCH2, FNIP1 [Actin family], ADCY6, ZSWIM5",6.6,elevated
+132.0-134.0 kDa,132.0,134.0,73,0,1,5,Actin family; Apoptosis caspase/BCL; Histone family; JAK-STAT; Tubulin family,,JAK1,"TDRD1, TRERF1, GRID2IP, DNAAF9, RIPOR1 [Actin family], RGS3, GRM1, EHMT2 [Histone family], ARID5B, GRM5, LEPR, PARD3B, CILP, TDRD12, TBCD [Tubulin family], ARHGAP20, CTNND2, NRDE2",8.9,elevated
+134.0-136.0 kDa,134.0,136.0,65,0,3,1,NF-kB/Rel,,"RBM20, RBP3, RELCH","VWA3A, PLCB2, CCDC136, CDAN1, NOMO3, ATP11B, ATP2B3, GRIN2C, IGDCC4, ZBTB38, RBM20, CRB2, EGFR, WASHC5, TRPM4, VCPIP1, NOMO1, NLRP5",8.5,elevated
+136.0-138.0 kDa,136.0,138.0,46,0,0,2,Actin family; Tubulin family,,,"MN1, ANO8, SLC4A7, PCDH9, ADAR, GSE1, ADAMTS16, PER1, XPO5, CAND1, NID1, ATF7IP [Actin family], WASHC4, ZEB2, PER2, WWC3, SASH1, WDR11",3.8,routine
+138.0-140.0 kDa,138.0,140.0,49,0,0,5,Actin family; Histone family; Lamin family; Mitochondrial markers; NF-kB/Rel,,,"ATP13A3, ANKS1B, FILIP1 [Actin family; Lamin family], MMRN1, ZBTB40, MECOM [Histone family], REV1, TAOK2, KCNT1, PTPRO, COPA, TPP2, ITPRID2, PHKA2, AGTPBP1, EDRF1, COL3A1, PLCB1",6.2,routine
+140.0-142.0 kDa,140.0,142.0,51,0,1,2,Actin family; Histone family,,RASGRF2,"L1CAM, EHBP1, KIF4B, ADCY8, USP40, PRDM16 [Histone family], ZC3H4, ATXN2, ARHGEF10L, SALL1, PPIP5K2, CNTNAP3B [Actin family], VARS1, DHX38, SCAF8, TBC1D9B, MTR, SYNRG",5.55,routine
+142.0-144.0 kDa,142.0,144.0,40,0,1,4,Cell-cycle CDK/cyclin; Histone family; MAPK cascade; Tubulin family,,MAP3K6,"TNKS, ARHGAP29, MAP4K4 [MAPK cascade], PHLDB2, NPC1, TRAPPC10, CACHD1, MMS22L, ULK4, AMBRA1, SORBS1, MAP3K6 [MAPK cascade], ADGRA2, SLK, TTBK1 [Tubulin family], ARID4A, BCR, NEK1",6.5,elevated
+144.0-146.0 kDa,144.0,146.0,39,0,1,1,Actin family,,RASGRF1,"TNN, RTL9, FRMPD2, UMODL1, FRMPD4, STAG1, IARS1, AATK, ZNF423, PFAS, SGO2, FLII, TBC1D32, AFF2, SH3TC2, SIK3, ZNF335, COL5A2",4.2,routine
+146.0-148.0 kDa,146.0,148.0,41,0,2,2,Actin family; MAPK cascade,,"MAP3K15, MAPK8IP3","UBN2, ADGRA3, UBE4B, SPAG9 [Actin family], ABCB11, XDH, TBC1D4, USP31, CLUH, RPGRIP1 [Actin family], PHLPP2, ATP8B3, PCDH11Y, ERBB4, SH3TC1, IGSF9B, DENND5A, WASHC2C",6.55,elevated
+148.0-150.0 kDa,148.0,150.0,40,0,1,3,Actin family; Apoptosis caspase/BCL; Histone family,,BCL9,"ZMYM6, SPATA31F1, ERBB3, CNTNAP2 [Actin family], ROBO3, ASTN2 [Actin family], SYNGAP1, JCAD, CYFIP2 [Actin family], RNF123, PLCG1, SPATA31A1, SPATA31A5, SPATA31A3, NPC1L1, SPATA31A7, MYBBP1A, PITPNM2",5.75,routine
+150.0-152.0 kDa,150.0,152.0,41,0,1,2,Actin family; MAPK cascade,,MAP3K19,"NFASC, GIGYF2 [Actin family], MTUS2, CARMIL3, ELP1, SBNO2, COL17A1, IBTK, MAP3K19 [MAPK cascade], PALLD, KIF7, ADCY9, FLT1, YEATS2, PDS5A, NPHP3, TONSL, TTC21B",5.05,routine
+152.0-154.0 kDa,152.0,154.0,34,0,1,2,Actin family; Histone family,,PIK3R4,"DISP2, KIF16B, TCOF1, SNED1, BRD4, MST1R, NSD2 [Histone family], ABCC12, ZMYM3, RRBP1, SOS1, ZNF804B, TNS2, KDM2B, ATRNL1 [Actin family], RPAP1, FLT4, MSH6",4.7,routine
+154.0-156.0 kDa,154.0,156.0,30,0,1,2,Actin family; MAPK cascade,,MAP3K5,"KDM6A, CRB1, NPAT, ABCC11, SBNO1, CEMIP2, MAP3K5 [MAPK cascade], PLCH2, CARMIL2, KIAA0232, IGF1R, PRX, ZMYM2, TNIK [Actin family], RTL1, AKNA, NUP155, DHX29",4.5,routine
+156.0-158.0 kDa,156.0,158.0,25,0,2,5,Actin family; Apoptosis caspase/BCL; Cell-cycle CDK/cyclin; Histone family; Mitochondrial markers,,"BCL9L, CCNB3","RPRD2, CNTNAP1 [Actin family], KTN1, INSR, NINL, RGS12, ZFYVE9, MED23, CEFIP [Actin family], NCOA1, GPRASP1, ARHGAP31, BCL9L [Apoptosis caspase/BCL], SPATA31E1, NCAPD2, ATP7B, USP47, RFX7",8.0,elevated
+158.0-160.0 kDa,158.0,160.0,25,0,1,2,Actin family; Cell-cycle CDK/cyclin,,ROCK1,"ANKRD30B, ROCK1, SSH2, SCAPER [Cell-cycle CDK/cyclin], ERBIN, DCC, BICRA [Actin family], ATRN [Actin family], ATAD2, FHOD3, USP6, MAGI2, ANKRD30A, BLM, NCOA2, CD163L1, RIC1, DROSHA",4.25,routine
+160.0-162.0 kDa,160.0,162.0,37,0,1,1,Histone family,,ROCK2,"NEO1, DAPK1, KIF15, YTHDC2, ATP10D, KIF27, RIMS2, SMG6, C1orf167, PTCH1, MED14, COL4A1, ABCC5, FGD6, CPSF1, ROCK2, NOS1, TRAPPC8",4.1,routine
+162.0-164.0 kDa,162.0,164.0,33,0,1,1,MAPK cascade,,MAPKBP1,"PTPRG, ANKAR, PTPRK, NUP160, PTPRT, MYOM3, ARAP1, ARHGAP23, ZNF608, CLIP1, PTPRU, WRN, EEA1, UACA, HFM1, ADGRL1, RAD54L2, FANCA",3.9,routine
+164.0-166.0 kDa,164.0,166.0,39,0,3,4,Cell-cycle CDK/cyclin; Histone family; MAPK cascade; Mitochondrial markers,,"CDK12, CDK13, MAP3K1","COL4A4, LOC107987545, FANCD2, CDK12 [Cell-cycle CDK/cyclin], CUX1, GPATCH8, BLTP3B, CECR2, CEP164, MAP3K1 [MAPK cascade], MAGI1, SCAF11, ARHGEF40, PDS5B, CCDC88B, DOT1L [Histone family], SHROOM4, MYOM2",9.45,elevated
+166.0-168.0 kDa,166.0,168.0,25,0,0,0,,,,"MRC1, GRIN2B, FAM193A, EIF3A, NISCH, MRC2, ZNF518A, CC2D2B, RALGAPB, NEURL4, LRRC9, KCP, FYCO1, C4orf50, GOLGA3, RAPGEF2, NEXMIF, COL4A2",1.25,routine
+168.0-170.0 kDa,168.0,170.0,21,0,0,0,,,,"CAMSAP2, CFTR, PLEKHH2, AHDC1, ERCC6, ERICH3, MED1, GEMIN5, PLA2R1, NCAPD3, ZFYVE16, CCDC18, TULP4, DCAF1, KIAA0586, ABCC3, CLASP1, FAM135A",1.05,routine
+170.0-172.0 kDa,170.0,172.0,21,0,1,3,AKT pathway; Actin family; Lamin family,,PIK3C2G,"DIP2A [Actin family], ARHGAP35, URB2, EPRS1, DLC1, NHSL1, MAST1, TOPBP1, PIK3C2G, DIP2C [Actin family], BAZ1B [AKT pathway], DISP1, TRPM2, LAMC3 [Lamin family], TUT7, AQR, DIP2B [Actin family], ADGRB3",4.8,routine
+172.0-174.0 kDa,172.0,174.0,16,0,0,0,,,,"COL5A3, RERE, CDC42BPG, ARHGAP5, ADGRB2, ZMYM4, SYNM, EFCAB6, PCF11, SYNJ1, ARHGEF12, EFCAB5, LTBP4, FRMPD1, MUC22, ADGRB1",0.8,routine
+174.0-176.0 kDa,174.0,176.0,21,0,0,0,,,,"KDM5D, ABCC2, ABCC9, TOP2A, NWD1, UGGT2, AGL, SETBP1, CCDC141, CEP170, DUOX2, SKIC3, EIF4G1, COL24A1, SPATA31D1, SYCP2, KDM5B, KDM5C",1.05,routine
+176.0-178.0 kDa,176.0,178.0,22,0,0,2,Lamin family; Nuclear receptor PPAR,,,"SHROOM2, ALK, KDM6B, EIF4G3, INO80, VWDE, ARHGEF5, ABCC8, ERCC6L2, LRRC7, UGGT1, DUOX1, DNMBP, NES, TIAM1, PPRC1 [Nuclear receptor PPAR], LAMC1 [Lamin family], ADAMTS12",2.6,routine
+178.0-180.0 kDa,178.0,180.0,14,0,0,1,Actin family,,,"COL18A1, PLEKHG4B, NRK, CFAP74, PHRF1, WIZ, BAZ1A, PTPN23, NHS [Actin family], LRP5, THSD7B, TMEM131L, RAPGEF6, HECW1",1.45,routine
+180.0-182.0 kDa,180.0,182.0,27,0,1,2,Actin family; MAPK cascade,,MAP3K4,"FMN2, WDR97, LRP6, IQGAP2, NRXN3, LRRC37A3, ALPK3, UNC13B, RIMBP3, MROH2B, QRICH2, PEG3, KATNIP [Actin family], ROBO1, RIMBP3C, RIMBP3B, PAPPA, CTTNBP2 [Actin family]",4.35,routine
+182.0-184.0 kDa,182.0,184.0,14,0,1,0,,,RB1CC1,"TRPM1, PREX2, SIGLEC1, KIF21B, THOC2, RB1CC1, DNMT1, TOP2B, MADD, COL5A1, ALS2, CAMTA1, ABCA8, MTCL2",2.2,routine
+184.0-186.0 kDa,184.0,186.0,14,0,1,1,Actin family,,PIK3C2B,"ADAMTS7, SAMD9, ABCA6, ABCA9, SAMD9L, RNF17, SMARCA4 [Actin family], PHLPP1, IQGAP3, PIK3C2B, NRXN2, TUT4, THSD7A, CROCC2",2.95,routine
+186.0-188.0 kDa,186.0,188.0,19,0,0,1,Histone family,,,"SETD1A [Histone family], CC2D2A, PREX1, MYO3A, SPHKAP, KIF14, ABCA5, LTBP1, COL27A1, EIF2AK4, KIAA1210, CLTCL1, C3, ADCY10, KIF21A, USP54, WDR90, MYOM1",1.7,routine
+188.0-190.0 kDa,188.0,190.0,13,0,0,0,,,,"LRRC37A, C5, LRRC37A2, ADAMTSL3, PRDM2, TASOR, RIMS1, PLCH1, IQGAP1, TOGARAM1, MROH2A, ADGB, QSER1",0.65,routine
+190.0-192.0 kDa,190.0,192.0,19,0,1,0,,,PIK3C2A,"CASZ1, C4orf54, TIAM2, NBPF26, MON2, SIPA1L2, BCORL1, PIK3C2A, TOPAZ1, KIF1A, CUL7, SHANK3, ABCA3, KNDC1, AKAP12, KDM3B, CLTC, ARHGEF28",2.45,routine
+192.0-194.0 kDa,192.0,194.0,21,0,0,1,Lamin family,,,"KDM5A, BCOR, RICTOR, STRCP1, PARP4, LMO7, C4B, C4A, MARF1, PBRM1, STRC, UNC13A, SHPRH, PEAK1, ADAMTSL1, ARAP2, ITSN2, SCN7A",1.8,routine
+194.0-196.0 kDa,194.0,196.0,19,0,0,1,Lamin family,,,"TNRC6B, XRN1, CDC42BPB, KIF26A, SIPA1L3, POLR1A, RESF1, LTBP2, ITSN1, TJP1, LOC124905564, LOC102724250, CEP152, FRMPD3, DLEC1, LOC124905558, PKD1L3, GCC2",1.7,routine
+196.0-198.0 kDa,196.0,198.0,24,0,0,1,Actin family,,,"NUP188, PATJ, ANKRD26, MAST2, KIDINS220 [Actin family], ZC3H13, RGPD1, CHD1, KIAA1671, TNS1, NRAP, RGPD4, ZSWIM8, CDC42BPA, RGPD2, CCDC180, ARID2, NWD2",1.95,routine
+198.0-200.0 kDa,198.0,200.0,14,0,0,2,Actin family; Lamin family,,,"LAMB1 [Lamin family], LY75, WNK3, PAPPA2, XIRP1 [Actin family], N4BP2, RGPD5, RGPD8, KIAA1549L, BTBD8, SUPT6H, LRRIQ1, MAP2, ANKRD36C",2.2,routine
+200.0-202.0 kDa,200.0,202.0,15,0,1,1,Tubulin family,,RBBP6,"SLX4, SIPA1L1, TSPOAP1, FOCAD, UBR1, NALCN, TUBGCP6 [Tubulin family], UBR2, LTN1, DCDC1, TSC2, ZNF646, SHANK2, RBBP6, TNRC6C",3.0,routine
+202.0-204.0 kDa,202.0,204.0,13,0,0,1,Lamin family,,,"VIRMA, ARFGEF2, ITGB4, TANC1, KIF13A, NAV1, LAMA4 [Lamin family], KIF13B, PARP14, MYO5C, RAI1, BRWD3, ZNF236",1.4,routine
+204.0-206.0 kDa,204.0,206.0,11,0,0,2,Histone family; p53 pathway,,,"ECPAS, KIF1B, NLRC5, PPL, SCN11A, KMT2E [Histone family], NUP210 [p53 pathway], PLXNB2, TMEM131, NACA, FNDC1",2.05,routine
+206.0-208.0 kDa,206.0,208.0,14,0,0,1,Actin family,,,"MYO16, ANK1, GBF1, PHIP [Actin family], CPAMD8, AFDN, PLXNB3, BTAF1, PCSK5, OBSL1, TAF1L, ATAD5, PLXNA3, BRCA1",1.45,routine
+208.0-210.0 kDa,208.0,210.0,16,0,0,0,,,,"SCN4A, NYNRIN, SBF1, SBF2, NCKAP5, PDCD11, HCFC1, ARFGEF1, ZNF106, CATSPERT, DENND4A, FER1L6, SI, MTCL1, NOTCH4, SPEF2",0.8,routine
+210.0-212.0 kDa,210.0,212.0,18,0,0,1,p53 pathway,,,"TNRC6A, AKAP11, NUP210L [p53 pathway], KIF20B, MYLK, KIAA1549, RALGAPA2, ANKRD31, TICRR, PRR12, PLXNA1, PLXNA2, BAZ2A, PSME4, CHD2, WDR81, TCF20, DOCK2",1.65,routine
+212.0-214.0 kDa,212.0,214.0,16,0,1,2,Histone family; p53 pathway,,TP53BP1,"PLXND1, LRP4, CACNA1S, UBR3, PLXNA4, TRPM7, DENND4C, SETD1B [Histone family], ATG2A, PTPRF, TP53BP1 [p53 pathway], NUP214 [p53 pathway], MYO5B, MIA3, CFAP44, DLG5",3.8,routine
+214.0-216.0 kDa,214.0,216.0,11,0,1,1,Cell-cycle CDK/cyclin,,CDK5RAP2,"KIAA1217, GREB1L, ANKRD36, TAF1, ADAMTS20, PTPRD, VWA8, CDK5RAP2 [Cell-cycle CDK/cyclin], DOCK5, DOCK1, MYO5A",2.8,routine
+216.0-218.0 kDa,216.0,218.0,14,0,0,1,p53 pathway,,,"CCDC88A, PCDH15, GREB1, ADAMTS9, ANAPC1, SHROOM3, PTPRS, POLR2A, CFAP65, AGRN, ARHGAP21 [p53 pathway], PWWP4, EML6, RLF",1.45,routine
+218.0-220.0 kDa,218.0,220.0,10,0,0,1,Actin family,,,"CHD4, MCM3AP, LCT, DICER1, HELZ, MICAL2 [Actin family], NCOA6, EML5, THADA, TANC2",1.25,routine
+220.0-222.0 kDa,220.0,222.0,8,0,0,0,,,,"ZNFX1, ZNF638, SCN10A, CACNA1F, AK9, MPDZ, ARHGEF17, TDRD15",0.4,routine
+222.0-224.0 kDa,222.0,224.0,18,0,1,1,Apoptosis caspase/BCL,,CASP8AP2,"HEATR5A, PCNX3, MYH15, DSCAM, EXPH5, CASP8AP2 [Apoptosis caspase/BCL], MYH8, MYH2, CHD5, MYH4, MYH7, MYH1, MYH13, CR1, MYH6, TET2, KIF26B, MYH3",3.15,routine
+224.0-226.0 kDa,224.0,226.0,12,0,0,2,Actin family; Histone family,,,"MICAL3 [Actin family], PTPRB, HEATR5B, SPATA31H1, DSCAML1, SHANK1, KAT6A [Histone family], DOCK4, SCN8A, LRRK1, CKAP5, MYH7B",2.1,routine
+226.0-228.0 kDa,226.0,228.0,15,0,0,1,Actin family,,,"SCN3A, ZFC3H1, SCN9A, SMCHD1, MYH9, LPA, CHD3, MDC1, OTOF, SCN5A, MYH11, TRIP11 [Actin family], MYH14, NUP205, SCN2A",1.5,routine
+228.0-230.0 kDa,228.0,230.0,12,0,0,0,,,,"BRD10, CCDC88C, CROCC, TRIP12, PCM1, PRRC2A, SCN1A, MYH10, PHF3, DOCK6, RALGAPA1, TTC3",0.6,routine
+230.0-232.0 kDa,230.0,232.0,6,0,0,2,Actin family; Histone family,,,"ARHGAP32, KAT6B [Histone family], CIT [Actin family], EVPL, TRPM6, CRYBG1",1.8,routine
+232.0-234.0 kDa,232.0,234.0,6,0,0,0,,,,"FANCM, PLXNB1, ATG2B, DOCK3, MYO18A, ESPL1",0.3,routine
+234.0-236.0 kDa,234.0,236.0,6,0,0,0,,,,"ABCA7, MYOF, TET1, ANKRD12, LOXHD1, ARMCX4",0.3,routine
+236.0-238.0 kDa,236.0,238.0,12,0,0,0,,,,"DOCK9, TDRD6, ZGRF1, PI4KA, ALPK2, PIKFYVE, PCNX2, DYSF, PRR14L, MYO10, DOCK11, FER1L5",0.6,routine
+238.0-240.0 kDa,238.0,240.0,7,0,0,0,,,,"FREM3, NUMA1, DOCK8, GTF3C1, MED13, SDK2, TECTA",0.35,routine
+240.0-242.0 kDa,240.0,242.0,10,0,0,0,,,,"MED12L, BAZ2B, ARFGEF3, RP1, TNC, MALRD1, MYO7B, YLPM1, USF3, ASXL3",0.5,routine
+242.0-244.0 kDa,242.0,244.0,15,0,0,0,,,,"ARID1A, SDK1, HEATR1, DOCK7, MED13L, WNK2, PRRC2B, CAD, MED12, NIN, MYO9B, NOTCH3, DIDO1, ARID1B, APC2",0.75,routine
+244.0-246.0 kDa,244.0,246.0,5,0,0,0,,,,"FREM1, INTS1, SNRNP200, CACNA1I, CACNA1D",0.25,routine
+246.0-248.0 kDa,246.0,248.0,6,0,0,0,,,,"CABIN1, SPTB, COL6A6, ZNF407, SVIL, ICE1",0.3,routine
+248.0-250.0 kDa,248.0,250.0,6,0,0,0,,,,"FLG2, SORL1, GON4L, RTTN, CACNA1C, DOCK10",0.3,routine
+250.0-252.0 kDa,250.0,252.0,9,0,0,0,,,,"CSPG4, KNTC1, WNK1, UNC13C, ZNF318, ASCC3, F5, SPAG17, SEC16A",0.45,routine
+252.0-254.0 kDa,252.0,254.0,4,0,0,0,,,,"RP1L1, AHCTF1, BLTP2, TCHH",0.2,routine
+254.0-256.0 kDa,254.0,256.0,8,0,0,0,,,,"ABCA1, URB1, MYO7A, DNAJC13, PTPRZ1, PKDREJ, NAV3, ABCA4",0.4,routine
+256.0-258.0 kDa,256.0,258.0,3,0,0,0,,,,"AKAP6, MUC6, GPR179",0.15,routine
+258.0-260.0 kDa,258.0,260.0,6,0,0,0,,,,"CIC, DOP1B, PCNX1, PLCE1, CACNA1H, HIVEP3",0.3,routine
+260.0-262.0 kDa,260.0,262.0,8,0,0,1,Actin family,,,"C2CD3, DMBT1, PTPRQ, GOLGA4, ACAN, TRIOBP [Actin family], POLE, CACNA1E",1.15,routine
+262.0-264.0 kDa,262.0,264.0,6,0,0,0,,,,"CACNA1G, CACNA1B, FAM186A, BRWD1, SON, ROS1",0.3,routine
+264.0-266.0 kDa,264.0,266.0,8,0,0,1,Histone family,,,"EP300 [Histone family], OTOGL, PDE4DIP, CREBBP, KNL1, NOTCH2, ACACA, ZDBF2",1.15,routine
+266.0-268.0 kDa,266.0,268.0,3,0,0,0,,,,"CNOT1, F8, TPR",0.15,routine
+268.0-270.0 kDa,268.0,270.0,8,0,0,0,,,,"NAV2, NBAS, TASOR2, CNTRL, HIVEP2, ANKHD1, TLN1, ABCA2",0.4,routine
+270.0-272.0 kDa,270.0,272.0,5,0,0,0,,,,"NCOR1, MAP1B, TTC28, SPTBN2, TLN2",0.25,routine
+272.0-274.0 kDa,272.0,274.0,6,0,0,0,,,,"FN1, NOTCH1, PKD1L2, FASN, PRPF8, NCOR2",0.3,routine
+274.0-276.0 kDa,274.0,276.0,6,0,0,0,,,,"ZFHX2, ANKRD17, IGF2R, RIF1, SPTBN1, STAB1",0.3,routine
+276.0-278.0 kDa,276.0,278.0,5,0,0,0,,,,"ACACB, PTPN13, STAB2, DOP1A, MGAM2",0.25,routine
+278.0-280.0 kDa,278.0,280.0,4,0,0,1,Lamin family,,,"FLNB [Lamin family], SPG11, GVINP1, CEP192",0.95,routine
+280.0-282.0 kDa,280.0,282.0,5,0,0,1,Lamin family,,,"SPTA1, BAHCC1, FLNA [Lamin family], CEP250, CUL9",1.0,routine
+282.0-284.0 kDa,282.0,284.0,3,0,0,0,,,,"HRNR, CACNA1A, ATRX",0.15,routine
+284.0-286.0 kDa,284.0,286.0,6,0,0,0,,,,"MAST4, JMJD1C, SPTAN1, ZFYVE26, ZNF462, MYO18B",0.3,routine
+286.0-288.0 kDa,286.0,288.0,3,0,0,1,Histone family,,,"LRRK2, PIEZO1, SETD2 [Histone family]",0.9,routine
+288.0-290.0 kDa,288.0,290.0,5,0,1,0,,,MTOR,"MTOR, SPTBN4, HECTD1, POLQ, COL6A5",1.75,routine
+290.0-292.0 kDa,290.0,292.0,7,0,0,1,Lamin family,,,"CEP290, USP9X, TEP1, CHD8, IGSF10, FLNC [Lamin family], USP9Y",1.1,routine
+292.0-294.0 kDa,292.0,294.0,6,0,0,1,Histone family,,,"EPG5, MYO9A, GCN1, ABCA12, KMT2B [Histone family], BDP1",1.05,routine
+294.0-296.0 kDa,294.0,296.0,4,0,0,0,,,,"USP24, CEP295, COL7A1, UNC79",0.2,routine
+296.0-298.0 kDa,296.0,298.0,3,0,0,1,Histone family,,,"NSD1 [Histone family], HIVEP1, ANKRD11",0.9,routine
+298.0-300.0 kDa,298.0,300.0,1,0,0,0,,,,SRRM2,0.05,routine
+300.0-302.0 kDa,300.0,302.0,4,0,0,0,,,,"FBN3, TENM3, ATR, PDZD2",0.2,routine
+302.0-304.0 kDa,302.0,304.0,4,0,0,0,,,,"NBEAL2, SETX, MEGF8, CFAP46",0.2,routine
+304.0-306.0 kDa,304.0,306.0,7,0,0,0,,,,"ITPR3, TG, ZNF292, TENM1, CHD6, MAP1A, ZAN",0.35,routine
+306.0-308.0 kDa,306.0,308.0,4,0,0,0,,,,"NBEAL1, AKAP13, TENM2, TENM4",0.2,routine
+308.0-310.0 kDa,308.0,310.0,4,0,0,0,,,,"ITPR2, VWF, UBR5, TACC2",0.2,routine
+310.0-312.0 kDa,310.0,312.0,1,0,0,0,,,,APC,0.05,routine
+312.0-314.0 kDa,312.0,314.0,4,0,0,0,,,,"MGAM, MXRA5, FBN1, ITPR1",0.2,routine
+314.0-316.0 kDa,314.0,316.0,5,0,0,0,,,,"TNRC18, FBN2, OTOG, TEX15, PKD1L1",0.25,routine
+316.0-318.0 kDa,316.0,318.0,4,0,0,0,,,,"NIPBL, CENPE, PRRC2C, CELSR2",0.2,routine
+318.0-320.0 kDa,318.0,320.0,4,0,0,0,,,,"PIEZO2, UTP20, LRBA, NF1",0.2,routine
+322.0-324.0 kDa,322.0,324.0,1,0,0,0,,,,HELZ2,0.05,routine
+326.0-328.0 kDa,326.0,328.0,2,0,0,0,,,,"CHD9, NBEA",0.1,routine
+328.0-330.0 kDa,328.0,330.0,1,0,0,0,,,,CELSR1,0.05,routine
+330.0-332.0 kDa,330.0,332.0,4,0,0,0,,,,"BOD1L1, CRYBG3, ZZEF1, DSP",0.2,routine
+332.0-334.0 kDa,332.0,334.0,4,0,0,1,Histone family,,,"ASH1L [Histone family], COL12A1, WDR87, ADGRG4",0.95,routine
+334.0-336.0 kDa,334.0,336.0,1,0,0,0,,,,CHD7,0.05,routine
+336.0-338.0 kDa,336.0,338.0,4,0,0,1,Lamin family,,,"MGA, TRANK1, LAMA1 [Lamin family], DMXL1",0.95,routine
+338.0-340.0 kDa,338.0,340.0,5,0,0,0,,,,"MYO15B, BPTF, FRY, FRYL, DMXL2",0.25,routine
+340.0-342.0 kDa,340.0,342.0,2,0,0,0,,,,"KALRN, PRUNE2",0.1,routine
+342.0-344.0 kDa,342.0,344.0,5,0,1,1,Lamin family,,SRCAP,"NBPF14, EP400, SRCAP, COL6A3, LAMA2 [Lamin family]",2.5,routine
+344.0-346.0 kDa,344.0,346.0,1,0,0,0,,,,MUC3A,0.05,routine
+346.0-348.0 kDa,346.0,348.0,3,0,0,0,,,,"DCHS1, TRIO, HTT",0.15,routine
+350.0-352.0 kDa,350.0,352.0,5,0,0,0,,,,"ATM, EYS, CEP350, FREM2, CFAP54",0.25,routine
+352.0-354.0 kDa,352.0,354.0,2,0,0,0,,,,"REV3L, WDFY4",0.1,routine
+354.0-356.0 kDa,354.0,356.0,1,0,0,0,,,,SPEG,0.05,routine
+356.0-358.0 kDa,356.0,358.0,2,0,0,0,,,,"DNAH12, CENPF",0.1,routine
+358.0-360.0 kDa,358.0,360.0,3,0,0,0,,,,"CELSR3, RANBP2, MKI67",0.15,routine
+360.0-362.0 kDa,360.0,362.0,3,0,0,0,,,,"VPS13A, CFAP47, CPLANE1",0.15,routine
+362.0-364.0 kDa,362.0,364.0,2,0,0,0,,,,"APOLTP, UNC80",0.1,routine
+366.0-368.0 kDa,366.0,368.0,1,0,0,1,Lamin family,,,LAMA3 [Lamin family],0.8,routine
+368.0-370.0 kDa,368.0,370.0,1,0,0,0,,,,CDH23,0.05,routine
+370.0-372.0 kDa,370.0,372.0,1,0,0,0,,,,DCHS2,0.05,routine
+372.0-374.0 kDa,372.0,374.0,1,0,0,0,,,,VCAN,0.05,routine
+376.0-378.0 kDa,376.0,378.0,1,0,0,0,,,,GOLGB1,0.05,routine
+378.0-380.0 kDa,378.0,380.0,2,0,0,0,,,,"SZT2, PCNT",0.1,routine
+380.0-382.0 kDa,380.0,382.0,1,0,0,0,,,,CSMD2,0.05,routine
+382.0-384.0 kDa,382.0,384.0,1,0,0,1,Actin family,,,XIRP2 [Actin family],0.8,routine
+384.0-386.0 kDa,384.0,386.0,1,0,0,0,,,,BRCA2,0.05,routine
+388.0-390.0 kDa,388.0,390.0,2,0,1,1,NF-kB/Rel,,RELN,"RELN [NF-kB/Rel], CSMD1",2.35,routine
+390.0-392.0 kDa,390.0,392.0,1,0,0,0,,,,SVEP1,0.05,routine
+392.0-394.0 kDa,392.0,394.0,1,0,0,0,,,,ZFHX4,0.05,routine
+394.0-396.0 kDa,394.0,396.0,3,0,0,0,,,,"UTRN, WDFY3, MYO15A",0.15,routine
+398.0-400.0 kDa,398.0,400.0,3,0,0,1,Lamin family,,,"CUBN, LAMA5 [Lamin family], DNAH14",0.9,routine
+402.0-404.0 kDa,402.0,404.0,1,0,0,1,Actin family,,,SPEN [Actin family],0.8,routine
+404.0-406.0 kDa,404.0,406.0,3,0,0,0,,,,"USP34, ZFHX3, CSMD3",0.15,routine
+408.0-410.0 kDa,408.0,410.0,1,0,0,0,,,,ASPM,0.05,routine
+410.0-412.0 kDa,410.0,412.0,1,0,0,0,,,,SMG1,0.05,routine
+412.0-414.0 kDa,412.0,414.0,1,0,0,0,,,,ZNF469,0.05,routine
+416.0-418.0 kDa,416.0,418.0,2,0,0,0,,,,"BSN, SPTBN5",0.1,routine
+422.0-424.0 kDa,422.0,424.0,1,0,0,0,,,,VPS13C,0.05,routine
+426.0-428.0 kDa,426.0,428.0,1,0,0,0,,,,DMD,0.05,routine
+428.0-430.0 kDa,428.0,430.0,1,0,0,0,,,,LYST,0.05,routine
+430.0-432.0 kDa,430.0,432.0,1,0,0,1,Histone family,,,KMT2A [Histone family],0.8,routine
+432.0-434.0 kDa,432.0,434.0,1,0,0,0,,,,ANK2,0.05,routine
+434.0-436.0 kDa,434.0,436.0,2,0,0,0,,,,"FLG, NBPF10",0.1,routine
+436.0-438.0 kDa,436.0,438.0,1,0,0,0,,,,TRRAP,0.05,routine
+438.0-440.0 kDa,438.0,440.0,1,0,0,0,,,,HECTD4,0.05,routine
+440.0-442.0 kDa,440.0,442.0,1,0,0,0,,,,NBPF19,0.05,routine
+442.0-444.0 kDa,442.0,444.0,1,0,0,0,,,,FRAS1,0.05,routine
+446.0-448.0 kDa,446.0,448.0,1,0,0,0,,,,PKHD1,0.05,routine
+448.0-450.0 kDa,448.0,450.0,2,0,0,0,,,,"VPS13B, CMYA5",0.1,routine
+450.0-452.0 kDa,450.0,452.0,1,0,0,0,,,,MUC17,0.05,routine
+452.0-454.0 kDa,452.0,454.0,1,0,0,0,,,,AKAP9,0.05,routine
+458.0-460.0 kDa,458.0,460.0,1,0,0,0,,,,TNXB,0.05,routine
+460.0-462.0 kDa,460.0,462.0,2,0,0,0,,,,"ALMS1, DNAH7",0.1,routine
+462.0-464.0 kDa,462.0,464.0,1,0,0,0,,,,PKD1,0.05,routine
+464.0-466.0 kDa,464.0,466.0,1,0,0,0,,,,PKHD1L1,0.05,routine
+468.0-470.0 kDa,468.0,470.0,2,0,1,1,Heat shock proteins,,PRKDC,"HSPG2 [Heat shock proteins], PRKDC",2.35,routine
+470.0-472.0 kDa,470.0,472.0,1,0,0,0,,,,DNAH3,0.05,routine
+474.0-476.0 kDa,474.0,476.0,1,0,0,0,,,,DNAH6,0.05,routine
+478.0-480.0 kDa,478.0,480.0,1,0,0,0,,,,FAT2,0.05,routine
+480.0-482.0 kDa,480.0,482.0,2,0,0,0,,,,"ANK3, HUWE1",0.1,routine
+486.0-488.0 kDa,486.0,488.0,1,0,0,0,,,,DNAH1,0.05,routine
+490.0-492.0 kDa,490.0,492.0,1,0,0,0,,,,VPS13D,0.05,routine
+492.0-494.0 kDa,492.0,494.0,1,0,0,0,,,,DYNC2H1,0.05,routine
+500.0-502.0 kDa,500.0,502.0,1,0,0,0,,,,FAT3,0.05,routine
+504.0-506.0 kDa,504.0,506.0,1,0,0,0,,,,LRP1,0.05,routine
+506.0-508.0 kDa,506.0,508.0,2,0,0,0,,,,"FAT1, DNAH2",0.1,routine
+508.0-510.0 kDa,508.0,510.0,1,0,0,0,,,,DNAH17,0.05,routine
+510.0-512.0 kDa,510.0,512.0,1,0,0,0,,,,DNAH9,0.05,routine
+512.0-514.0 kDa,512.0,514.0,1,0,0,0,,,,MYCBP2,0.05,routine
+514.0-516.0 kDa,514.0,516.0,4,0,0,0,,,,"DNAH8, DNAH10, LRP1B, APOB",0.2,routine
+516.0-518.0 kDa,516.0,518.0,1,0,0,0,,,,STARD9,0.05,routine
+520.0-522.0 kDa,520.0,522.0,3,0,0,0,,,,"DNAH11, SACS, LRP2",0.15,routine
+526.0-528.0 kDa,526.0,528.0,1,0,0,0,,,,HERC2,0.05,routine
+528.0-530.0 kDa,528.0,530.0,1,0,0,0,,,,DNAH5,0.05,routine
+530.0-532.0 kDa,530.0,532.0,2,0,0,0,,,,"BIRC6, PLEC",0.1,routine
+532.0-534.0 kDa,532.0,534.0,3,0,0,0,,,,"HERC1, DYNC1H1, DNHD1",0.15,routine
+540.0-542.0 kDa,540.0,542.0,1,0,0,1,Histone family,,,KMT2C [Histone family],0.8,routine
+542.0-544.0 kDa,542.0,544.0,2,0,0,0,,,,"MUC4, FAT4",0.1,routine
+544.0-546.0 kDa,544.0,546.0,1,0,0,0,,,,HMCN2,0.05,routine
+546.0-548.0 kDa,546.0,548.0,1,0,0,0,,,,SSPOP,0.05,routine
+550.0-552.0 kDa,550.0,552.0,1,0,0,0,,,,MUC2,0.05,routine
+552.0-554.0 kDa,552.0,554.0,1,0,0,0,,,,RYR3,0.05,routine
+554.0-556.0 kDa,554.0,556.0,2,0,0,0,,,,"BLTP1, EPPK1",0.1,routine
+558.0-560.0 kDa,558.0,560.0,1,0,0,0,,,,MUC12,0.05,routine
+560.0-562.0 kDa,560.0,562.0,1,0,0,0,,,,PCLO,0.05,routine
+564.0-566.0 kDa,564.0,566.0,2,0,0,0,,,,"RYR2, RYR1",0.1,routine
+572.0-574.0 kDa,572.0,574.0,2,0,0,0,,,,"FCGBP, UBR4",0.1,routine
+574.0-576.0 kDa,574.0,576.0,2,0,0,0,,,,"USH2A, HYDIN",0.1,routine
+576.0-578.0 kDa,576.0,578.0,1,0,0,0,,,,ABCA13,0.05,routine
+584.0-586.0 kDa,584.0,586.0,1,0,0,0,,,,MUC5AC,0.05,routine
+590.0-592.0 kDa,590.0,592.0,1,0,0,0,,,,RNF213,0.05,routine
+592.0-594.0 kDa,592.0,594.0,1,0,0,1,Histone family,,,KMT2D [Histone family],0.8,routine
+594.0-596.0 kDa,594.0,596.0,1,0,0,0,,,,NBPF20,0.05,routine
+596.0-598.0 kDa,596.0,598.0,1,0,0,0,,,,MUC5B,0.05,routine
+612.0-614.0 kDa,612.0,614.0,1,0,0,0,,,,HMCN1,0.05,routine
+616.0-618.0 kDa,616.0,618.0,1,0,0,0,,,,AHNAK2,0.05,routine
+628.0-630.0 kDa,628.0,630.0,1,0,0,0,,,,AHNAK,0.05,routine
+632.0-634.0 kDa,632.0,634.0,1,0,0,0,,,,MDN1,0.05,routine
+692.0-694.0 kDa,692.0,694.0,1,0,0,0,,,,ADGRV1,0.05,routine
+780.0-782.0 kDa,780.0,782.0,1,0,0,1,Actin family,,,FSIP2 [Actin family],0.8,routine
+796.0-798.0 kDa,796.0,798.0,1,0,0,0,,,,SYNE2,0.05,routine
+800.0-802.0 kDa,800.0,802.0,1,0,0,0,,,,LRTM3,0.05,routine
+804.0-806.0 kDa,804.0,806.0,1,0,0,0,,,,MUC19,0.05,routine
+838.0-840.0 kDa,838.0,840.0,1,0,0,1,Actin family,,,MACF1 [Actin family],0.8,routine
+860.0-862.0 kDa,860.0,862.0,1,0,0,0,,,,DST,0.05,routine
+868.0-870.0 kDa,868.0,870.0,1,0,0,0,,,,OBSCN,0.05,routine
+986.0-988.0 kDa,986.0,988.0,1,0,0,0,,,,NEB,0.05,routine
+1010.0-1012.0 kDa,1010.0,1012.0,1,0,0,0,,,,SYNE1,0.05,routine
+1396.0-1398.0 kDa,1396.0,1398.0,1,0,0,0,,,,MUC3B,0.05,routine
+1518.0-1520.0 kDa,1518.0,1520.0,1,0,0,0,,,,MUC16,0.05,routine
+3816.0-3818.0 kDa,3816.0,3818.0,1,0,0,0,,,,TTN,0.05,routine

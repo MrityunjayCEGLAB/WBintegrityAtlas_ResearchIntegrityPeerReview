@@ -1,0 +1,10 @@
+Reference full output
+=====================
+
+This folder demonstrates the final consolidated report layout using the full
+proteome_wb_integrity_atlas.csv, mw_bin_summary.csv, and
+reported_malpractice_bins.csv supplied with the update request.
+
+The production command-line workflow does not consume these CSVs. Run
+wb_integrity_atlas_full_report.py with the proteome FASTA and the species TSV
+configuration files. The script creates the CSVs, plots, and report internally.

@@ -1,0 +1,35 @@
+prefix	category	note
+AKT	PI3K-AKT signaling	AKT family and AKT-like symbols
+MAPK	MAPK signaling	MAP kinase family
+MAP2K	MAPK signaling	MAP kinase kinase family
+MAP3K	MAPK signaling	MAP kinase kinase kinase family
+JUN	AP-1 signaling	JUN/AP-1 family
+FOS	AP-1 signaling	FOS/AP-1 family
+STAT	JAK-STAT signaling	STAT family
+JAK	JAK-STAT signaling	JAK family
+MTOR	mTOR signaling	mTOR pathway
+NFKB	NF-kB signaling	NF-kB family symbols
+RELA	NF-kB signaling	p65/RelA
+REL	NF-kB signaling	Rel family
+BCL	apoptosis signaling	BCL2 family
+CASP	apoptosis signaling	caspase family
+CDK	cell-cycle signaling	cyclin-dependent kinases
+CCN	cell-cycle signaling	cyclins and CCN family
+FOXO	transcription/signaling	FOXO family
+SMAD	TGF-beta signaling	SMAD family
+PIK3	PI3K signaling	PI3K family
+PTEN	PI3K signaling	PTEN
+SRC	tyrosine kinase signaling	SRC family
+GSK	WNT/AKT signaling	GSK family
+HIF	hypoxia signaling	HIF family
+VEGF	angiogenesis signaling	VEGF family
+TGFB	TGF-beta signaling	TGF-beta ligands
+TP53	p53 signaling	TP53 family
+MDM	p53 signaling	MDM family
+RB	cell-cycle signaling	RB family
+RAF	MAPK signaling	RAF family
+RAS	RAS signaling	RAS family
+RHO	Rho-GTPase signaling	RHO family
+ROCK	Rho-GTPase signaling	ROCK family
+PRK	kinase signaling	protein kinase family prefix
+PPAR	nuclear receptor signaling	PPAR family

@@ -1,0 +1,37 @@
+gene_symbol	category	note
+Actb	cytosolic loading control	beta-actin; common total lysate loading control; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Gapdh	cytosolic loading control	glycolytic enzyme; common loading control; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tuba1a	cytoskeletal loading control	alpha-tubulin isoform; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tuba1b	cytoskeletal loading control	alpha-tubulin isoform; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tuba1c	cytoskeletal loading control	alpha-tubulin isoform; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tubb	cytoskeletal loading control	beta-tubulin; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tubb2a	cytoskeletal loading control	beta-tubulin isoform; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tubb2b	cytoskeletal loading control	beta-tubulin isoform; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tubb3	cytoskeletal loading control	neuron-enriched beta-tubulin; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Vcl	cytoskeletal/loading marker	vinculin; high-MW loading/control marker; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Hsp90aa1	chaperone/loading marker	HSP90 alpha; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Hsp90ab1	chaperone/loading marker	HSP90 beta; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Hspa8	chaperone/loading marker	constitutive HSC70; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Hspa1a	chaperone/stress marker	inducible HSP70; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Rplp0	ribosomal loading control	acidic ribosomal phosphoprotein P0; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Eef2	translation/loading marker	eukaryotic elongation factor 2; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Lmnb1	nuclear loading control	lamin B1; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Lmna	nuclear loading/control marker	lamin A/C; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+H3c1	nuclear/histone loading control	histone H3 cluster member; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+H3c2	nuclear/histone loading control	histone H3 cluster member; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+H2ac1	nuclear/histone loading control	histone H2A cluster member; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tbp	nuclear loading control	TATA-binding protein; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Pcna	nuclear/proliferation marker	PCNA; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Vdac1	mitochondrial loading control	outer mitochondrial membrane marker; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Vdac2	mitochondrial marker	outer mitochondrial membrane marker; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Cox4i1	mitochondrial loading control	cytochrome c oxidase subunit 4; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Atp5f1a	mitochondrial loading control	ATP synthase subunit alpha; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tomm20	mitochondrial loading control	TOM20; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Sdha	mitochondrial loading control	succinate dehydrogenase complex subunit A; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Canx	ER loading control	calnexin; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Calr	ER marker	calreticulin; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+P4hb	ER marker	protein disulfide-isomerase; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Atp1a1	plasma membrane marker	sodium/potassium ATPase alpha-1; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+Tfrc	membrane/endosomal marker	transferrin receptor; mouse ortholog-style symbol, edit if FASTA uses alternative GN
+H3f3a	nuclear/histone loading control	histone H3.3 alternative symbol
+H2afz	nuclear/histone loading control	histone H2A.Z alternative symbol

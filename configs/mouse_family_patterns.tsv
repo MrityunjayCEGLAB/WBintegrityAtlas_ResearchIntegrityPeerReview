@@ -1,0 +1,17 @@
+family	regex	category	note
+MAPK cascade	^(MAPK|MAP2K|MAP3K)|mitogen-activated protein kinase	signaling family	MAPK/p38/ERK/JNK cascade proteins
+AKT pathway	^AKT|RAC-alpha serine/threonine-protein kinase|protein kinase B	signaling family	AKT/PKB pathway proteins
+JAK-STAT	^(JAK|STAT)|signal transducer and activator	signaling family	JAK and STAT pathway proteins
+NF-kB/Rel	^(NFKB|RELA|REL)|nuclear factor.*kappa|NF-kappa	signaling family	NF-kB pathway proteins
+Apoptosis caspase/BCL	^(CASP|BCL)|caspase|apoptosis regulator	apoptosis family	apoptosis-related target family
+Cell-cycle CDK/cyclin	^(CDK|CCN)|cyclin-dependent kinase|cyclin	cell-cycle family	cell-cycle proteins often used in signaling blots
+FOXO/SMAD transcription	^(FOXO|SMAD)|forkhead box O|SMAD	transcription/signaling family	transcription factor signaling targets
+Heat shock proteins	^(HSP|HSPA|HSPB|HSP90)|heat shock	chaperone family	HSP family can overlap with marker/stress roles
+Tubulin family	^(TUBA|TUBB)|tubulin	marker/cytoskeleton family	tubulin marker family
+Actin family	^ACT|actin	marker/cytoskeleton family	actin family and actin-related proteins
+Histone family	^(H2|H3|H4)|histone	nuclear marker family	histone family
+Lamin family	^LMN|lamin	nuclear marker family	nuclear envelope markers
+Mitochondrial markers	^(VDAC|COX|ATP5|TOMM|SDH)|mitochondrial|cytochrome c	organelle marker family	mitochondrial fraction markers
+ER markers	^(CANX|CALR|P4HB)|calnexin|calreticulin|disulfide-isomerase	organelle marker family	ER fraction markers
+Nuclear receptor PPAR	^PPAR|peroxisome proliferator-activated receptor	nuclear receptor family	PPAR proteins
+p53 pathway	^(TP53|MDM|CDKN1A)|p53|p21	tumor suppressor pathway	p53 and p21 related targets

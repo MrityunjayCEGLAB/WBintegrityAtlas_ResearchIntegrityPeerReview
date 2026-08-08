@@ -1,0 +1,35 @@
+gene_symbol	category	note
+ACTB	cytosolic loading control	beta-actin; common total lysate loading control; bovine file, edit if FASTA uses alternative GN
+GAPDH	cytosolic loading control	glycolytic enzyme; common loading control; bovine file, edit if FASTA uses alternative GN
+TUBA1A	cytoskeletal loading control	alpha-tubulin isoform; bovine file, edit if FASTA uses alternative GN
+TUBA1B	cytoskeletal loading control	alpha-tubulin isoform; bovine file, edit if FASTA uses alternative GN
+TUBA1C	cytoskeletal loading control	alpha-tubulin isoform; bovine file, edit if FASTA uses alternative GN
+TUBB	cytoskeletal loading control	beta-tubulin; bovine file, edit if FASTA uses alternative GN
+TUBB2A	cytoskeletal loading control	beta-tubulin isoform; bovine file, edit if FASTA uses alternative GN
+TUBB2B	cytoskeletal loading control	beta-tubulin isoform; bovine file, edit if FASTA uses alternative GN
+TUBB3	cytoskeletal loading control	neuron-enriched beta-tubulin; bovine file, edit if FASTA uses alternative GN
+VCL	cytoskeletal/loading marker	vinculin; high-MW loading/control marker; bovine file, edit if FASTA uses alternative GN
+HSP90AA1	chaperone/loading marker	HSP90 alpha; bovine file, edit if FASTA uses alternative GN
+HSP90AB1	chaperone/loading marker	HSP90 beta; bovine file, edit if FASTA uses alternative GN
+HSPA8	chaperone/loading marker	constitutive HSC70; bovine file, edit if FASTA uses alternative GN
+HSPA1A	chaperone/stress marker	inducible HSP70; bovine file, edit if FASTA uses alternative GN
+RPLP0	ribosomal loading control	acidic ribosomal phosphoprotein P0; bovine file, edit if FASTA uses alternative GN
+EEF2	translation/loading marker	eukaryotic elongation factor 2; bovine file, edit if FASTA uses alternative GN
+LMNB1	nuclear loading control	lamin B1; bovine file, edit if FASTA uses alternative GN
+LMNA	nuclear loading/control marker	lamin A/C; bovine file, edit if FASTA uses alternative GN
+H3C1	nuclear/histone loading control	histone H3 cluster member; bovine file, edit if FASTA uses alternative GN
+H3C2	nuclear/histone loading control	histone H3 cluster member; bovine file, edit if FASTA uses alternative GN
+H2AC1	nuclear/histone loading control	histone H2A cluster member; bovine file, edit if FASTA uses alternative GN
+TBP	nuclear loading control	TATA-binding protein; bovine file, edit if FASTA uses alternative GN
+PCNA	nuclear/proliferation marker	PCNA; bovine file, edit if FASTA uses alternative GN
+VDAC1	mitochondrial loading control	outer mitochondrial membrane marker; bovine file, edit if FASTA uses alternative GN
+VDAC2	mitochondrial marker	outer mitochondrial membrane marker; bovine file, edit if FASTA uses alternative GN
+COX4I1	mitochondrial loading control	cytochrome c oxidase subunit 4; bovine file, edit if FASTA uses alternative GN
+ATP5F1A	mitochondrial loading control	ATP synthase subunit alpha; bovine file, edit if FASTA uses alternative GN
+TOMM20	mitochondrial loading control	TOM20; bovine file, edit if FASTA uses alternative GN
+SDHA	mitochondrial loading control	succinate dehydrogenase complex subunit A; bovine file, edit if FASTA uses alternative GN
+CANX	ER loading control	calnexin; bovine file, edit if FASTA uses alternative GN
+CALR	ER marker	calreticulin; bovine file, edit if FASTA uses alternative GN
+P4HB	ER marker	protein disulfide-isomerase; bovine file, edit if FASTA uses alternative GN
+ATP1A1	plasma membrane marker	sodium/potassium ATPase alpha-1; bovine file, edit if FASTA uses alternative GN
+TFRC	membrane/endosomal marker	transferrin receptor; bovine file, edit if FASTA uses alternative GN

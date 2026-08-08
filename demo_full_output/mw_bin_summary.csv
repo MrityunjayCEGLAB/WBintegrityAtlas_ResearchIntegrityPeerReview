@@ -1,0 +1,5 @@
+mw_bin_label,bin_start_kda,bin_end_kda,protein_count,marker_count,signaling_prefix_count,family_count,families,marker_genes,signaling_genes,examples_audit_families,audit_burden_score,audit_priority
+36.0-38.0 kDa,36.0,38.0,1,1,0,0,,GAPDH,,GAPDH,5.05,routine
+40.0-42.0 kDa,40.0,42.0,3,1,2,2,Actin family; MAPK cascade,ACTB,"MAPK1, MAPK14","MAPK14 [MAPK cascade], MAPK1 [MAPK cascade], ACTB [Actin family]",9.65,high
+54.0-56.0 kDa,54.0,56.0,1,0,1,1,AKT pathway,,AKT1,AKT1 [AKT pathway],2.3,routine
+58.0-60.0 kDa,58.0,60.0,1,0,1,1,JAK-STAT,,STAT1,STAT1 [JAK-STAT],2.3,routine

@@ -1,0 +1,35 @@
+gene_symbol	category	note
+ACTB	cytosolic loading control	beta-actin; common total lysate loading control
+GAPDH	cytosolic loading control	glycolytic enzyme; common loading control
+TUBA1A	cytoskeletal loading control	alpha-tubulin isoform
+TUBA1B	cytoskeletal loading control	alpha-tubulin isoform
+TUBA1C	cytoskeletal loading control	alpha-tubulin isoform
+TUBB	cytoskeletal loading control	beta-tubulin
+TUBB2A	cytoskeletal loading control	beta-tubulin isoform
+TUBB2B	cytoskeletal loading control	beta-tubulin isoform
+TUBB3	cytoskeletal loading control	neuron-enriched beta-tubulin
+VCL	cytoskeletal/loading marker	vinculin; high-MW loading/control marker
+HSP90AA1	chaperone/loading marker	HSP90 alpha
+HSP90AB1	chaperone/loading marker	HSP90 beta
+HSPA8	chaperone/loading marker	constitutive HSC70
+HSPA1A	chaperone/stress marker	inducible HSP70
+RPLP0	ribosomal loading control	acidic ribosomal phosphoprotein P0
+EEF2	translation/loading marker	eukaryotic elongation factor 2
+LMNB1	nuclear loading control	lamin B1
+LMNA	nuclear loading/control marker	lamin A/C
+H3C1	nuclear/histone loading control	histone H3 cluster member
+H3C2	nuclear/histone loading control	histone H3 cluster member
+H2AC1	nuclear/histone loading control	histone H2A cluster member
+TBP	nuclear loading control	TATA-binding protein
+PCNA	nuclear/proliferation marker	PCNA
+VDAC1	mitochondrial loading control	outer mitochondrial membrane marker
+VDAC2	mitochondrial marker	outer mitochondrial membrane marker
+COX4I1	mitochondrial loading control	cytochrome c oxidase subunit 4
+ATP5F1A	mitochondrial loading control	ATP synthase subunit alpha
+TOMM20	mitochondrial loading control	TOM20
+SDHA	mitochondrial loading control	succinate dehydrogenase complex subunit A
+CANX	ER loading control	calnexin
+CALR	ER marker	calreticulin
+P4HB	ER marker	protein disulfide-isomerase
+ATP1A1	plasma membrane marker	sodium/potassium ATPase alpha-1
+TFRC	membrane/endosomal marker	transferrin receptor
