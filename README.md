@@ -483,20 +483,6 @@ MIT License
 
 ---
 
-# Contact
-
-**Mrityunjay Dwivedi**
-
-Computational Evolutionary Genomics Laboratory
-
-Department of Biological Sciences
-
-Indian Institute of Science Education and Research (IISER) Bhopal
-
-India
-
----
-
 # Acknowledgements
 
 The authors thank members of the Computational Evolutionary Genomics Laboratory, IISER Bhopal, for discussions and feedback during the development of WB-IntegrityAtlas.
