@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/wb_integrityatlas_logo.png" alt="WB-IntegrityAtlas" width="900"/>
+  <img src="./docs/images/wb_integrityatlas_workflow.png" alt="WB-IntegrityAtlas" width="900"/>
 </p>
 
 <h1 align="center">WB-IntegrityAtlas</h1>
