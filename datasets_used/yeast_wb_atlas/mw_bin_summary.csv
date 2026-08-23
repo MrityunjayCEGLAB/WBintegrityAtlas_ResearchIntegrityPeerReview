@@ -1,0 +1,141 @@
+mw_bin_label,bin_start_kda,bin_end_kda,protein_count,marker_count,signaling_prefix_count,family_count,families,marker_genes,signaling_genes,examples_audit_families,audit_burden_score,audit_priority
+0.0-2.0 kDa,0.0,2.0,1,0,0,0,,,,YJR151W-A,0.05,routine
+2.0-4.0 kDa,2.0,4.0,34,0,0,1,Ribosomal_proteins,,,"YNL040C-A, YOR302W, YPR160W-A, YHR073C-B, YJL077W-A, YMR182W-A, YMR242W-A, YJL136W-A, YGL007C-A, YHL015W-A, YAR035C-A, RPL41A [Ribosomal_proteins], RPL41B [Ribosomal_proteins], YKL145W-A, YNR075C-A, YFR012W-A, YGR174W-A, YBL039C-A",2.45,routine
+4.0-6.0 kDa,4.0,6.0,58,0,0,1,Mitochondrial_membrane,,,"YJL077W-B, YMR315W-A, YBR221W-A, YMR272W-B, YGL006W-A, MFA2, YML007C-A, YDR118W-A, YER053C-A, PMP1, YBR296C-A, YLR264C-A, YGR204C-A, YJL052C-A, PLS1, YBL100W-C, YKL106C-A, YLR364C-A",3.65,routine
+6.0-8.0 kDa,6.0,8.0,103,0,0,3,ER_UPR; Mitochondrial_membrane; Ribosomal_proteins,,,"MCO6, YLR154C-G, YGR146C-A, YML054C-A, YOR293C-A, YDR194W-A, YOR072W-B, PMP3, YBR072C-A, YLR157W-E, YOR376W-A, YBR121C-A, YML100W-A, YBR196C-A, YER078W-A, Q0017, YCR095W-A, YIL046W-A",7.4,routine
+8.0-10.0 kDa,8.0,10.0,98,0,0,5,Autophagy; Heat_shock_chaperones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_system,,,"YGR121W-A, ERI1, COX17 [Heat_shock_chaperones; Mitochondrial_membrane], HSK3, EGO2, DAD4, ATG44 [Autophagy], YLR157W-D, KSH1, CMC4, ATX1 [Heat_shock_chaperones], TFB5, YNL162W-A, HUB1 [Ubiquitin_system], RPB10, YKL183C-A, YGR035W-A, VMA9",8.65,routine
+10.0-12.0 kDa,10.0,12.0,124,0,0,6,Heat_shock_chaperones; Histones; Mitochondrial_membrane; Proteasome; Ribosomal_proteins; Ubiquitin_system,,,"YGR161W-C, YSF3, LSM3, YFR009W-A, ACB1, STF1, YJL197C-A, RPL43A [Ribosomal_proteins], RPL43B [Ribosomal_proteins], YPL119C-A, TOS6, TIM9 [Mitochondrial_membrane], WIP1, RSM19, TIM10 [Mitochondrial_membrane], SME1, YLR379W-A, SEM1 [Proteasome]",10.7,elevated
+12.0-14.0 kDa,12.0,14.0,222,0,0,6,Actin_tubulin; Autophagy; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Ribosomal_proteins,,,"YGL193C, RPS25B [Ribosomal_proteins], RTC3, YDR115W, RPS25A [Ribosomal_proteins], YIL054W, YLR012C, YMR141C, YBR209W, YOR072W, RPL33A [Ribosomal_proteins], FPR1, RPL33B [Ribosomal_proteins], YDL012C, YOR343C, YLR296W, CYC1, YPR014C",15.6,elevated
+14.0-16.0 kDa,14.0,16.0,161,1,0,8,Autophagy; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_system,HHT1,,"YER189W, YEL008W, YHL018W, YMR075C-A, COX16 [Mitochondrial_membrane], CDC26 [Cell_cycle], YMR082C, YLR302C, BOL2, ATP14 [Mitochondrial_membrane], Q0144, YMR122C, ABM1, YGL088W, RPL26A [Ribosomal_proteins], AIM4, RPL26B [Ribosomal_proteins], HTB2 [Histones]",19.05,high
+16.0-18.0 kDa,16.0,18.0,157,0,0,10,Actin_tubulin; Autophagy; Cell_cycle; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Proteasome; Protein_kinases; Ribosomal_proteins; Ubiquitin_system,,,"RPS15 [Ribosomal_proteins], GAT3, YER145C-A, MRP49, SLM6, YGL108C, RPS23A [Ribosomal_proteins], RPS23B [Ribosomal_proteins], YCR025C, SRB7, EDC2, YAE1, MOH1, SWS2, GPI19, MTC7, MRPL51, DSS4",15.35,elevated
+18.0-20.0 kDa,18.0,20.0,142,0,1,10,Actin_tubulin; Autophagy; Cell_cycle; ER_UPR; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,SNF11,"BUD25, YAR068W, YPL073C, IGO1, IRC23, YGL041W-A, YFL051C, GNA1, YHR180W, APS1, YPI1, FYV7, YLR281C, POP6, CAF20, RPL21A [Ribosomal_proteins], HED1, RPL21B [Ribosomal_proteins]",16.1,elevated
+20.0-22.0 kDa,20.0,22.0,149,0,0,9,Actin_tubulin; Autophagy; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Mitochondrial_membrane; Proteasome; Ribosomal_proteins; Ubiquitin_system,,,"YGR273C, FYV6, JJJ3, IRC25 [Heat_shock_chaperones; Proteasome], YGL242C, MRPL36, VPS68, UPS1, YOL024W, SCM4, YGL262W, YNL208W, MPO1, FMP33, YKR045C, BNA1, MEH1, SDH4",14.2,elevated
+22.0-24.0 kDa,22.0,24.0,154,0,0,10,Autophagy; Cell_cycle; ER_UPR; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Proteasome; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,,"FRQ1, COA1 [Mitochondrial_membrane], SRL1, FUN14, CIN4, SDH3, HAM1, ADD37, BET3, YOR387C, ERV2, YLR179C, VEL1, YDR248C, YMR295C, ATG31 [Autophagy], YPL257W, RPL16A [Ribosomal_proteins]",15.2,elevated
+24.0-26.0 kDa,24.0,26.0,169,0,0,8,Autophagy; Cell_cycle; ER_UPR; Glycolytic_controls; Heat_shock_chaperones; Proteasome; Ribosomal_proteins; Ubiquitin_system,,,"FMP32, FAR3, FAU1, ERP2, SLX9, SBA1 [Heat_shock_chaperones], ERV25 [ER_UPR], DOT5, RCN1, THO1, TRP1, MRX11, YEL076C-A, YLR464W, UBC1 [Ubiquitin_system], YBR197C, PSF1, RCR2",14.45,elevated
+26.0-28.0 kDa,26.0,28.0,186,0,0,9,Cell_cycle; ER_UPR; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Proteasome; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,,"OCA6 [Protein_phosphatases], SNO4, CAT5, MGE1, TAE1, CYT2, MND1, YSA1, SHU2, YPT52, LSB1, SPR2, YKL033W-A, YOR283W, RIB5, TPT1, RTR1, VPS24",16.05,elevated
+28.0-30.0 kDa,28.0,30.0,114,0,0,8,Actin_tubulin; Autophagy; Heat_shock_chaperones; Mitochondrial_membrane; Proteasome; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,,"SCL1 [Proteasome], ISY1, RPS0A [Ribosomal_proteins], YKL071W, IML3, USE1, RPL8B [Ribosomal_proteins], RPL8A [Ribosomal_proteins], LST7, MRPL15, RRP15, IES3, PSY3, SHE2, TAD2, RKI1, GRX3, PUP1 [Proteasome]",11.7,elevated
+30.0-32.0 kDa,30.0,32.0,137,1,0,9,Actin_tubulin; Autophagy; Cell_cycle; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Proteasome; Protein_phosphatases; Ubiquitin_system,POR1,,"ATO3, MRPL24, DCI1, CYC3, MGM101, BMH1, SPO7, ERS1, PRO3, MAM33, DAL80, LUC7, YCL002C, ATG27 [Autophagy], PIR5, YCL068C, RSM26, SDH2",18.6,high
+32.0-34.0 kDa,32.0,34.0,176,0,1,9,Actin_tubulin; Autophagy; Cell_cycle; ER_UPR; Glycolytic_controls; Heat_shock_chaperones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_system,,PHO80,"YLR271W, TDA4, YFT2, PRM4, SNZ3, CRD1, VPS71, SNZ2, PEX18, PCL7 [Cell_cycle], LNP1 [ER_UPR], YMR087W, ASK1, PIN2, YNG2, INM2, ATP10 [Mitochondrial_membrane], PCL1 [Cell_cycle]",17.05,high
+34.0-36.0 kDa,34.0,36.0,195,2,4,12,Actin_tubulin; Autophagy; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Mitochondrial_membrane; Proteasome; Protein_kinases; Protein_phosphatases; RAS_PKA_SNF1; TOR_AGC_signaling; Ubiquitin_system,"NOP1, TDH3","PHO4, PHO85, RAS1, RAS2","ODC2, GCN3, TY3A-G, LST8 [TOR_AGC_signaling], COX11 [Mitochondrial_membrane], OAZ1, GID10, CYT1, CDC28 [Cell_cycle; Protein_kinases], YOR385W, CDC34 [Cell_cycle; Ubiquitin_system], SPC34, YNL194C, PHO4, SPE4, TY3A-I, AIM46, ECM11",34.75,high
+36.0-38.0 kDa,36.0,38.0,149,1,0,8,Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Mitochondrial_membrane; Proteasome; Protein_kinases; Protein_phosphatases; RAS_PKA_SNF1,ADH1,,"YMR262W, PHO92, YRB2, GPM2, YKL091C, OTU2, YKR075C, YPL039W, RRP36, RPC34, RFC4, IES2, LIA1, MRH1, YOR292C, RPA43, ELO1, MTD1",18.45,high
+38.0-40.0 kDa,38.0,40.0,165,0,0,9,Actin_tubulin; Glycolytic_controls; Heat_shock_chaperones; Histones; Proteasome; Protein_kinases; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,,"SHE1, YML037C, LSP1, HUT1, ARI1, SOR2, TFB3, DFM1, SOR1, GRE2, YER156C, ARV1, SUA7, RFC3, YMR315W, ARA2, PHA2, GTT3",15.0,elevated
+40.0-42.0 kDa,40.0,42.0,143,1,1,10,Actin_tubulin; Autophagy; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Histones; MAPK_signaling; Protein_kinases; Protein_phosphatases; Ubiquitin_system,ACT1,FUS3,"ELO2, IBD2, RAV2, PDB1, RNR4, YML119W, LYS12, SAE2, YCR102C, DON1, RCL1, SCW4, DUG3, SRT1, TES1, URE2, MDG1, YBR053C",21.15,high
+42.0-44.0 kDa,42.0,44.0,133,0,1,11,Actin_tubulin; Cell_cycle; Heat_shock_chaperones; Histones; MAPK_signaling; Mitochondrial_membrane; Proteasome; Protein_kinases; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_system,,KSS1,"PDE1, TOM40 [Mitochondrial_membrane], BMT6, MIG2, ETR1, CPR6, ARC1, RIM2, YOR338W, MTG1, SPG5, CAK1 [Protein_kinases], SAM2, SPC42, AI5_BETA, PEX7, BCD1, TAF4",16.4,high
+44.0-46.0 kDa,44.0,46.0,144,1,2,10,Actin_tubulin; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Histones; MAPK_signaling; Proteasome; Protein_kinases; Protein_phosphatases; RAS_PKA_SNF1,PGK1,"TPK2, TPK3","RRP43, TYS1, DOM34, ARP2 [Actin_tubulin], DCC1, SEN2, CNS1 [Heat_shock_chaperones], MVD1, PEX27, CLB6 [Cell_cycle], MRP4, OLA1, PTC4 [Protein_phosphatases], TAZ1, VMA5, TAM41, TPK2 [Protein_kinases; RAS_PKA_SNF1], SKI8",22.7,high
+46.0-48.0 kDa,46.0,48.0,143,0,1,10,Autophagy; Cell_cycle; ER_UPR; Glycolytic_controls; Histones; Proteasome; Protein_kinases; RAS_PKA_SNF1; TOR_AGC_signaling; Ubiquitin_system,,TPK1,"KTR1, PSG1, AAT2, OPI1, TPK1 [Protein_kinases; RAS_PKA_SNF1], SPN1, CAR2, DMA1 [Ubiquitin_system], BDH2, NSE4, RNR2, YNL165W, RTC4, BAG7, INN1, SPE2, DDR48, ERV46",16.15,high
+48.0-50.0 kDa,48.0,50.0,163,1,1,9,Actin_tubulin; Autophagy; Cell_cycle; Histones; MAPK_signaling; Mitochondrial_membrane; Proteasome; Protein_kinases; Ubiquitin_system,TUB1,HOG1,"TY4A-J, SRO9, DSE3, ZNG1, DUS1, RMA1, COT1, PEA2, VPS4, PMI40, RAM1, SIM1, IDP1, SPR28, TY4A-H, MEI4, RPT5 [Proteasome], LIF1",21.4,high
+50.0-52.0 kDa,50.0,52.0,143,1,0,8,Actin_tubulin; Autophagy; Cell_cycle; Heat_shock_chaperones; Histones; Proteasome; Protein_kinases; Protein_phosphatases,TUB2,,"PZF1, UBX7, TEF1, ARP6 [Actin_tubulin], TRM11, RDS2, BNA3, RTT109 [Histones], DAL1, TEP1, RAX1, RNY1, RBA50, VBA3, CLP1, COR1, MOD5, CUS1",18.15,high
+52.0-54.0 kDa,52.0,54.0,122,1,0,7,Actin_tubulin; Cell_cycle; Glycolytic_controls; Histones; Mitochondrial_membrane; Protein_kinases; Ubiquitin_system,HXK2,,"SPS22, CLD1, YHR177W, CDC40 [Cell_cycle], YKL075C, YSP3, KTR6, VHS1 [Protein_kinases], HRB1, COX10 [Mitochondrial_membrane], SAD1, YLH47, SHM2, TMS1, YMR209C, RAD57, YPL245W, MCH2",16.35,high
+54.0-56.0 kDa,54.0,56.0,122,0,2,10,Actin_tubulin; Autophagy; Cell_cycle; Heat_shock_chaperones; Histones; MAPK_signaling; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; Ubiquitin_system,,"MIG1, SLT2","LPD1, RNT1, OST1, GPA1, MST1, FAR10, TRM13, ITT1 [Ubiquitin_system], YMR265C, YMR027W, URN1, RTG3, NAR1, IRC15, RSC6, APE4, TIM54 [Mitochondrial_membrane], UGA2",16.6,high
+56.0-58.0 kDa,56.0,58.0,133,1,3,10,Autophagy; Cell_cycle; Glycolytic_controls; Heat_shock_chaperones; Histones; MAPK_signaling; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; Ubiquitin_system,ZWF1,"MKK1, MKK2, STE7","YHL012W, CYS4, ERG4, RUD3, DIT2, AMF1, RIO1 [Protein_kinases], TPS1, FDC1, RCM1, FMP42, ARO8, MMT1, MDM10, ARH1, CLB2 [Cell_cycle], STB3, EHD3",23.65,high
+58.0-60.0 kDa,58.0,60.0,113,0,0,7,Autophagy; Cell_cycle; ER_UPR; Heat_shock_chaperones; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases,,,"MGR3, CDC6 [Cell_cycle], ALG2, FCY21, THI6, GCR2, STP1, SDS23, HOM3, YJR015W [ER_UPR], GAL3, ANP1, FCY2, PLM2, DRN1, YPS6, PDI1 [ER_UPR], WSC3",10.9,elevated
+60.0-62.0 kDa,60.0,62.0,102,0,0,7,Cell_cycle; Heat_shock_chaperones; Histones; Proteasome; Protein_kinases; Protein_phosphatases; TOR_AGC_signaling,,,"YPS1, CHK1 [Protein_kinases], PTM1, YMR155W, BUD22, CDC3 [Cell_cycle], PAC11, TNA1, APE3, RPN4 [Proteasome], PNS1, YCK3, ERT1, RRN7, RPN3 [Proteasome], SRP1, MUD2, YBR138C",10.35,elevated
+62.0-64.0 kDa,62.0,64.0,119,0,1,6,Cell_cycle; ER_UPR; Histones; Protein_kinases; Protein_phosphatases; Ubiquitin_system,,SNF12,"CLN1 [Cell_cycle], HNM1, PCM1, GLE1, YCK2, TOS3 [Protein_kinases], DAK2, PUS1, MET7, DAK1, DED81, LCB1, PRI2, YDL180W, UTP7, GIP2, GGA1, TDP1",11.95,elevated
+64.0-66.0 kDa,64.0,66.0,86,0,0,5,Actin_tubulin; Cell_cycle; ER_UPR; Heat_shock_chaperones; Protein_kinases,,,"NSE5, ALP1, VPS36, YLR152C, TRM1, ERC1, MMP1, HSU1, MED1, TCM62 [Heat_shock_chaperones], MKC7, TPO1, RTC5, YAP1802, PAB1, GGA2, SAM3, PHO84",8.05,routine
+66.0-68.0 kDa,66.0,68.0,91,0,0,5,Actin_tubulin; Cell_cycle; Heat_shock_chaperones; Histones; Protein_kinases,,,"HIP1, PAP2, BFA1, HO, MET1, MSK1, APP1, DBF2 [Protein_kinases], PEX28, SPT8, DOT1 [Histones], RFT1, TDA1 [Protein_kinases], HXT5, STI1 [Heat_shock_chaperones], PHR1, BUD8, CKI1",8.3,routine
+68.0-70.0 kDa,68.0,70.0,89,1,1,3,Heat_shock_chaperones; Protein_kinases; Protein_phosphatases,SSA1,MSN4,"ECM3, PTR2, DBP9, RCK2 [Protein_kinases], TPO3, MNT4, LYP1, MAL12, DIP5, MAL32, PEX8, MPH2, RIM101, MAL31, YKR078W, CTM1, XKS1, RLI1",13.2,elevated
+70.0-72.0 kDa,70.0,72.0,81,0,0,6,Actin_tubulin; Autophagy; Heat_shock_chaperones; Mitochondrial_membrane; Protein_phosphatases; Ubiquitin_system,,,"ECM10 [Heat_shock_chaperones], TOM70 [Mitochondrial_membrane], PRM7, YHR219W, NHX1, SYO1, YSW1, SKO1, RLF2, LSB6, YOR389W, SDH1, SAS10, SWP82, AEP3, SAG1, RFA1, GPI1",8.55,routine
+72.0-74.0 kDa,72.0,74.0,81,0,2,8,Actin_tubulin; Autophagy; Cell_cycle; Heat_shock_chaperones; MAPK_signaling; Protein_kinases; RAS_PKA_SNF1; Ubiquitin_system,,"PBS2, SNF1","UTP5, MDM32, CUE3, SNF1 [Protein_kinases; RAS_PKA_SNF1], ORC3, SPC72 [Actin_tubulin], SCC4, ELM1 [Protein_kinases], AI5_ALPHA, FUI1, SPO1, RSM22, ALE1, MUB1, GRC3, RSC4, NEL1, MUS81",13.05,elevated
+74.0-76.0 kDa,74.0,76.0,66,1,0,5,Cell_cycle; ER_UPR; Heat_shock_chaperones; Protein_kinases; Protein_phosphatases,KAR2,,"SPH1, RPC82, ARE2, YNL115C, TPA1, NDC1, PIG1 [Protein_phosphatases], TRF5, MTO1, YJR098C, SGV1 [Protein_kinases], KAR9, CDC45 [Cell_cycle], YML082W, VPS52, TOP3, MET4, MAE1",12.05,elevated
+76.0-78.0 kDa,76.0,78.0,72,0,3,5,Heat_shock_chaperones; Protein_kinases; Protein_phosphatases; TOR_AGC_signaling; Ubiquitin_system,,"MSN2, YPK1, YPK2","YML020W, CBP1, YPL109C, HOF1, YBL111C, MSS116, PTR3, CRZ1, MAG2 [Ubiquitin_system], TMN2, LAM5, BPL1, ALK2 [Protein_kinases], HEH2, RRI2, PSO2, PAN3, YPK1 [Protein_kinases; TOR_AGC_signaling]",11.85,elevated
+78.0-80.0 kDa,78.0,80.0,56,0,0,4,Histones; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases,,,"YDR444W, ROG1, GRS1, GAL10, LAM6, MLH2, GSH1, HCS1, TUP1, FMP40, YEL023C, DPB2, PPN1, KIP2, SRB4, PPZ2 [Protein_phosphatases], SSK1, IRC3",5.8,routine
+80.0-82.0 kDa,80.0,82.0,62,1,1,6,Cell_cycle; Heat_shock_chaperones; Histones; MAPK_signaling; Protein_kinases; Ubiquitin_system,HSP82,STE11,"YGL114W, AVT4, MDV1, GFA1, HDA1 [Histones], FRE2, GSY2, RIM4, KRE6, YMR1, EXO1, UTP8, YOR365C, FRE5, YBR259W, APL1, NDC80, TRS85",14.1,elevated
+82.0-84.0 kDa,82.0,84.0,45,0,0,4,Autophagy; Heat_shock_chaperones; Protein_kinases; Ubiquitin_system,,,"MLH3, FRE4, RAD34, BCH1, NUP82, GYL1, ESC8, TFG1, RGD2, KEX1, YKL222C, OSW2, DSF2, SEC39, CLF1, IML2, KKQ8 [Protein_kinases], VRP1",5.25,routine
+84.0-86.0 kDa,84.0,86.0,59,0,1,4,Cell_cycle; Histones; Protein_kinases; Protein_phosphatases,,GCN20,"KAR3, RRP6, POX1, SEC18, YNL144C, CTF3, YJR030C, MAK10, SUV3, YOL036W, SLX4, CTF18, SET2 [Histones], YJL132W, GID7, THS1, AFG3, MEF1",7.45,routine
+86.0-88.0 kDa,86.0,88.0,55,0,0,4,Actin_tubulin; Cell_cycle; Protein_kinases; Ubiquitin_system,,,"NTO1, CHS6, ADE57, ALK1 [Protein_kinases], CDC4 [Cell_cycle], CUL3, BRN1, SKN1, UBP9 [Ubiquitin_system], PKH1 [Protein_kinases], PMT3, PBY1 [Actin_tubulin], TOF2, MCM5, LCD1, AVL9, YDR239C, NSP1",5.75,routine
+88.0-90.0 kDa,88.0,90.0,39,0,0,3,Protein_phosphatases; TOR_AGC_signaling; Ubiquitin_system,,,"PMT6, BCH2, DSL1, PRT1, OCT1, ACF2, PTA1, PAT1, MNN1, UBP10 [Ubiquitin_system], GAC1 [Protein_phosphatases], ABZ1, UBP14 [Ubiquitin_system], URC2, TRE1, BUD6, STB6, TCO89 [TOR_AGC_signaling]",4.2,routine
+90.0-92.0 kDa,90.0,92.0,41,0,1,8,Actin_tubulin; Cell_cycle; Heat_shock_chaperones; Protein_kinases; Protein_phosphatases; RAS_PKA_SNF1; TOR_AGC_signaling; Ubiquitin_system,,SCH9,"KEX2, KIN4 [Protein_kinases], RGD3, RPH1, NAB3, SWI6, VPS72, RFX1, TSR1, FLC3, AXL2, FYV8, IOC3, SCY1 [Protein_kinases], UTP13, PRK1 [Actin_tubulin], SIP1 [Protein_kinases; RAS_PKA_SNF1], TOG1",9.55,elevated
+92.0-94.0 kDa,92.0,94.0,39,0,0,4,Cell_cycle; Heat_shock_chaperones; Protein_kinases; Ubiquitin_system,,,"VPS70, SVL3, YGR067C, UBP5 [Ubiquitin_system], ROD1, RAP1, YRR1, SWE1 [Protein_kinases], COG3, PMT1, YGR130C, VPS16, UBP1 [Ubiquitin_system], MDM20, PAM1, YBR284W, SWI3, RIX7",4.95,routine
+94.0-96.0 kDa,94.0,96.0,39,1,0,4,Cell_cycle; Heat_shock_chaperones; Protein_kinases; Ubiquitin_system,VPH1,,"NUD1, YMR102C, NOP14, SYH1, FKH2, NOT3, MKT1, PET111, FAR1 [Cell_cycle; Protein_kinases], YLL032C, CCR4, HPF1, SAP4, KAP95, LAS21, ARG5,6, RFC1, MCM7",9.95,elevated
+96.0-98.0 kDa,96.0,98.0,40,0,0,5,Cell_cycle; ER_UPR; Heat_shock_chaperones; Histones; Mitochondrial_membrane,,,"SIP4, DGR2, AI1 [Mitochondrial_membrane], YHR131C, SYP1, NIC96, CFT2, PRP5, XRS2, SBE22, SPB1, CWH41, VTC3 [Heat_shock_chaperones], USA1, ALR2, YME2, SNF3, EPL1",5.75,routine
+98.0-100.0 kDa,98.0,100.0,39,1,0,3,Heat_shock_chaperones; Mitochondrial_membrane; Protein_phosphatases,PMA1,,"AI2 [Mitochondrial_membrane], PSY2 [Protein_phosphatases], PUF3, DUG2, ENV11, SPC98, SND1, HIR2, GPB2, COG4, JIP4, FOX2, VTC5 [Heat_shock_chaperones], MCM2, CHL1, FIR1, ZAP1, NAT1",9.2,elevated
+100.0-102.0 kDa,100.0,102.0,43,0,0,4,Actin_tubulin; Autophagy; Protein_kinases; Ubiquitin_system,,,"STO1, PXA1, ZIP1, LEU3, ARP8 [Actin_tubulin], SYF1, ARG81, NIP100, SAP1, UPC2, SEC10, POP1, PKH3 [Protein_kinases], FPK1, PLC1, BNI4, CYK3, YPL150W [Protein_kinases]",5.15,routine
+102.0-104.0 kDa,102.0,104.0,39,0,1,4,Heat_shock_chaperones; MAPK_signaling; Protein_kinases; Ubiquitin_system,,STE20,"HSP104 [Heat_shock_chaperones], RRN6, SPO75, PMA2, ADE3, MSH5, AFI1, RSC2, EMW1, STE20 [MAPK_signaling; Protein_kinases], VIR1, VNX1, VID22, PHO87, ALY1, SNF5, YPR089W, EST2",6.45,routine
+104.0-106.0 kDa,104.0,106.0,28,0,0,4,Cell_cycle; Proteasome; Protein_phosphatases; Ubiquitin_system,,,"SYG1, PRP6, RPN2 [Proteasome], YJL070C, AGC1, ORC1, CTF4, PMR1, COS111, PFK2, SOV1, BUL2 [Ubiquitin_system], UTP21, SPC105, SEC21, CDC13 [Cell_cycle], MCM4, SEC15",4.4,routine
+106.0-108.0 kDa,106.0,108.0,18,0,0,0,,,,"YEL043W, MIS1, DIP2, NNF2, RSC1, APL5, TIF4631, STE13, CYC8, PEP3, MCM3, WAR1, RSN1, TMA108, APE2, CWH43, RDH54, PFK1",0.9,routine
+108.0-110.0 kDa,108.0,110.0,31,0,0,2,Proteasome; Ubiquitin_system,,,"VID30, ARO80, SXM1, MNN14, INP51, FAP1, DNL4, EGT2, DCP2, BIR1, ASG1, MSH2, SLA2, SEC26, VPS35, DAL81, BUL1 [Ubiquitin_system], MDR1",3.05,routine
+110.0-112.0 kDa,110.0,112.0,17,0,0,1,Cell_cycle,,,"HSH155, ALA1, CDC15 [Cell_cycle], ROT2, RPG1, GPR1, MTR10, DSS1, NMA111, PFF1, SIN4, SIR3, PUT3, SRO77, SPC110, CBF2, FLO5",1.6,routine
+112.0-114.0 kDa,112.0,114.0,25,0,0,1,Mitochondrial_membrane,,,"SEC5, CYM1, REV1, FUN12, SPO22, EAF1, PHM7, PDR3, REG1, PET309 [Mitochondrial_membrane], RGA1, DBP10, MCM6, SFI1, YMR317W, RTP1, RGA2, CIN8",2.0,routine
+114.0-116.0 kDa,114.0,116.0,26,0,0,2,Autophagy; Ubiquitin_system,,,"SNU114, MPH1, SED4, SKG3, UBA1 [Ubiquitin_system], KGD1, GCV2, RTT10, SRO7, PIP2, MET10, SAP155, APL3, YPR204W, ATG9 [Autophagy], PEX6, HMG1, GPI13",2.8,routine
+116.0-118.0 kDa,116.0,118.0,24,0,0,2,Protein_kinases; Ubiquitin_system,,,"NUP116, KCC4 [Protein_kinases], MSH3, CIN1, LRG1, MAK21, ULP2 [Ubiquitin_system], VPS3, VSB1, KIC1 [Protein_kinases], KSP1 [Protein_kinases], SAP190, ALY2, ADP1, PEX1, PEP5 [Ubiquitin_system], STE23, SEA4",2.7,routine
+118.0-120.0 kDa,118.0,120.0,18,0,0,0,,,,"SUM1, CAF120, DAN4, YOL098C, SPT16, VMA1, TPS3, TTI1, OAF1, RQC2, KRE33, ZRG8, PUF2, MIL1, KCS1, KAP120, PIK1, NMD5",0.9,routine
+120.0-122.0 kDa,120.0,122.0,18,0,0,1,Protein_kinases,,,"KIN1 [Protein_kinases], TFC4, ENA5, GAL11, ENA2, ENA1, JSN1, RGC1, NUP120, TAF1, PSE1, DSE4, SPT23, SAP185, RIC1, PRP16, PKH2 [Protein_kinases], PDR1",1.65,routine
+122.0-124.0 kDa,122.0,124.0,21,0,0,3,Histones; Protein_kinases; Ubiquitin_system,,,"MTR4, FLO10, SEC8, IFH1, KAP123, VAM6, ILS1, RTT107, TSL1, LEC1, UBP7 [Ubiquitin_system], RGR1, KAP122, HRQ1, HOS4, ECM21, SWI4, SET1 [Histones]",3.3,routine
+124.0-126.0 kDa,124.0,126.0,18,0,0,2,Cell_cycle; Protein_kinases,,,"CRM1, CDC60 [Cell_cycle], MRC1, GDH2, PSK2 [Protein_kinases], RIA1, AMS1, RAD26, INP53, POL3, CTR9, CSR2, BEM3, YNR065C, DUF1, SEG2, VAS1, KIP1",2.4,routine
+126.0-128.0 kDa,126.0,128.0,18,0,0,3,ER_UPR; Protein_kinases; RAS_PKA_SNF1,,,"SMC5, NAB6, RAD1, YMR196W, BUD2, NMD2, LOS1, ASK10, SAK1 [RAS_PKA_SNF1], TBS1, ECM32, IRE1 [ER_UPR; Protein_kinases], PAN2, MGA2, PIM1, TY4B-P, YJR039W, SEF1",3.15,routine
+128.0-130.0 kDa,128.0,130.0,20,0,0,1,Protein_kinases,,,"SMC6, TRS130, YPL216W, VAC7, RGT1, BBC1, KIN2 [Protein_kinases], FUN30, NET1, ESL1, CAF130, NUT1, RET1, BRE4, VIP1, GIN4 [Protein_kinases], CHS1, MSB1",1.75,routine
+130.0-132.0 kDa,130.0,132.0,16,0,1,2,Protein_kinases; TOR_AGC_signaling,,PKC1,"PRP22, PSD2, PYC1, YPR022C, PYC2, NEO1, ISW2, PMC1, MTC5, KEL1, ISW1, AVO1 [TOR_AGC_signaling], ROM1, PKC1 [Protein_kinases], CHS3, PCA1",3.8,routine
+132.0-134.0 kDa,132.0,134.0,12,0,0,1,Ubiquitin_system,,,"TFC3, TCB2, NCR1, GRR1 [Ubiquitin_system], YCS4, IRR1, MSB2, NUP133, INP52, TCB1, SMC2, RAX2",1.35,routine
+134.0-136.0 kDa,134.0,136.0,15,0,0,5,Actin_tubulin; Autophagy; ER_UPR; Protein_kinases; Ubiquitin_system,,,"RAD5 [Ubiquitin_system], PHO81, SRS2, NEW1, SLN1 [Protein_kinases], SCP160, ATG11 [Autophagy], HFM1, SWH1, URB2, SPF1 [ER_UPR], BMS1, COP1, RPA135, SLA1 [Actin_tubulin]",4.5,routine
+136.0-138.0 kDa,136.0,138.0,12,0,0,2,Actin_tubulin; Autophagy,,,"ATG26 [Autophagy], YEL025C, FLO11, TY1B-A, MYO5, ATH1, YGL140C, ESL2, RRP12, SYT1, AIP5 [Actin_tubulin], NFT1",2.1,routine
+138.0-140.0 kDa,138.0,140.0,10,0,0,0,,,,"GDE1, FLO9, AXL1, SNT1, SEC31, RPB2, RPM2, MNN4, HER1, SSD1",0.5,routine
+140.0-142.0 kDa,140.0,142.0,10,0,0,0,,,,"MSH6, OXP1, UTP22, GIP3, TRK1, TOF1, SMC1, SMC3, TDA9, NST1",0.5,routine
+142.0-144.0 kDa,142.0,144.0,8,0,0,1,Ubiquitin_system,,,"MSN5, MYO3, SIP3, YEL077C, UBP12 [Ubiquitin_system], MIP1, UBP15 [Ubiquitin_system], LAM1",1.15,routine
+144.0-146.0 kDa,144.0,146.0,10,0,0,0,,,,"STE6, ECM16, VPS8, ECM30, YOL075C, CLU1, SPO71, ITC1, NUP145, OSH2",0.5,routine
+146.0-148.0 kDa,146.0,148.0,6,0,0,1,Ubiquitin_system,,,"SKI2, UBP2 [Ubiquitin_system], PDS5, YOR296W, TRS120, SWI1",1.05,routine
+148.0-150.0 kDa,148.0,150.0,7,0,0,0,,,,"RAD9, ADE6, TUS1, RTC1, SAC3, LAM4, PDR18",0.35,routine
+150.0-152.0 kDa,150.0,152.0,5,0,0,1,Ubiquitin_system,,,"EDE1, ADR1, YLR278C, SSM4 [Ubiquitin_system], POM152",1.0,routine
+152.0-154.0 kDa,152.0,154.0,11,0,0,1,Protein_kinases,,,"SIR4, PSK1 [Protein_kinases], RAD50, ROM2, SPT7, SSK22 [Protein_kinases], IKI3, RPO41, CFT1, DRS2, RSE1",1.3,routine
+154.0-156.0 kDa,154.0,156.0,8,0,0,0,,,,"SEC3, RAV1, YLL067C, RSF2, MHP1, LYS2, YLL066C, YML133C",0.4,routine
+156.0-158.0 kDa,156.0,158.0,7,0,0,2,Heat_shock_chaperones; Histones,,,"YRF1-4, KRE5, NUP157, STH1, BNR1, YTA7 [Heat_shock_chaperones; Histones], AUS1",1.85,routine
+158.0-160.0 kDa,158.0,160.0,2,0,0,0,,,,"NUP159, GEA1",0.1,routine
+160.0-162.0 kDa,160.0,162.0,10,0,0,2,Actin_tubulin; Ubiquitin_system,,,"SSN2, PAN1 [Actin_tubulin], CAT8, PDR11, YSP2, FLO1, MET5, MMS1 [Ubiquitin_system], TAF2, SPP41",2.0,routine
+162.0-164.0 kDa,162.0,164.0,10,0,0,1,Ubiquitin_system,,,"SMC4, RPO31, ECM5, YLR419W, SPA2, LTE1, SNT2 [Ubiquitin_system], TRM732, SKI3, SGS1",1.25,routine
+164.0-166.0 kDa,164.0,166.0,6,0,1,3,MAPK_signaling; Protein_kinases; TOR_AGC_signaling,,BCK1,"BCK1 [MAPK_signaling; Protein_kinases], TOP2, TSC11 [TOR_AGC_signaling], BUD4, TRM3, GEA2",4.05,routine
+166.0-168.0 kDa,166.0,168.0,10,0,0,2,Protein_kinases; Ubiquitin_system,,,"FIG2, HAP1, VPS15 [Protein_kinases], YOR1, YPK9, POL1, SRB8, MDS3, MMS22 [Ubiquitin_system], UFD4 [Ubiquitin_system]",2.0,routine
+168.0-170.0 kDa,168.0,170.0,6,0,0,1,Protein_kinases,,,"CHD1, SPT6, SNQ2, MYO4, NUP170, HSL1 [Protein_kinases]",1.05,routine
+170.0-172.0 kDa,170.0,172.0,7,0,0,0,,,,"PDR5, PDR12, TCB3, SCC2, YCF1, INO80, DNA2",0.35,routine
+172.0-174.0 kDa,172.0,174.0,4,0,0,0,,,,"PDR15, TY3B-I, IQG1, REV3",0.2,routine
+174.0-176.0 kDa,174.0,176.0,8,0,0,0,,,,"STU1, VTH2, VTH1, SWR1, ARO1, SIN3, GDB1, XRN1",0.4,routine
+176.0-178.0 kDa,176.0,178.0,5,0,0,1,TOR_AGC_signaling,,,"PDR10, BPT1, KOG1 [TOR_AGC_signaling], PEP1, DNF1",1.0,routine
+178.0-180.0 kDa,178.0,180.0,3,0,0,2,Autophagy; Cell_cycle,,,"TY3B-G, ATG2 [Autophagy], CDC25 [Cell_cycle]",1.65,routine
+180.0-182.0 kDa,180.0,182.0,7,0,0,2,MAPK_signaling; Ubiquitin_system,,,"RKR1 [Ubiquitin_system], IRC20 [Ubiquitin_system], SSK2 [MAPK_signaling], MYO2, VMR1, TY1B-DR4, IML1",1.85,routine
+182.0-184.0 kDa,182.0,184.0,2,0,0,0,,,,"DNF2, THO2",0.1,routine
+184.0-186.0 kDa,184.0,186.0,2,0,0,1,Ubiquitin_system,,,"ULS1 [Ubiquitin_system], BUD3",0.85,routine
+186.0-188.0 kDa,186.0,188.0,7,0,0,0,,,,"RPA190, MON2, CRM2, NTE1, ESC1, CHC1, ESP1",0.35,routine
+188.0-190.0 kDa,188.0,190.0,4,0,0,0,,,,"DNF3, NUP188, HKR1, YBT1",0.2,routine
+190.0-192.0 kDa,190.0,192.0,5,0,1,1,Histones,,GCN2,"GCN2, YRF1-2, NUP192, RPO21, HIR3 [Histones]",2.5,routine
+192.0-194.0 kDa,192.0,194.0,1,0,0,0,,,,RRP5,0.05,routine
+194.0-196.0 kDa,194.0,196.0,5,0,0,0,,,,"SNF2, DOP1, MLP2, SPO14, PMD1",0.25,routine
+196.0-198.0 kDa,196.0,198.0,4,0,1,1,Protein_kinases,,RIM15,"APC1, RIM15 [Protein_kinases], YIL177C, YJL225C",2.45,routine
+198.0-200.0 kDa,198.0,200.0,28,0,0,0,,,,"TY1B-NL2, TY1B-PR3, TY1B-LR3, TY1B-LR1, TY1B-GR2, TY1B-ML1, TY1B-DR5, TY1B-OR, TY1B-LR2, TY1B-MR2, TY1B-GR3, TY1B-ER1, TY1B-PR1, TY1B-ER2, TY1B-ML2, TY1B-PL, TY1B-DR1, TY1B-OL",1.4,routine
+200.0-202.0 kDa,200.0,202.0,5,0,0,0,,,,"UTP10, DUR1,2, TY2B-DR3, TY2B-DR1, TY2B-OR1",0.25,routine
+202.0-204.0 kDa,202.0,204.0,12,0,0,0,,,,"TY2B-F, TY2B-GR2, TY2B-DR2, TY2B-C, TY2B-LR1, TY2B-OR2, TY2B-B, TY1B-H, URB1, YRF1-1, YRF1-5, YRF1-8",0.6,routine
+206.0-208.0 kDa,206.0,208.0,5,0,0,0,,,,"USO1, FAS2, FKS3, TY4B-J, TY4B-H",0.25,routine
+208.0-210.0 kDa,208.0,210.0,1,0,0,0,,,,MOT1,0.05,routine
+210.0-212.0 kDa,210.0,212.0,4,0,0,1,Proteasome,,,"ECM29 [Proteasome], YRF1-6, YRF1-3, YRF1-7",0.95,routine
+214.0-216.0 kDa,214.0,216.0,2,0,0,0,,,,"STT4, FKS1",0.1,routine
+216.0-218.0 kDa,216.0,218.0,3,0,0,1,Ubiquitin_system,,,"UBR2 [Ubiquitin_system], GSC2, RIF1",0.9,routine
+218.0-220.0 kDa,218.0,220.0,2,0,0,0,,,,"MLP1, BNI1",0.1,routine
+220.0-222.0 kDa,220.0,222.0,1,0,0,0,,,,DCK1,0.05,routine
+222.0-224.0 kDa,222.0,224.0,1,0,0,0,,,,MYO1,0.05,routine
+224.0-226.0 kDa,224.0,226.0,2,0,0,1,Ubiquitin_system,,,"UBR1 [Ubiquitin_system], SLH1",0.85,routine
+226.0-228.0 kDa,226.0,228.0,2,0,0,0,,,,"SEC7, CYR1",0.1,routine
+228.0-230.0 kDa,228.0,230.0,2,0,0,0,,,,"FAS1, LAA1",0.1,routine
+234.0-236.0 kDa,234.0,236.0,1,0,0,0,,,,CCH1,0.05,routine
+238.0-240.0 kDa,238.0,240.0,1,0,0,0,,,,GLT1,0.05,routine
+240.0-242.0 kDa,240.0,242.0,2,0,0,1,Cell_cycle,,,"CDC39 [Cell_cycle], SEC16",0.85,routine
+244.0-246.0 kDa,244.0,246.0,3,0,0,1,Proteasome,,,"URA2, BEM2, BLM10 [Proteasome]",0.9,routine
+246.0-248.0 kDa,246.0,248.0,1,0,0,0,,,,BRR2,0.05,routine
+250.0-252.0 kDa,250.0,252.0,2,0,0,0,,,,"ACC1, BPH1",0.1,routine
+252.0-254.0 kDa,252.0,254.0,1,0,0,0,,,,SEN1,0.05,routine
+254.0-256.0 kDa,254.0,256.0,1,0,0,0,,,,POL2,0.05,routine
+256.0-258.0 kDa,256.0,258.0,1,0,0,0,,,,FAB1,0.05,routine
+258.0-260.0 kDa,258.0,260.0,1,0,0,0,,,,HFA1,0.05,routine
+268.0-270.0 kDa,268.0,270.0,1,0,0,0,,,,TAO3,0.05,routine
+272.0-274.0 kDa,272.0,274.0,1,0,0,1,Protein_kinases,,,MEC1 [Protein_kinases],0.8,routine
+278.0-280.0 kDa,278.0,280.0,1,0,0,0,,,,PRP8,0.05,routine
+280.0-282.0 kDa,280.0,282.0,2,0,2,2,Protein_kinases; TOR_AGC_signaling,,"TOR1, TOR2","TOR1 [Protein_kinases; TOR_AGC_signaling], TOR2 [Protein_kinases; TOR_AGC_signaling]",4.6,routine
+284.0-286.0 kDa,284.0,286.0,1,0,0,0,,,,HOB2,0.05,routine
+286.0-288.0 kDa,286.0,288.0,1,0,0,0,,,,UTP20,0.05,routine
+296.0-298.0 kDa,296.0,298.0,1,0,0,0,,,,GCN1,0.05,routine
+302.0-304.0 kDa,302.0,304.0,1,0,0,0,,,,FMP27,0.05,routine
+312.0-314.0 kDa,312.0,314.0,1,0,0,0,,,,NUM1,0.05,routine
+320.0-322.0 kDa,320.0,322.0,1,0,0,1,Protein_kinases,,,TEL1 [Protein_kinases],0.8,routine
+338.0-340.0 kDa,338.0,340.0,1,0,0,0,,,,CSF1,0.05,routine
+350.0-352.0 kDa,350.0,352.0,2,0,0,0,,,,"IRA1, IRA2",0.1,routine
+356.0-358.0 kDa,356.0,358.0,1,0,0,0,,,,VPS13,0.05,routine
+374.0-376.0 kDa,374.0,376.0,1,0,0,2,Mitochondrial_membrane; Ubiquitin_system,,,TOM1 [Mitochondrial_membrane; Ubiquitin_system],1.55,routine
+432.0-434.0 kDa,432.0,434.0,1,0,0,0,,,,TRA1,0.05,routine
+470.0-472.0 kDa,470.0,472.0,1,0,0,0,,,,DYN1,0.05,routine
+558.0-560.0 kDa,558.0,560.0,1,0,0,0,,,,MDN1,0.05,routine

@@ -1,0 +1,233 @@
+mw_bin_label,bin_start_kda,bin_end_kda,protein_count,marker_count,signaling_prefix_count,family_count,families,marker_genes,signaling_genes,examples_audit_families,audit_burden_score,audit_priority
+0.0-2.0 kDa,0.0,2.0,7,0,0,0,,,,"tal-1A, tal-2A, tal-3A, Dmel\CG43739, CG1461-5'utr, CG6424-5'utr, Dmel\CG46270",0.35,routine
+2.0-4.0 kDa,2.0,4.0,49,0,0,1,Ribosomal_proteins,,,"CG14253-5'utr, Dmel\CG43178, Dmel\CG46525, Dmel\CG45088, MSAmiP, Dmel\CG43200, noncoding_5744, MIP03715_ORF_1, Acp98AB, MIP03715, CG13627-5'utr, Dmel\CG46335, CG43200-3'utr, Mst40, Dmel\CG46310, Dmel\CG45307, CR33939, CG7708-5'utr",3.2,routine
+4.0-6.0 kDa,4.0,6.0,104,0,0,1,Ribosomal_proteins,,,"Dmel\CG43965, chr2L_11663230_11663806, BomS3, Dmel\CG45099, Dmel\CG43814, Mst57Db, BomS6, gdl-ORF39, Dmel\CG43251, BomS5, lincRNA.174, Dmel\CG43645, Ost4, Hdac3-5'utr, Dmel\CG43390, Dso1, MtnB, Dmel\CG43694",5.95,routine
+6.0-8.0 kDa,6.0,8.0,189,0,0,2,Mitochondrial_membrane; Ribosomal_proteins,,,"Tom7, Dmel\CG43610, Dmel\CG46320, Dmel\CG43618, Dmel\CG46456, CG4959, Anp, Dmel\CG43230, Dmel\CG44040, BcDNA:RH07028, Dmel\CG45089, CR43920, Dmel\CG43185, ND-MNLL [Mitochondrial_membrane], Dup99B, Dmel\CG46429, Dmel\CG44355, UQCR-6.4",10.95,elevated
+8.0-10.0 kDa,8.0,10.0,290,0,0,4,Heat_shock_chaperones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_proteasome,,,"lawc, UQCR-6.4L, E(spl)m6-BFM, p8, BomT2, Dmel\CG17776 [Mitochondrial_membrane], Dmel\CG43182, Ggamma1, Dmel\CG11458, Dmel\CG46433, Dmel\CG44142, Drsl6, NEST:bs34b09, CG15281, ksh, Dmel\CG43169, Dmel\CG42649, RpL38 [Ribosomal_proteins]",17.5,elevated
+10.0-12.0 kDa,10.0,12.0,343,0,0,6,Apoptosis; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_proteasome,,,"pre-mod(mdg4)-AA, SLIRP1, Dmel\CG7377, CG9167, Dmel\CG43405, hemo, BcDNA:RE60135, Tim8 [Mitochondrial_membrane], Dmel\CG13069, VhaM9.7-b, Dmel\CG33268, inaF-A, Dmel\CG43982, Dmel\CG42806, UQCR-Q, Dmel\CG45486, Dmel\CG42581, Triap1 [Apoptosis]",21.65,elevated
+12.0-14.0 kDa,12.0,14.0,389,0,0,7,Actin_tubulin; Apoptosis; Autophagy; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Ribosomal_proteins,,,"Dmel\CG42568, Dmel\CG14312, Dmel\CG14096, Dmel\CG44362, Dmel\CG42583, ATPsynGL [Mitochondrial_membrane], BaraC, Tst1, Cpr65Av, Dmel\CG13117, Dmel\CG32074, Dmel\CG15034, Dmel\CG32278, Dmel\CG43308, CG10674, Dmel\CG15200, Dmel\CG14984, ND-B12 [Mitochondrial_membrane]",24.7,high
+14.0-16.0 kDa,14.0,16.0,361,1,1,6,Apoptosis; Autophagy; Histones; Mitochondrial_membrane; Ribosomal_proteins; Ubiquitin_proteasome,Atg8a,MED10,"Dmel\CG13050, CG13515, Cpr65Ea, BcDNA:RH04491, Dmel\CG13965, strat, dHYPK, DIGF-1, Dmel\CG44088, pal, BcDNA:AT27312, Dmel\CG15404, ITP, Obp18a, Cnep1r1, Dmel\CG13510, Dmel\CG31415, Dmel\CG34185",29.05,high
+16.0-18.0 kDa,16.0,18.0,424,1,3,8,Actin_tubulin; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Notch; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome,RpL32,"MED21, MED22, MED9","Chrac-16, Dmel\CG13689, Dmel\CG13239, Dmel\CG7781, Rbp1, RpS23 [Ribosomal_proteins], RpL32 [Ribosomal_proteins], Npc2a, ND-B14.5AL [Mitochondrial_membrane], RpL28 [Ribosomal_proteins], Dmel\CG9568, Dmel\CG11663, Pburs, Dmel\CG11300, MED21, Dmel\CG14658, Blos3, BcDNA:RE30174",35.5,high
+18.0-20.0 kDa,18.0,20.0,355,0,1,7,Actin_tubulin; Autophagy; Heat_shock_chaperones; Mitochondrial_membrane; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome,,MED11,"ppl, mRpS17 [Ribosomal_proteins], EG:EG0003.8, Dmel\CG13994 [Ubiquitin_proteasome], Dmel\CG13560, BcDNA:AT27976, CCAP, Dmel\CG5500, Dmel\CG34312, RpL34a [Ribosomal_proteins], Dmel\CG15368, Archease, Dmel\CG12426, CG30182, Dmel\CG42655, Gadd45, Dmel\CG15023, RpS11 [Ribosomal_proteins]",24.5,high
+20.0-22.0 kDa,20.0,22.0,441,0,2,9,Actin_tubulin; Apoptosis; Heat_shock_chaperones; Histones; Mitochondrial_membrane; RAS_ERK_MAPK; Ribosomal_proteins; Toll_Imd_NFkB; Ubiquitin_proteasome,,"MED28, Ras85D","retinin, Arf6, Dmel\CG34327, DCTN6-p27, mRpS10, Dmel\CG8300, Glo1, Dmel\CG34251, BcDNA:SD01241, dnd, mt:ND6, CheA7a, Sfp24F, arx, Hand, lectin-33A, Arpc3B [Actin_tubulin], Dmel\CG33654",29.75,high
+22.0-24.0 kDa,22.0,24.0,358,2,2,6,Actin_tubulin; Heat_shock_chaperones; Mitochondrial_membrane; RAS_ERK_MAPK; Ribosomal_proteins; Ubiquitin_proteasome,"Rab5, Rab7","MED31, mad2","Cib2, Dmel\CG31109, Dmel\CG11226, CG14286, Dmel\CG14495, ND-SGDH [Mitochondrial_membrane], BcDNA:GH11730, Dmel\CG16813, VhaPPA1-1, CG15250, Dmel\CG42830, Dmel\CG14455, BP1005, Dmel\CG32797, Rab18, Dmel\CG14777, Dmel\CG34138, Dmel\CG3955",35.4,high
+24.0-26.0 kDa,24.0,26.0,414,0,2,9,Apoptosis; Autophagy; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Notch; Protein_kinases; Ribosomal_proteins; Ubiquitin_proteasome,,"MED18, MED7","tun, Dmel\CG12535, Dmel\CG14932, Dmel\CG14086, Dmel\CG43312, GLaz, LSm-4, Polr3G, Dmel\CG33262, Dmel\CG14362, Mabi, CREG, Dmel\CG4000, Dmel\CG13226, Dmel\CG13002, Cfap97D, Dmel\CG9782, Ccp84Ac",29.75,high
+26.0-28.0 kDa,26.0,28.0,381,0,2,8,Actin_tubulin; GAPDH_metabolic_controls; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome,,"MED20, MED8","CG11134, Gas41, Lipt2, alphaTry, CG9154, Dmel\CG3699, Dmel\CG13616, Dmel\CG12729 [Ubiquitin_proteasome], BcDNA:GH06302, Dmel\CG13603, Vha26, Tsp42Eh, Dmel\CG33340, Osi9, CK02422a, Dmel\CG11672, Sld5, cerv",28.05,high
+28.0-30.0 kDa,28.0,30.0,413,0,3,11,Actin_tubulin; Apoptosis; GAPDH_metabolic_controls; Histones; Mitochondrial_membrane; Notch; Protein_phosphatases; Ribosomal_proteins; Toll_Imd_NFkB; Ubiquitin_proteasome; Wnt_Wingless,,"MED4, MED6, imd","Obp83cd, Dmel\CG12861, CG6171, 15010468, Obp83ef, Jon65Aiv, EG:BACR25B3.6, lectin-29Ca, BaraA1, BaraA2, Dmel\CG32391, Dmel\CG34442, Obp56c, Jhbp7, Ag5r, CG11342, Dmel\CG9150, 312",32.75,high
+30.0-32.0 kDa,30.0,32.0,362,1,1,12,Actin_tubulin; Apoptosis; Autophagy; GAPDH_metabolic_controls; Histones; JNK_MAPK; Mitochondrial_membrane; Notch; Protein_phosphatases; Ribosomal_proteins; Toll_Imd_NFkB; Ubiquitin_proteasome,porin,Jra,"Fire-like, Dmel\CG10053, Dmel\CG13408, Jhbp5, BcDNA:SD21514, Dmel\CG13996, Ip259, Fst, Ric, Osi7, Q9VXA9, fd19B, aqz, mt:CoIII [Mitochondrial_membrane], CAHbeta, Dmel\CG8508, Dmel\CG4815, wupA",33.6,high
+32.0-34.0 kDa,32.0,34.0,320,0,1,8,Actin_tubulin; Mitochondrial_membrane; Notch; Protein_kinases; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome; Wnt_Wingless,,MED27,"Osi3, Mtap, Dmel\CG11095, Cchl, Dmel\CG13622, SPH199, anon2A5 [Mitochondrial_membrane], Dmel\CG10587, Dmel\CG14329, Dmel\CG34295, CG17837, Nubpl, Dmel\CG34206, Ing5, Dmel\CG8252, Dmel\CG34011, Osi6, HDC06756",23.5,high
+34.0-36.0 kDa,34.0,36.0,352,2,3,9,Actin_tubulin; Apoptosis; GAPDH_metabolic_controls; Notch; Protein_kinases; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome; Wnt_Wingless,"Gapdh1, Gapdh2","MED19, MED30, TORIP","TORIP, Dmel\CG10973, Teh1, Dmel\CG11617, RpL5 [Ribosomal_proteins], Dmel\CG34444, CAH14, LPP-like, Dmel\CG6067, Dmel\CG10465, MET30, Dmel\CG46434, Dmel\CG6972, Dmel\CG32371, Surf1, jhamt, Dmel\CG14420, Osi18",38.85,high
+36.0-38.0 kDa,36.0,38.0,329,0,0,7,Apoptosis; Autophagy; Notch; Protein_kinases; Protein_phosphatases; Ribosomal_proteins; Ubiquitin_proteasome,,,"EG:BACR43E12.6, Sbp2, PPP1R15 [Protein_phosphatases], Tengl1, Dmel\CG14511, AnxB9, Mdh1, Dmel\CG1275, jet, Sr-CIII, wmd, anon-WO0242455.53, Zip48C, TBC1d7, JMJD7, elgi [Ubiquitin_proteasome], Ski8, Gmer",21.7,elevated
+38.0-40.0 kDa,38.0,40.0,339,0,1,7,Histones; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ubiquitin_proteasome; Wnt_Wingless,,Torsin,"Dmel\CG10657, BVRA, Dmel\CG12224, sro, AlkB, Dmel\CG11674, QC, CG18512, CG7840, Tssk2, Dmel\CG8746, UBL3 [Ubiquitin_proteasome], Dmel\CG14074, Dmel\CG3397, Rpn8 [Ubiquitin_proteasome], Cyt-c1L, Dmel\CG10931, mtTFB1",23.7,high
+40.0-42.0 kDa,40.0,42.0,316,2,0,9,Actin_tubulin; GAPDH_metabolic_controls; Heat_shock_chaperones; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ubiquitin_proteasome; Wnt_Wingless,"Act42A, Act5C",,"Dmel\CG11367, Dmel\CG7530, Dmel\CG4983, Dmel\CG14445, CG5135, Dmel\CG2082, Cpr97Ea, Ubx, Dmel\CG17287, SP42, Uro, Bace, Gpdh2, Rbp6, Prp38, Dmel\CG5418, FMRFa, Dmel\CG8870",32.55,high
+42.0-44.0 kDa,42.0,44.0,313,0,2,8,Actin_tubulin; Apoptosis; JNK_MAPK; Notch; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ubiquitin_proteasome,,"Dsor1, bsk","Rpn13 [Ubiquitin_proteasome], Dmel\CG7810, Dmel\CG17134, Fa2h, Pbp45, CG13886, Arp53D [Actin_tubulin], Dmel\CG18563, HL03644, Dmel\CG17440, wkd, Ttc19, Dmel\CG14507, Dmel\CG18808, Dmel\CG12520, beg, Sdc, Rtc1",24.65,high
+44.0-46.0 kDa,44.0,46.0,330,0,0,10,Actin_tubulin; Autophagy; Heat_shock_chaperones; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ribosomal_proteins; Ubiquitin_proteasome; Wnt_Wingless,,,"CG12294, CG33047, Dmel\CG11099, Dmel\CG43711, Gr10b, sug, Dmel\CG8539, CtsK2, a6, Pect, BcDNA:SD02419, eIF3m, Dmel\CG2267, Lipt1, betaggt-I, Pk34A [Protein_kinases], anon-WO0118547.731, Dus4",24.0,high
+46.0-48.0 kDa,46.0,48.0,307,0,1,13,Actin_tubulin; Autophagy; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Notch; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ribosomal_proteins; Toll_Imd_NFkB; Ubiquitin_proteasome; Wnt_Wingless,,Egfrap,"Dmel\CG1105, Dmel\CG14834, SppL, Dmel\CG15056, Or94a, CG12822-PA, Dmel\CG3987, tin, Or42b, Gr85a, Or69a, Egfrap, Dmel\CG7264, Yp3, bip1, Dmel\CG9372, Dmel\CG9775, Gr22a",26.6,high
+48.0-50.0 kDa,48.0,50.0,300,2,0,12,Actin_tubulin; Apoptosis; Autophagy; Heat_shock_chaperones; Histones; Mitochondrial_membrane; Notch; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ubiquitin_proteasome; Wnt_Wingless,"alphaTub84B, alphaTub84D",,"GalT5, pre-lola-G, l(3)neo38, anon-WO0118547.264, PolD2 [Notch], sut4, rho-4, Dmel\CG10376, Diap1 [Apoptosis], CG13770, Dmel\CG3635, Dmel\CG10559, carboxypeptidase, 6959, Eig71Ee, cpt, M1BP, brwl",34.0,high
+50.0-52.0 kDa,50.0,52.0,291,1,2,10,Actin_tubulin; Apoptosis; Autophagy; BMP_TGFbeta; Histones; Mitochondrial_membrane; Notch; Protein_kinases; Ubiquitin_proteasome; Wnt_Wingless,betaTub56D,"Mad, PVRAP","Dmel\CG33116, T3dh, Dmel\CG12061, Dmel\CG14718, Sry-delta [Notch], Uba3, acs, amls, Stard7, Dmel\CG14696, CG12258, Dmel\CG8563, Herp, Dbct, IP3K1, loqs, eIF4H2, nvd",30.05,high
+52.0-54.0 kDa,52.0,54.0,265,0,3,8,Actin_tubulin; BMP_TGFbeta; Hedgehog; JNK_MAPK; Mitochondrial_membrane; Protein_kinases; Ubiquitin_proteasome; Wnt_Wingless,,"Smox, ptch, sgg","Acph-1, ppk30, Jheh2, Dmel\CG8366, Drep4, FBgn, Dmel\CG42826, polyph, Dmel\CG7239, BcDNA:LP01340, ap, Ets65A, path, Sms, Dph2, Orc5, Dmel\CG8785, Argk3",23.75,high
+54.0-56.0 kDa,54.0,56.0,247,1,2,10,Apoptosis; GAPDH_metabolic_controls; Heat_shock_chaperones; Histones; Insulin_PI3K_AKT_TOR; Mitochondrial_membrane; Protein_kinases; Ribosomal_proteins; Ubiquitin_proteasome; Wnt_Wingless,ATPsynbeta,"S6KL, S6k","CapaR, Dmel\CG32204, dmGlut, BcDNA:RE64043, ana, sut2, Dmel\CG17782, Mur29B, Rh50, Dmel\CG1774, Dmel\CG11927, Dmel\CG5653, Dmel\CG14015, Dmel\CG18493, Dh44-R2, Dmel\CG15572, trbl, PIG-M",27.85,high
+56.0-58.0 kDa,56.0,58.0,277,0,1,9,Apoptosis; Autophagy; GAPDH_metabolic_controls; Mitochondrial_membrane; Notch; Protein_kinases; Protein_phosphatases; Toll_Imd_NFkB; Ubiquitin_proteasome,,pll,"Rpn3 [Ubiquitin_proteasome], gene, Dmel\CG16721, PIG-Q, Es2, Ofut2, emei, CtIP, Dmel\CG3610, Synd, PGRP-LC, Dmel\CG7352, SmydA-9, mthl6, B-H1, Cp7Fb, VGlut2, Vml",22.1,elevated
+58.0-60.0 kDa,58.0,60.0,306,0,1,10,Actin_tubulin; Apoptosis; Heat_shock_chaperones; Histones; Insulin_PI3K_AKT_TOR; Mitochondrial_membrane; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome; Wnt_Wingless,,Pten,"Dmel\CG7910, Cyp6a9, CG40146, Dmel\CG14868, Dmel\CG7115, TkR86C, swi2, fon, CG11945, Klc, tup, Tpst, CCT2, coro, Dus1, Dmel\CG14655, Adgf-D, TBPH",24.3,high
+60.0-62.0 kDa,60.0,62.0,241,0,2,8,Actin_tubulin; GAPDH_metabolic_controls; Heat_shock_chaperones; Histones; Notch; Protein_kinases; Toll_Imd_NFkB; Ubiquitin_proteasome,,"Myd88, Panx","Kap-alpha1, gish [Protein_kinases], C901 [Notch], Ubi-p5E [Ubiquitin_proteasome], CG17099, LPCAT, Cyp9h1, Dgkepsilon, Dmel\CG14223, Dmel\CG9784, Eogt, AC, Saft, klg, Ugt49B1, CG13382, Dmel\CG3347, Dmel\CG32454",21.05,elevated
+62.0-64.0 kDa,62.0,64.0,207,0,0,4,Histones; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome,,,"RluA-2, Dmel\CG5191, NimA, Dmel\CG42304, Ada2b, Dmel\CG7492, emp, anon-WO0140519.45, Dmel\CG1271, BcDNA:GH24648, swa, Dmel\CG3281, Dmel\CG6479, mthl11, Jhedup, Ptp61F [Protein_phosphatases], Snmp1, PH4alphaNE2",13.35,elevated
+64.0-66.0 kDa,64.0,66.0,224,1,1,10,Autophagy; BMP_TGFbeta; GAPDH_metabolic_controls; Heat_shock_chaperones; Histones; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ribosomal_proteins; Ubiquitin_proteasome,ref(2)P,dpp,"Atac3, nAChRalpha1, Dmel\CG11380, Dmel\CG17636, Dmel\CG11498, Alat, CG13007, Ttc26, Mfe2, Dmel\CG3544, kairos, d3635, CG33124-PB, Tdp1, CG31668-PB, gas, CG15332, Adck5",25.2,high
+66.0-68.0 kDa,66.0,68.0,183,0,1,9,Actin_tubulin; BMP_TGFbeta; Insulin_PI3K_AKT_TOR; Mitochondrial_membrane; Notch; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome; Wnt_Wingless,,foxo,"CG10428, CG10532 [Protein_kinases], Dmel\CG13870, DS06874.7, Slc45-1, RanGAP, pie, Dmel\CG11964 [Wnt_Wingless], Dmel\CG10801, Ugt305A1, dyl, vlc, ChLD3, E(var)3-9, Dmel\CG4382, schuy, Mst84B, opa",17.4,elevated
+68.0-70.0 kDa,68.0,70.0,195,1,1,7,Autophagy; Heat_shock_chaperones; Hedgehog; Notch; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome,Cnx99A,aPKC,"lovit, CG3430, Cnx99A, Dmel\CG8547, Dus3, Tkt, anon-WO0118547.91, Menl-1, myo, Pgant8, Mettl3, dind, ppk9, Dmel\CG17803, Moe, sav, TyrR, Dmel\CG33296",21.5,elevated
+70.0-72.0 kDa,70.0,72.0,180,2,2,3,Heat_shock_chaperones; Histones; Protein_kinases,"Hsc70-4, Lam","MED17, Madm","l(2)k01209, Ir94a, Klp59C, mtDNA-helicase, eIF2A, Dmel\CG13786, Dmel\CG9521, Dmel\CG7246, eyg, Hayan, Dmel\CG4669, CCDC151, mxt, RSG7, Ance-4, Hsp70Aa [Heat_shock_chaperones], Hsp70Ab [Heat_shock_chaperones], dpr15",24.25,high
+72.0-74.0 kDa,72.0,74.0,147,0,0,5,Actin_tubulin; Heat_shock_chaperones; Protein_kinases; Protein_phosphatases; Wnt_Wingless,,,"Alg9, pasha, Dmel\CG4459, Tdc2, Dmel\CG13605, Fim, dah [Actin_tubulin], Pgant5, byn, CYLD, Rph, Dmtn, IntS10, Hsc70-3 [Heat_shock_chaperones], PK2-R1, Gat, Idua, Dmel\CG13458",11.1,elevated
+74.0-76.0 kDa,74.0,76.0,144,0,2,9,Actin_tubulin; Autophagy; BMP_TGFbeta; Heat_shock_chaperones; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Toll_Imd_NFkB; Ubiquitin_proteasome,,"Ptcd3, Tak1","Dmel\CG5953, Rsph3, Pgant4, Myb, Papss, dsf, Hsc70-5 [Heat_shock_chaperones], Dmel\CG9289, Dmel\CG8925, Cip4, Dmel\CG5687, Adar, HBS1, Kif3C, Sh, Ptcd3, Cp110, Lasp",16.95,elevated
+76.0-78.0 kDa,76.0,78.0,160,0,1,9,Autophagy; BMP_TGFbeta; Heat_shock_chaperones; Histones; Insulin_PI3K_AKT_TOR; Mitochondrial_membrane; Notch; Protein_kinases; Ribosomal_proteins,,brk,"CG2614, Acox57D-p, pira, Dmel\CG11369, Dmel\CG12990, Fmr1, Dmel\CG13097, cg3225, Dmel\CG4822, Gyc89Da, pon, Pak [Protein_kinases], CarT, Dmel\CG10481, Klp64D, sbr, Dmel\CG31693, IP3K2",16.25,elevated
+78.0-80.0 kDa,78.0,80.0,121,0,0,3,Protein_kinases; Ubiquitin_proteasome; Wnt_Wingless,,,"Dmel\CG5608, Gfat1, Dmel\CG15473, Pep, Dmel\CG13325, CG9561, Gyg, IME2 [Protein_kinases], ZnT33D, Ir75d, Dmel\CG7179, Dmel\CG4712, Ror [Protein_kinases], CG9213, nvy, Dmel\CG4576, feo, Nopp140",8.3,elevated
+80.0-82.0 kDa,80.0,82.0,128,1,3,8,Apoptosis; BMP_TGFbeta; Heat_shock_chaperones; JNK_MAPK; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome; Wnt_Wingless,Hsp83,"MED15, Med, kay","Dmel\CG33337, Exo70, Mks1, qtc, Cka, Nepl14, Dmel\CG12239, sens-2, Trim9 [Ubiquitin_proteasome], Dmel\CG6225, Dmel\CG13671, m-cup, PIG-Z, Socs36E, Pink1 [Protein_kinases], gro, Dmel\CG12010, Mipep",21.9,elevated
+82.0-84.0 kDa,82.0,84.0,114,0,1,4,GAPDH_metabolic_controls; Protein_kinases; RAS_ERK_MAPK; Ubiquitin_proteasome,,Raf,"Mitofilin, Sec10, BTBD9, Dmel\CG5664, Nep7, Rsph4a, FoxK, CG18499, dx, CG11074, Dmel\CG34141, ths, knon, Dmel\CG44435, yin, Orc3, Mcm5, REPTOR",10.2,elevated
+84.0-86.0 kDa,84.0,86.0,92,0,2,4,Actin_tubulin; Notch; Protein_kinases; Ubiquitin_proteasome,,"Mad1, PAN3","t-Grip84 [Actin_tubulin], Pbp95, CG42342, Mtpalpha, Cog7, Ir40a, P5CS [Notch], bnl, l(2)dtl, Nsun2, CysRS, crn, EG:BACR42I17.8, CG5100, anon-WO0140519.42, TTLL6B [Actin_tubulin], Dmel\CG30471, Fpgs2",10.6,elevated
+86.0-88.0 kDa,86.0,88.0,89,0,1,4,Actin_tubulin; Histones; JAK_STAT; Protein_kinases,,Stat92E,"TTLL3B [Actin_tubulin], Crtp, Tmem63, Best1, Dmel\CG7248, Cad96Ca, Oseg5, tw, Vrp1, Unc-115b, anon-WO0172774.162, Dmel\CG5355, Dmel\CG16786, Dmel\CG10663, BcDNA:AT10318, IKKbeta, Dmel\CG9467, Stat92E [JAK_STAT]",8.95,elevated
+88.0-90.0 kDa,88.0,90.0,86,0,2,6,GAPDH_metabolic_controls; Histones; Notch; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome,,"DppIII, MED16","Xpd, Dmel\CG13907, Fili, Sf3a1, Efhc1.2, mal, Nep2, CG10958, trbd [Ubiquitin_proteasome], Sobp, Klp68D, BcDNA:HL07910, su(f), bru1, aru, Dmel\CG31784, zf30C, Oatp33Eb",11.8,elevated
+90.0-92.0 kDa,90.0,92.0,80,0,1,6,Heat_shock_chaperones; Histones; Protein_kinases; Toll_Imd_NFkB; Ubiquitin_proteasome; Wnt_Wingless,,arm,"Dmel\CG17111, CT30663, Spg7, sca, CG31530, klu, Dmel\CG32320, Gp93 [Heat_shock_chaperones], Tehao, fu [Protein_kinases], hay, CG12084, roq [Ubiquitin_proteasome], Muc96D, CG5033, Mayo, Dyb, Edem2",10.0,elevated
+92.0-94.0 kDa,92.0,94.0,76,0,0,4,Autophagy; Histones; Protein_kinases; Ubiquitin_proteasome,,,"Dmel\CG13643, Dmel\CG12241, Dmel\CG8613, POSH, p115, Dmel\CG17732, Usp5 [Ubiquitin_proteasome], Gcn5 [Histones], Dmel\CG5290, topi, Sln, hrg, Dmel\CG15160, br, Tsf2, Klp67A, Mcm6, Not3",6.8,elevated
+94.0-96.0 kDa,94.0,96.0,76,0,1,4,Actin_tubulin; Protein_kinases; Ubiquitin_proteasome; Wnt_Wingless,,heph,"Hdc, Srpk79D [Protein_kinases], Pdk1 [Protein_kinases], kek6, Brd8, CG12167, CG42506, Dmel\CG31195, EG:125H10.1, prage, Cul4, eEF2, Hil, Noc3, GABA-B-R1, kek1, Dmel\CG10333, Dmel\CG32668 [Wnt_Wingless]",8.3,elevated
+96.0-98.0 kDa,96.0,98.0,77,0,1,3,Autophagy; Hedgehog; Protein_kinases,,MED25,"Zn72D, lmd, CG17740, Dmel\CG11248, Targ, mus304, Lap1, GCS1, D19A, Atg9 [Autophagy], tara, Dnaaf5, lin, nan, Snrk [Protein_kinases], Dmel\CG17816, Reps, 148274_at",7.6,elevated
+98.0-100.0 kDa,98.0,100.0,71,0,0,3,Actin_tubulin; Histones; Insulin_PI3K_AKT_TOR,,,"ClC-c, Dmel\CG31327, simj, CG18546, CG9416-PA, in, Dmel\CG14085, Dmel\CG2938, Ance-3, Dmel\CG10062, rgn, Dmel\CG17739, Dmel\CG10081, Hmgcr, Dmel\CG13160, Appl, PF1, Sdr [Insulin_PI3K_AKT_TOR]",5.8,routine
+100.0-102.0 kDa,100.0,102.0,73,0,1,3,Actin_tubulin; Protein_kinases; Ubiquitin_proteasome,,S6kII,"mip120, sano, goe, Su(z)12, Dmel\CG30043, Lerp, Vps39, Nep5, Dmel\CG45067, Dmel\CG5787, mfas, pad, Pcif1, Dmel\CG8665, NT1, Dmel\CG13008, Mcm2, mahe",7.4,elevated
+102.0-104.0 kDa,102.0,104.0,74,0,0,4,Actin_tubulin; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome,,,"dysf, CG15175, Pde8, Saf-B, CT7856, Dmel\CG1737, GluRIIE, Dmel\CG6834, rgr, Rpn1 [Ubiquitin_proteasome], Prm, alpha-Cat, CG2164, kek5, Dmel\CG9861, gem, Dmel\CG14183, bi",6.7,elevated
+104.0-106.0 kDa,104.0,106.0,71,0,4,5,Actin_tubulin; Histones; Insulin_PI3K_AKT_TOR; Protein_kinases; Toll_Imd_NFkB,,"Dpp10, Toll-9, smog, tor","Toll-9 [Toll_Imd_NFkB], Spps, dgo, Dmel\CG6059, Pkd2, CR31846, Atxn7, CG17740, Dmel\CG10413, Shark [Protein_kinases], GluRIIB, Dmel\CG9411, Cep104, Dmel\CG4907, Vha100-3, smid, TTLL5 [Actin_tubulin], ukar",13.3,elevated
+106.0-108.0 kDa,106.0,108.0,61,0,1,4,Insulin_PI3K_AKT_TOR; Notch; Protein_phosphatases; Ubiquitin_proteasome,,chico,"Dmel\CG2839, frtz, tmn, su(w[a]), Calx, Dmel\CG30484, Ir8a, Vinc, Pdpr, twy, crol, Actn, CG5253, Lztr1, Dmel\CG11951, ssp2, CG31177, side",7.55,elevated
+108.0-110.0 kDa,108.0,110.0,76,0,1,5,Actin_tubulin; Protein_kinases; Protein_phosphatases; RAS_ERK_MAPK; Ubiquitin_proteasome,,Rel,"SP1029, Rhau, CenG1A, pepCG2111, melt, Ir25a, pHCl-1, EMSY, BBS9, Patr-1, CG33090, Orp8, Dmel\CG31343, tio, Dmel\CG14650, ftz-f1, cg9346, Mco1",9.05,elevated
+110.0-112.0 kDa,110.0,112.0,56,0,1,3,Actin_tubulin; Protein_kinases; Ubiquitin_proteasome,,MED24,"Rgl, side-IV, Cse1, stau, wtrw, Dmel\CG31077, brat, Khc, mip130, stg1, Cals, dbr, Dmel\CG14309, Dmel\CG4849, Rnb, RhoGAP54D, del, KCNQ",6.55,elevated
+112.0-114.0 kDa,112.0,114.0,68,0,0,5,Actin_tubulin; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome; Wnt_Wingless,,,"CG15516, egl, Dmel\CG17707, Dis3, stx, Ccdc39, TTLL3A [Actin_tubulin], defl, Nmdar1, lov, E23, JYalpha, Rev1, Wnt5 [Wnt_Wingless], MstProx, MetRS, solo, Dmel\CG6686",7.15,elevated
+114.0-116.0 kDa,114.0,116.0,49,0,0,5,Actin_tubulin; Notch; Protein_kinases; Protein_phosphatases; Ubiquitin_proteasome,,,"scny [Ubiquitin_proteasome], Dmel\CG32107, Dmel\CG4887, eater, Dmel\CG5877, Dmel\CG16952, Edem1, otk [Protein_kinases], Gcna, S1P, Dmel\CG14442, Ipo9, side-II, LManIII, Dmel\CG12075, Pdzd8, Dmel\CG15635, Pcl",6.2,routine
+116.0-118.0 kDa,116.0,118.0,44,0,1,2,Hedgehog; Ubiquitin_proteasome,,smo,"CG7198, Clk, Usp1 [Ubiquitin_proteasome], CG8775, unc-5, Gem3, Dmel\CG16989, Ddr, smo [Hedgehog], Unr, Hcs, asl, zfh1, Dmel\CG13457, Apc2, mwh, SPoCk, ome",5.2,routine
+118.0-120.0 kDa,118.0,120.0,41,0,0,2,Protein_kinases; Ubiquitin_proteasome,,,"Kap3, Dmel\CG31897, Dis3l2, Tsp, CycT, Tao [Protein_kinases], lds, Ack, ebo, sfl, sxc, CG7388, CngB, Dmel\CG7058, Dmel\CG43968, Glt, srl, ValRS",3.55,routine
+120.0-122.0 kDa,120.0,122.0,43,0,0,4,Hedgehog; Insulin_PI3K_AKT_TOR; Protein_kinases; Ubiquitin_proteasome,,,"l(2)05287, Ire1 [Protein_kinases], Lrpprc2, IRSp53 [Insulin_PI3K_AKT_TOR], Dmel\CG15186, lincRNA.S6902, Prp39, Dmel\CG17097, PNUTS, milt, CG14535, Arts, cg33288, Dmel\CG6280, Lpin, boi [Hedgehog], Gp150, Apl",5.15,routine
+122.0-124.0 kDa,122.0,124.0,29,0,0,3,Actin_tubulin; Protein_kinases; Ubiquitin_proteasome,,,"Impbeta11, Dmel\CG13251, Dmel\CG13921, Nmdar2, GlyT, Dmel\CG10588, wts [Protein_kinases], Dmel\CG3744, Dmel\CG8155, Cpr76Bd, LManII, Psa, emb, Ogdh1, Nin, Liprin-gamma, TTLL4A [Actin_tubulin], dia",3.7,routine
+124.0-126.0 kDa,124.0,126.0,42,0,2,5,JNK_MAPK; Notch; Protein_kinases; RAS_ERK_MAPK; Toll_Imd_NFkB,,"RAF2, hep","MEP-1, Dmel\CG6614, dati, CG12982, Dmel\CG15599, Pde6, pico, SREBP, BEST:GM10035, ush, spd-2, Pacs, scb, thw, Dna2, FBXO11, Tl [Toll_Imd_NFkB], iav",8.85,elevated
+126.0-128.0 kDa,126.0,128.0,43,0,1,4,Actin_tubulin; Insulin_PI3K_AKT_TOR; Protein_kinases; RAS_ERK_MAPK,,Pi3K92E,"side-V, pic, 2mit, par-1, eag, wry, Eip93F, Dmel\CG4467, mura, Map205, alpha-Man-IIa, subdued, l(2)gl, sac, l(3)L1231, Pi3K92E [Insulin_PI3K_AKT_TOR], X11L, Trpgamma",6.65,elevated
+128.0-130.0 kDa,128.0,130.0,43,0,0,3,Histones; Protein_kinases; Ubiquitin_proteasome,,,"CG12982, fw, mus312, Dmel\CG12983, Dmel\CG14441, Cdk12 [Protein_kinases], Hip1, Polr1B, Lk6 [Protein_kinases], Polr3B, GH25970, 1273, Dmel\CG43333, ACXE, Dmel\CG3356 [Ubiquitin_proteasome], stl, Flacc, Ankle2",4.4,routine
+130.0-132.0 kDa,130.0,132.0,36,0,1,3,Protein_kinases; Toll_Imd_NFkB; Ubiquitin_proteasome,,Toll-4,"cdi, bon, SA1, GCC185, MBD-R2, Dmel\CG18596, Oatp30B, CG31149, chn, Ac3, Usp7 [Ubiquitin_proteasome], Ctr9, mmm, slam, Magi, CG12211, Uba1 [Ubiquitin_proteasome], HDAC6",5.55,routine
+132.0-134.0 kDa,132.0,134.0,32,0,1,4,GAPDH_metabolic_controls; Hedgehog; Protein_kinases; Wnt_Wingless,,pan,"Sym, pan [Wnt_Wingless], RasGAP1, Dmel\CG4835, PIP82, CG12967, hppy [Protein_kinases], Pcb, Dmel\CG1695, Nrd1, Dgk, slo, CG8970, Msh6, Sordl [GAPDH_metabolic_controls], cos, Dmel\CG7728, Frl",6.1,routine
+134.0-136.0 kDa,134.0,136.0,36,0,2,4,Actin_tubulin; Heat_shock_chaperones; JAK_STAT; Protein_kinases,,"armi, hop","Dmel\CG5756, Polr2B, kz, srp, L, BcDNA:GH07466, SMC2, Eps-15, hbs, ACXD, Dmel\CG18368, CG32809, Tbcd [Actin_tubulin; Heat_shock_chaperones], Synj, Blimp-1, LeuRS, Sgs1, Nelf-A",7.8,elevated
+136.0-138.0 kDa,136.0,138.0,36,0,0,4,Histones; JNK_MAPK; Protein_kinases; Protein_phosphatases,,,"scra, ATP7, Dmel\CG1647, Top3alpha, pdm3, HDAC4 [Histones], Prp5, Octbeta3R, Mat89Ba, kuz, Dmel\CG6230, GramD1B, Sf3b3, syd [JNK_MAPK], CG12644, CG7065, anon-15Db, Nlg2",4.8,routine
+138.0-140.0 kDa,138.0,140.0,47,0,1,2,Actin_tubulin; Ubiquitin_proteasome,,PAN2,"CG32543, bun, tapas, Sec31, prom, GABA-B-R2, Ube4B [Ubiquitin_proteasome], AOX4, Dmel\CG3632, Fur1, PMCA, Ret, Dmel\CG42260, Usp15-31, Asator [Actin_tubulin], pds5, rdgB, PAN2",5.35,routine
+140.0-142.0 kDa,140.0,142.0,28,0,0,2,Histones; Notch,,,"SMC3, Upf2, Dmel\CG9727, AOX2, pod1, CT33170, CG9776, CG18490, Gfrl, CG7766, disco-r, Dmel\CG30122, EHR, mu2, Ca-Ma2d [Notch], pk, Isha, jvl",2.9,routine
+142.0-144.0 kDa,142.0,144.0,40,0,2,2,Hedgehog; JAK_STAT,,"dome, ptc","sl, Dmel\CG9068, Dmel\CG32719, dome [JAK_STAT], Dmel\CG6938, SCAP, trp, Mdr49, Fife, Ae2, Elp1, Ac76E, Dmel\CG4213, ptc [Hedgehog], a, SMC1, RhoGAP102A, Muc11A",6.5,elevated
+144.0-146.0 kDa,144.0,146.0,23,0,0,1,Protein_phosphatases,,,"Xpc, Dp1, blo, kibra, RtGEF, Gart, robo3, gprs, Dmel\CG4393, inaE, CG13520, Ptp99A [Protein_phosphatases], Dmel\CG33125, Cap-D3, Dme_CG9270, Mdr50, Nrx-IV, pwn",1.9,routine
+146.0-148.0 kDa,146.0,148.0,37,0,0,2,BMP_TGFbeta; Histones,,,"cyst, Nhe2, Dmel\CG1582, row, CG13256, Kdm2 [Histones], bin3, RhoGAP93B, Gpdh3, Sara [BMP_TGFbeta], Plc21C, Su(z)2, mtd, ed, Dmel\CG10226, Dmel\CG17211, bdg, Kank",3.35,routine
+148.0-150.0 kDa,148.0,150.0,23,0,1,2,Protein_kinases; Ubiquitin_proteasome,,MED1,"Dmel\CG7376 [Ubiquitin_proteasome], Ih, Myo95E, Pfas, CG17338, Alms1a, XNP, Dmel\CG13131, Vps15 [Protein_kinases], Ndg, gry, Ge-1, Cyfip, CG43427, Pex23, cnn, MED1, Sf3b1",4.15,routine
+150.0-152.0 kDa,150.0,152.0,27,0,0,3,Notch; Protein_kinases; Ubiquitin_proteasome,,,"Dmel\CG11898, FER [Protein_kinases], SP2353, salm, Nost, BG:DS03192.2, Dmel\CG4294, Ser [Notch], rk, Rab3-GAP, Kpc1 [Ubiquitin_proteasome], Dmel\CG14120, EP(2)2054, fid, Dmel\CG8492, Eip75B, wisp, Corin",3.6,routine
+152.0-154.0 kDa,152.0,154.0,28,0,1,5,Autophagy; Hedgehog; Protein_kinases; Protein_phosphatases; Toll_Imd_NFkB,,Tollo,"Dmel\CG4301, rad50, Atg17 [Autophagy], Nlg4, Dme_CG7627, rha, Dmel\CG10132, SNF4Agamma [Protein_kinases], ATP8A, Dred, drosha, Hipk [Protein_kinases], PTP-ER, l(2)03659, ci [Hedgehog], Tollo [Toll_Imd_NFkB], Oseg6, CG2691",6.65,elevated
+154.0-156.0 kDa,154.0,156.0,23,0,0,0,,,,"CT23878, unc-13-4A, if, Cc2d2a, Taf3, CG17465, CG8154, nolo, Polr3A, Dmel\CG42326, 18w, Grip163, dtn, jing, rdog, Pld, Ask1, Dmel\CG10211",1.15,routine
+156.0-158.0 kDa,156.0,158.0,22,0,0,1,Ubiquitin_proteasome,,,"tim, Dmel\CG10254, Dmel\CG43795, PolrMT, wde, Rif1, Hecw [Ubiquitin_proteasome], Cftr, Br140, Muc68D, bsf, rho-5, Ice1, Cap-D2, Girdin, pum, thr, Cenp-C",1.85,routine
+158.0-160.0 kDa,158.0,160.0,28,0,1,1,Protein_kinases,,Egfr,"lqfR, fred, Sik3 [Protein_kinases], Cont, CG7457, Tep2, mus101, Glut1, Tomosyn, Hmr, sle, Gmap, TppII, svr, Chs2, CG11846, NSD, Tango1",3.65,routine
+160.0-162.0 kDa,160.0,162.0,17,0,1,2,Protein_kinases; Toll_Imd_NFkB,,Toll-7,"Ptp52F, rdgA, Hcf, Nup160, Rok [Protein_kinases], MnM, sws, clu, FAM21, Pde11, Toll-7 [Toll_Imd_NFkB], Cg8945, LRR, CG6740, CG11578, ph-d, Larp4B",3.85,routine
+162.0-164.0 kDa,162.0,164.0,21,0,0,1,Protein_kinases,,,"CG16868, Tlk [Protein_kinases], l(2)k05819, Dmel\CG17233, DAAM, msn [Protein_kinases], mamo, mtt, mmd, Hr4, Pde9, NAT1, l(3)mbt, CG7701, tinc, pns, prc, Dmel\CG34347",1.8,routine
+164.0-166.0 kDa,164.0,166.0,22,0,1,0,,,MED26,"anne, tn, Top2, Dmel\CG16711, Lpt, spn-E, Cpsf160, Usp10, mesh, Skel, BubR1, tok, Claspin, MED26, Dmel\CG7806, chb, Dark, sima",2.6,routine
+166.0-168.0 kDa,166.0,168.0,16,0,1,1,Protein_phosphatases,,MED23,"CG9137, Blm, robo2, Dm_2L:23546, CG33291, Fak, MED23, mam, ph-p, loco, CG11005, Ptp69D [Protein_phosphatases], Fancd2, Dmel\CG12105, cv-d, rempA",3.05,routine
+168.0-170.0 kDa,168.0,170.0,23,0,0,0,,,,"dtr, tutl, sns, Dmel\CG42788, Rbcn-3B, SoYb, CG18419, sli, sba, Tep4, fra, Kul, CG15028, Dmel\CG32681, Dmel\CG15894, Fancm, OtopLc, nsl1",1.15,routine
+170.0-172.0 kDa,170.0,172.0,15,0,1,2,Protein_kinases; Toll_Imd_NFkB,,Toll-6,"Golgin245, Toll-6 [Toll_Imd_NFkB], Ank, zld, Acf, Dmel\CG42637, Gyc76C, Pxn, CG13980, Dmel\CG15080, Dmel\CG4744, cnk, Abl [Protein_kinases], GEFmeso, PDZ-GEF",3.75,routine
+172.0-174.0 kDa,172.0,174.0,17,0,1,1,Ubiquitin_proteasome,,MED14,"C3G, mahj, atk, Dmel\CG6454, NP_649372, Ulp1, MED14, salsa, Cadps, Dmel\CG31140, Shrm, Tmem131, raskol, MRP, Gyf, Usp47 [Ubiquitin_proteasome], CG4093",3.1,routine
+174.0-176.0 kDa,174.0,176.0,15,0,0,0,,,,"Dmel\CG34027, Alh, RhoGAP15B, ninaC, Col4a1, sol, Dmel\CG33235, Uggt, plx, Nup214, chas, nompA, Dmel\CG8086, osp, RecQ4",0.75,routine
+176.0-178.0 kDa,176.0,178.0,12,0,1,0,,,Pvr,"Efa6, Dmel\CG42390, Iml1, ImpE1, frac, raptor, Pvr, Mekk1, CG13812, Dmel\CG11970, Duox, Sos",2.1,routine
+178.0-180.0 kDa,178.0,180.0,11,0,0,1,Protein_kinases,,,"Dmel\CG14322, larp, wge, CT39634, wake, CG32778, RhoGAPp190, Gcn2 [Protein_kinases], dec, CG13632, Asx",1.3,routine
+180.0-182.0 kDa,180.0,182.0,7,0,1,1,Notch,,Arms,"lilli, sha, sno [Notch], ms(2)34Fe, side-III, Arms, Zmynd8",2.6,routine
+182.0-184.0 kDa,182.0,184.0,14,0,0,0,,,,"LanB2, flz, Eato, kkv, CG11620, fwd, Bap170, Agl, Fur2, Hasp, G9a, Patronin, Daxx, cmb",0.7,routine
+184.0-186.0 kDa,184.0,186.0,14,0,0,0,,,,"cora, Q9VHT6_DROME, pcm, Gucy2d, pros, Dmel\CG17687, brm, wapl, sas, Dmel\CG8908, PolR1A, Alk, Srrm234, Dmel\CG42685",0.7,routine
+186.0-188.0 kDa,186.0,188.0,11,0,0,1,Protein_kinases,,,"gek [Protein_kinases], Dmel\CG10543, Cad99C, mon2, Crag, Ino80, Arip4, CG15703, arr, Cirl, Sec71",1.3,routine
+188.0-190.0 kDa,188.0,190.0,17,0,0,1,Histones,,,"Ac13E, Set1 [Histones], tho2, mfr, enc, l(1)G0196, woc, form3, Ac78C, CLIP-190, chif, unc-104, GluProRS, polybromo, hwt, AdamTS-A, CG32689",1.6,routine
+190.0-192.0 kDa,190.0,192.0,11,0,0,0,,,,"Dmel\CG6040, Dmel\CG1801, Dmel\CG31635, Mrtf, Setx, Muc30E, gukh, anon-WO0140519.52, Chc, Gapvd1, Tdg",0.55,routine
+192.0-194.0 kDa,192.0,194.0,11,0,0,0,,,,"Slik, nompC, Dmel\CG7029, ssp3, Abca3, c11.1, spri, ec, ATP8B, CG8473, vkg",0.55,routine
+194.0-196.0 kDa,194.0,196.0,14,0,0,1,Ubiquitin_proteasome,,,"Rbp, DIP2, Dmel\CG1494, ana1, Mur2B, Neurl4 [Ubiquitin_proteasome], Trf2, Dmel\CG6052, CG7696, Muc68E, cic, Oseg2, Dmel\CG10185, mute",1.45,routine
+196.0-198.0 kDa,196.0,198.0,5,0,0,0,,,,"Nup153, Zcchc7, THADA, mxc, Dcr-2",0.25,routine
+198.0-200.0 kDa,198.0,200.0,9,0,0,1,Ubiquitin_proteasome,,,"RhoGAP100F, LanB1, Remo, Ltn1 [Ubiquitin_proteasome], CG43867, Prosap, Usp32 [Ubiquitin_proteasome], Nrx-1, tyf",1.2,routine
+200.0-202.0 kDa,200.0,202.0,8,0,0,1,Histones,,,"Ptp4E, mop, scrib, CadN2, Spt20, Cad74A, CG12973, gpp [Histones]",1.15,routine
+202.0-204.0 kDa,202.0,204.0,8,0,0,1,Notch,,,"velo, Mcr, stum, BG:DS03323.1 [Notch], CG40500, rsh, CG12436, Kdm5",1.15,routine
+204.0-206.0 kDa,204.0,206.0,11,0,0,0,,,,"gig, CdGAPr, rols, fab1, hlk, ZAP3, SLO2, fs(1)h, CG15607, peb, CG11460",0.55,routine
+206.0-208.0 kDa,206.0,208.0,4,0,0,0,,,,"CG42286, Dmel\CG13991, clos, fs(1)M3",0.2,routine
+208.0-210.0 kDa,208.0,210.0,11,0,0,1,Ubiquitin_proteasome,,,"didum, Spg11, Ubr1 [Ubiquitin_proteasome], Spt6, Dmel\CG15040, vir, Polr2A, anon-WO0140519.124, f, Gp210, Dlg5",1.3,routine
+210.0-212.0 kDa,210.0,212.0,12,0,0,2,Insulin_PI3K_AKT_TOR; Protein_kinases,,,"Nup98-96, CG34048, Pi3K68D [Insulin_PI3K_AKT_TOR], Dmel\CG16779, Pura, Dmel\CG2861, eIF4G1, qin, CG34384, sti [Protein_kinases], tea, Chd1",2.1,routine
+212.0-214.0 kDa,212.0,214.0,12,0,0,1,Ubiquitin_proteasome,,,"CG8858 [Ubiquitin_proteasome], cac, CG9487, e(y)3, Pcf11, Cngl, Hel89B, Gug, Dmel\CG18304, Nup188, hang, px",1.35,routine
+214.0-216.0 kDa,214.0,216.0,7,0,0,2,Autophagy; Insulin_PI3K_AKT_TOR,,,"PAPLA1, rictor [Insulin_PI3K_AKT_TOR], RhoGEF64C, Atg2 [Autophagy], jv, tai, l(3)psg2",1.85,routine
+216.0-218.0 kDa,216.0,218.0,7,0,0,0,,,,"BcDNA:GH04922, CG5521, Dscam4, Cad87A, Wdr81, sdt, ca",0.35,routine
+218.0-220.0 kDa,218.0,220.0,6,0,0,0,,,,"PlexA, mim, Khc-73, mld, Dmel\CG13917, yl",0.3,routine
+220.0-222.0 kDa,220.0,222.0,8,0,0,0,,,,"FBgn, Cad86C, garz, Sin3A, Stacl, Cda5, Cad88C, cana",0.4,routine
+222.0-224.0 kDa,222.0,224.0,9,0,0,2,Actin_tubulin; Protein_phosphatases,,,"Dscam1, pps, Dmel\CG14200, Ptp10D [Protein_phosphatases], Spc105R, mtgo, t-Grip91 [Actin_tubulin], Dora, Camta",1.95,routine
+224.0-226.0 kDa,224.0,226.0,13,0,0,1,Protein_kinases,,,"Mi-2, ldd, Mhc, Mur89F, Exn, Sbf, Dmel\CG15824, dop [Protein_kinases], Trpm, ana3, Lrp4, msps, CG10020",1.4,routine
+226.0-228.0 kDa,226.0,228.0,8,0,0,1,RAS_ERK_MAPK,,,"Rab3-GEF [RAS_ERK_MAPK], eIF4G2, cno, shtd, Tmc, Dscam2, Dmel\CG5937, Cep290",1.15,routine
+228.0-230.0 kDa,228.0,230.0,5,0,0,1,Protein_phosphatases,,,"Dscam3, E(Pc), Lar [Protein_phosphatases], CG6947, PolQ",1.0,routine
+230.0-232.0 kDa,230.0,232.0,6,0,0,0,,,,"asp, Helz, mbc, sif, X11Lbeta, PlexB",0.3,routine
+232.0-234.0 kDa,232.0,234.0,9,0,0,0,,,,"Glts, RhoGAP19D, CG31652, Root, Dmel\CG10011, sbb, Spn, crb, ct",0.45,routine
+234.0-236.0 kDa,234.0,236.0,10,0,0,0,,,,"eys, toc, Nirvana, Nav, Zir, Dmel\CG43366, IntS1, Nup205, Elys, nocte",0.5,routine
+236.0-238.0 kDa,236.0,238.0,6,0,0,0,,,,"zip, Nipped-B, EP2317, Dmel\CG12499, Heatr1, Heatr5",0.3,routine
+238.0-240.0 kDa,238.0,240.0,8,0,1,1,Insulin_PI3K_AKT_TOR,,InR,"Zasp52, fs(1)N, cher, Taf1, para, xmas, rod, InR [Insulin_PI3K_AKT_TOR]",2.65,routine
+240.0-242.0 kDa,240.0,242.0,6,0,0,0,,,,"PolZ1, Myo81F, MESR4, axo, CG6448, ocm",0.3,routine
+242.0-244.0 kDa,242.0,244.0,4,0,0,0,,,,"Pi4KIIIalpha, Dab, Myo28B1, CG12432",0.2,routine
+244.0-246.0 kDa,244.0,246.0,6,0,0,0,,,,"CG15207, Brr2, nrm, Mhcl, klar, Lmpt",0.3,routine
+246.0-248.0 kDa,246.0,248.0,6,0,0,2,Histones; Ubiquitin_proteasome,,,"sdk, ash1 [Histones], r, Ubr3 [Ubiquitin_proteasome], na, spg",1.8,routine
+248.0-250.0 kDa,248.0,250.0,5,0,0,0,,,,"Sur, zye, BRWD3, Adcy1, obe",0.25,routine
+250.0-252.0 kDa,250.0,252.0,4,0,0,0,,,,"east, ck, Cad89D, cmet",0.2,routine
+252.0-254.0 kDa,252.0,254.0,3,0,0,0,,,,"Jarid2, Dmel\CG2926, Sptz",0.15,routine
+254.0-256.0 kDa,254.0,256.0,4,0,0,1,Histones,,,"enok [Histones], brp, Dcr-1, cv-c",0.95,routine
+256.0-258.0 kDa,256.0,258.0,7,0,0,1,Histones,,,"Sec16, FBgn0053978, tay, PolE1, Set2 [Histones], trio, Tig",1.1,routine
+258.0-260.0 kDa,258.0,260.0,3,0,0,1,Histones,,,"Cht10, htk, trr [Histones]",0.9,routine
+260.0-262.0 kDa,260.0,262.0,2,0,0,0,,,,"Ziz, Apc",0.1,routine
+262.0-264.0 kDa,262.0,264.0,5,0,0,0,,,,"Mgtor, Ptip, hob, Wdr62, pyd",0.25,routine
+264.0-266.0 kDa,264.0,266.0,3,0,0,0,,,,"Ncoa6, beta-Spec, FASN2",0.15,routine
+266.0-268.0 kDa,266.0,268.0,2,0,0,0,,,,"CG6108, FASN3",0.1,routine
+268.0-270.0 kDa,268.0,270.0,2,0,0,0,,,,"Dmel\CG7518, anon-WO03042407.98",0.1,routine
+270.0-272.0 kDa,270.0,272.0,3,0,0,1,Histones,,,"CG6915, kon, Hers [Histones]",0.9,routine
+272.0-274.0 kDa,272.0,274.0,3,0,0,1,Protein_kinases,,,"Rme-8, Wnk [Protein_kinases], Pzl",0.9,routine
+276.0-278.0 kDa,276.0,278.0,3,0,0,0,,,,"shn, CG14318, FASN1",0.15,routine
+278.0-280.0 kDa,278.0,280.0,6,0,0,1,Protein_kinases,,,"alpha-Spec, Acc, Lrrk [Protein_kinases], Fhos, kto, Prp8",1.05,routine
+280.0-282.0 kDa,280.0,282.0,5,0,0,1,Protein_kinases,,,"skd, Epg5, RhoGEF2, mTor [Protein_kinases], Not1",1.0,routine
+284.0-286.0 kDa,284.0,286.0,4,0,0,0,,,,"osa, CG9817, tud, CG17926",0.2,routine
+286.0-288.0 kDa,286.0,288.0,2,0,0,0,,,,"sev, bbg",0.1,routine
+288.0-290.0 kDa,288.0,290.0,4,0,0,2,Notch; Protein_kinases,,,"CAP, N [Notch], mei-41 [Protein_kinases], Piezo",1.7,routine
+290.0-292.0 kDa,290.0,292.0,1,0,0,0,,,,CG15099,0.05,routine
+292.0-294.0 kDa,292.0,294.0,4,0,0,0,,,,"ndl, BEST:LD19244, Ca-alpha1D, l(3)80Fj",0.2,routine
+294.0-296.0 kDa,294.0,296.0,1,0,0,0,,,,mud,0.05,routine
+296.0-298.0 kDa,296.0,298.0,1,0,0,0,,,,PsGEF,0.05,routine
+298.0-300.0 kDa,298.0,300.0,3,0,0,0,,,,"Nup358, Rim, tnc",0.15,routine
+300.0-302.0 kDa,300.0,302.0,2,0,0,0,,,,"E(bx), CG11008",0.1,routine
+302.0-304.0 kDa,302.0,304.0,2,0,0,1,Ubiquitin_proteasome,,,"Ufd4 [Ubiquitin_proteasome], Nuak",0.85,routine
+304.0-306.0 kDa,304.0,306.0,1,0,0,0,,,,Ten-m,0.05,routine
+306.0-308.0 kDa,306.0,308.0,2,0,0,0,,,,"Tet, rhea",0.1,routine
+308.0-310.0 kDa,308.0,310.0,3,0,0,0,,,,"teq, Muc68Ca, CG1295",0.15,routine
+310.0-312.0 kDa,310.0,312.0,2,0,0,0,,,,"faf, Dmel\CG4554",0.1,routine
+312.0-314.0 kDa,312.0,314.0,1,0,0,0,,,,Ppn,0.05,routine
+314.0-316.0 kDa,314.0,316.0,1,0,0,0,,,,lva,0.05,routine
+316.0-318.0 kDa,316.0,318.0,2,0,0,1,Protein_kinases,,,"Nf1, tefu [Protein_kinases]",0.85,routine
+318.0-320.0 kDa,318.0,320.0,3,0,0,1,Ubiquitin_proteasome,,,"hyd [Ubiquitin_proteasome], Itpr, Dmel\CG14692",0.9,routine
+320.0-322.0 kDa,320.0,322.0,4,0,0,1,Ubiquitin_proteasome,,,"LUBEL [Ubiquitin_proteasome], NaCP60E, Dmel\CG13492, Bicra",0.95,routine
+322.0-324.0 kDa,322.0,324.0,2,0,0,0,,,,"jbug, Megf8",0.1,routine
+326.0-328.0 kDa,326.0,328.0,2,0,0,0,,,,"Plp, Ten-a",0.1,routine
+332.0-334.0 kDa,332.0,334.0,2,0,0,0,,,,"zfh2, unc79",0.1,routine
+336.0-338.0 kDa,336.0,338.0,3,0,0,2,Histones; Ubiquitin_proteasome,,,"upSET [Histones], ctrip [Ubiquitin_proteasome], tou",1.65,routine
+338.0-340.0 kDa,338.0,340.0,1,0,0,0,,,,Muc12Ea,0.05,routine
+340.0-342.0 kDa,340.0,342.0,1,0,0,1,Histones,,,nej [Histones],0.8,routine
+342.0-344.0 kDa,342.0,344.0,1,0,0,0,,,,kmr,0.05,routine
+346.0-348.0 kDa,346.0,348.0,3,0,0,0,,,,"M7BP, CadN, rno",0.15,routine
+348.0-350.0 kDa,348.0,350.0,1,0,0,0,,,,Myo10A,0.05,routine
+350.0-352.0 kDa,350.0,352.0,2,0,0,0,,,,"dom, bark",0.1,routine
+354.0-356.0 kDa,354.0,356.0,2,0,0,0,,,,"Ca-alpha1T, Su(var)2-HP2",0.1,routine
+356.0-358.0 kDa,356.0,358.0,1,0,0,0,,,,dikar,0.05,routine
+360.0-362.0 kDa,360.0,362.0,3,0,0,1,Protein_kinases,,,"unc-13, blobby, nonC [Protein_kinases]",0.9,routine
+364.0-366.0 kDa,364.0,366.0,1,0,0,0,,,,pcx,0.05,routine
+366.0-368.0 kDa,366.0,368.0,1,0,0,0,,,,unc80,0.05,routine
+370.0-372.0 kDa,370.0,372.0,1,0,0,0,,,,sov,0.05,routine
+372.0-374.0 kDa,372.0,374.0,1,0,0,0,,,,apolpp,0.05,routine
+374.0-376.0 kDa,374.0,376.0,2,0,0,0,,,,"Vps13, wb",0.1,routine
+376.0-378.0 kDa,376.0,378.0,1,0,0,0,,,,Rbcn-3A,0.05,routine
+378.0-380.0 kDa,378.0,380.0,2,0,0,0,,,,"clone, Smr",0.1,routine
+384.0-386.0 kDa,384.0,386.0,5,0,0,0,,,,"RhoGEF3, fry, rg, Dmel\CG11122, ds",0.25,routine
+388.0-390.0 kDa,388.0,390.0,1,0,0,0,,,,bchs,0.05,routine
+390.0-392.0 kDa,390.0,392.0,1,0,0,0,,,,uif,0.05,routine
+394.0-396.0 kDa,394.0,396.0,1,0,0,0,,,,htt,0.05,routine
+396.0-398.0 kDa,396.0,398.0,1,0,0,0,,,,stan,0.05,routine
+398.0-400.0 kDa,398.0,400.0,1,0,0,0,,,,mv,0.05,routine
+400.0-402.0 kDa,400.0,402.0,1,0,0,1,Histones,,,trx [Histones],0.8,routine
+402.0-404.0 kDa,402.0,404.0,1,0,0,0,,,,Cubn2,0.05,routine
+404.0-406.0 kDa,404.0,406.0,1,0,0,0,,,,btsz,0.05,routine
+410.0-412.0 kDa,410.0,412.0,2,0,0,0,,,,"Dys, LanA",0.1,routine
+412.0-414.0 kDa,412.0,414.0,1,0,0,0,,,,zormin,0.05,routine
+418.0-420.0 kDa,418.0,420.0,1,0,0,0,,,,Cubn,0.05,routine
+422.0-424.0 kDa,422.0,424.0,1,0,0,0,,,,mask,0.05,routine
+424.0-426.0 kDa,424.0,426.0,1,0,0,0,,,,Vps13B,0.05,routine
+426.0-428.0 kDa,426.0,428.0,1,0,0,0,,,,Hml,0.05,routine
+434.0-436.0 kDa,434.0,436.0,2,0,0,0,,,,"Dmel\CG10631, Nipped-A",0.1,routine
+440.0-442.0 kDa,440.0,442.0,1,0,0,1,Ubiquitin_proteasome,,,puf [Ubiquitin_proteasome],0.8,routine
+444.0-446.0 kDa,444.0,446.0,1,0,0,0,,,,Vps13D,0.05,routine
+454.0-456.0 kDa,454.0,456.0,1,0,0,0,,,,Dhc62B,0.05,routine
+460.0-462.0 kDa,460.0,462.0,1,0,0,0,,,,Sdb,0.05,routine
+466.0-468.0 kDa,466.0,468.0,1,0,0,0,,,,Dhc36C,0.05,routine
+468.0-470.0 kDa,468.0,470.0,1,0,0,0,,,,Dhc16F,0.05,routine
+472.0-474.0 kDa,472.0,474.0,1,0,0,0,,,,Cdep,0.05,routine
+474.0-476.0 kDa,474.0,476.0,1,0,0,0,,,,Obsc,0.05,routine
+480.0-482.0 kDa,480.0,482.0,1,0,0,0,,,,btv,0.05,routine
+494.0-496.0 kDa,494.0,496.0,1,0,0,0,,,,Apoltp,0.05,routine
+496.0-498.0 kDa,496.0,498.0,2,0,0,0,,,,"Svil, kst",0.1,routine
+498.0-500.0 kDa,498.0,500.0,1,0,0,0,,,,trol,0.05,routine
+504.0-506.0 kDa,504.0,506.0,2,0,0,0,,,,"Dnah3, Cht6",0.1,routine
+514.0-516.0 kDa,514.0,516.0,1,0,0,0,,,,Dhc93AB,0.05,routine
+522.0-524.0 kDa,522.0,524.0,1,0,0,0,,,,kug,0.05,routine
+524.0-526.0 kDa,524.0,526.0,1,0,0,1,Actin_tubulin,,,Mical [Actin_tubulin],0.8,routine
+528.0-530.0 kDa,528.0,530.0,1,0,0,1,Ubiquitin_proteasome,,,HERC2 [Ubiquitin_proteasome],0.8,routine
+530.0-532.0 kDa,530.0,532.0,3,0,0,0,,,,"mgl, Dhc64C, LRP1",0.15,routine
+540.0-542.0 kDa,540.0,542.0,1,0,0,0,,,,Dhc1,0.05,routine
+550.0-552.0 kDa,550.0,552.0,1,0,0,1,Ubiquitin_proteasome,,,Bruce [Ubiquitin_proteasome],0.8,routine
+552.0-554.0 kDa,552.0,554.0,1,0,0,0,,,,Dmel\CG3339,0.05,routine
+556.0-558.0 kDa,556.0,558.0,1,0,0,1,Ubiquitin_proteasome,,,HUWE1 [Ubiquitin_proteasome],0.8,routine
+564.0-566.0 kDa,564.0,566.0,2,0,0,1,Ubiquitin_proteasome,,,"ft, hiw [Ubiquitin_proteasome]",0.85,routine
+572.0-574.0 kDa,572.0,574.0,1,0,0,0,,,,tweek,0.05,routine
+580.0-582.0 kDa,580.0,582.0,3,0,0,0,,,,"CG3950, RyR, Dhc98D",0.15,routine
+590.0-592.0 kDa,590.0,592.0,1,0,0,0,,,,poe,0.05,routine
+592.0-594.0 kDa,592.0,594.0,2,0,0,0,,,,"futsch, kis",0.1,routine
+598.0-600.0 kDa,598.0,600.0,1,0,0,0,,,,spen,0.05,routine
+630.0-632.0 kDa,630.0,632.0,1,0,0,0,,,,Dmel\CG13185,0.05,routine
+922.0-924.0 kDa,922.0,924.0,1,0,0,0,,,,Strn-Mlck,0.05,routine
+988.0-990.0 kDa,988.0,990.0,1,0,0,0,,,,shot,0.05,routine
+1000.0-1002.0 kDa,1000.0,1002.0,1,0,0,0,,,,bt,0.05,routine
+1404.0-1406.0 kDa,1404.0,1406.0,1,0,0,0,,,,Msp300,0.05,routine
+1488.0-1490.0 kDa,1488.0,1490.0,1,0,0,0,,,,Ank2,0.05,routine
+1768.0-1770.0 kDa,1768.0,1770.0,1,0,0,0,,,,Muc14A,0.05,routine
+2064.0-2066.0 kDa,2064.0,2066.0,1,0,0,0,,,,sls,0.05,routine
+2442.0-2444.0 kDa,2442.0,2444.0,1,0,0,0,,,,dpy,0.05,routine

@@ -1,0 +1,11 @@
+case	gene	display	role	protein_name	mw_kda	mw_effective_candidate_number	mw_auditability_score_0_100	contextual_audit_burden_index	contextual_audit_burden_score_0_100
+AP-1 / cell-cycle neighborhood	FOSL1	FOSL1 / Fra-1	source/context neighborhood	Fos-like antigen 1 (Fragment)	7.533354879999998	4586.51514957864	18.25108919554478	0.9527325673830178	95.27325673830178
+AP-1 / cell-cycle neighborhood	CCNA2	CCNA2 / Cyclin A2	source/context neighborhood	Cyclin-A2	32.54351618000002	2616.5215037166827	54.25196419782343	0.8586709045844021	85.8670904584402
+AP-1 / cell-cycle neighborhood	JUN	JUN / AP-1	construct context	Transcription factor Jun	35.94382837999999	3427.806455970923	42.49047523561259	0.8847315296898783	88.47315296898783
+HSP25 / HSP27 neighborhood	HSPB1	HSPB1 / HSP27	HSP relabeling context	Heat shock protein 1	16.817874780000015	4303.973448159468	22.498496089833566	0.9415727867749066	94.15727867749067
+Loading-control context	GAPDH	GAPDH	common marker	Glyceraldehyde-3-phosphate dehydrogenase (Fragment)	29.939094080000007	2472.139960652391	55.86342672767377	0.8556451774497916	85.56451774497916
+MEK3 / p44 MAPK neighborhood	MAP2K3	MAP2K3 / MEK3	claimed/target neighborhood	mitogen-activated protein kinase kinase	19.48857418000001	4074.5201195935833	28.315438321453968	0.9265687653782295	92.65687653782295
+MEK3 / p44 MAPK neighborhood	MAPK3	MAPK3 / ERK1-p44	source/family neighborhood	Mitogen-activated protein kinase (Fragment)	38.00355358	2320.196092670289	58.19129737317024	0.8464505645140943	84.64505645140943
+p38delta / beta-actin neighborhood	MAPK13	MAPK13 / p38delta	claimed/target neighborhood	mitogen-activated protein kinase	26.068126080000013	3216.384056700321	47.08788304136209	0.877870587862718	87.7870587862718
+p38delta / beta-actin neighborhood	MAPK14	MAPK14 / p38alpha	family context	mitogen-activated protein kinase (Fragment)	26.284227380000004	3185.090737279964	47.59465519441457	0.8767150940567552	87.67150940567552
+p38delta / beta-actin neighborhood	ACTB	ACTB / beta-actin	marker/source neighborhood	Actin, beta (Fragment)	29.44246228	2550.0698305320816	54.955611863572564	0.8585037365152917	85.85037365152917

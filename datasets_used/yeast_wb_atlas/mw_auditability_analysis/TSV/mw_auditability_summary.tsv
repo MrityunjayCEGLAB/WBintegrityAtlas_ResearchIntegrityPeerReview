@@ -1,0 +1,16 @@
+metric	value
+protein_count_analyzed	6066
+mw_column	mw_kda
+minimum_mw_kda	1.97641008
+median_mw_kda	44.8721654799999
+mean_mw_kda	54.7838474033598
+maximum_mw_kda	559.307683380008
+hard_window_tolerance_kda	2.0
+gaussian_sigma_kda	1.0
+bin_width_kda	2.0
+median_window_candidate_count	275.0
+mean_window_candidate_count	233.02934388394328
+median_effective_candidate_number	286.1935590307838
+mean_effective_candidate_number	240.1868502995235
+median_identity_entropy_bits	8.160847393391597
+median_nearest_neighbor_gap_kda	0.006274850000064447

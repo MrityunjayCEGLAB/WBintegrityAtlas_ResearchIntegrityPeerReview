@@ -1,0 +1,5 @@
+case	gene	display	role	protein_name	mw_kda	mw_effective_candidate_number	mw_auditability_score_0_100	contextual_audit_burden_index	contextual_audit_burden_score_0_100
+Drosophila Flag-Mad-AVA blot swap	MAD	Flag-Mad-AVA	reported Flag-Mad-AVA blot swap	Protein mothers against dpp	50.50463497999991	594.7242414047079	53.13020192516464	0.8581207867471906	85.81207867471906
+Drosophila Mad phospho-western identity swap	MAD	Mad / pMad	reported pMad blot-identity swap	Protein mothers against dpp	50.50463497999991	594.7242414047079	53.13020192516464	0.8581207867471906	85.81207867471906
+Drosophila dPKB / Akt western-blot reuse	AKT	dPKB / Akt	reported dPKB western-blot case	RAC serine/threonine-protein kinase	68.48457647999984	397.6404665350561	71.08634291090685	0.8079618920833467	80.79618920833467
+Drosophila dS6K western-blot reuse	S6K	dS6K / S6K	reported dS6K western-blot case	Ribosomal protein S6 kinase	55.42732907999999	544.4103340391079	62.075703843091844	0.834631712259278	83.4631712259278

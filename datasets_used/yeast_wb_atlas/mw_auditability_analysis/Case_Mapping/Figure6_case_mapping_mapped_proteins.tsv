@@ -1,0 +1,4 @@
+case	gene	display	role	protein_name	mw_kda	mw_effective_candidate_number	mw_auditability_score_0_100	contextual_audit_burden_index	contextual_audit_burden_score_0_100
+Yeast Leu1p western-blot lane assembly	LEU1	Leu1p	reported cut-and-reassembled western-blot case	3-isopropylmalate dehydratase	85.79446428000024	114.18047651510135	80.76162215628091	0.5004184099956309	50.04184099956309
+Yeast Pgk1 loading-control lane mislabeling	PGK1	Pgk1	reported loading-control lane mislabeling	Phosphoglycerate kinase	44.738426679999904	284.7465525657095	52.04418067919552	0.8465532374489518	84.65532374489518
+Yeast Rtn1-Cherry western-blot lane duplication	RTN1	Rtn1-Cherry	reported duplicated Rtn1 western-blot lanes	Reticulon-like protein 1	32.91597668000003	353.0262528010536	10.319815364325747	0.9418199345681941	94.18199345681941

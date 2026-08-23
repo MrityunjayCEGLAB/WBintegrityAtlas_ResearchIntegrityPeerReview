@@ -1,0 +1,25 @@
+WB-IntegrityAtlas molecular-weight auditability analysis
+protein_file=/media/disk1/000mrityunjay/research_integrity_paper/wb_integrity_model_organisms_run_bundle/yeast/yeast_wb_atlas/proteome_wb_integrity_atlas.csv
+mw_column=mw_kda
+n_proteins=6066
+bin_width_kda=2.0
+hard_window_tolerance_kda=2.0
+gaussian_sigma_kda=1.0
+kernel_cutoff_sigma=4.0
+grid_step_kda=0.25
+max_plot_mw_kda=300.0
+query_mw=none
+query_local_half_width_kda=8.0
+query_local_step_kda=0.05
+query_top_n=25
+context_weights_ambiguity_marker_signaling_family=1,1,1,1
+family_min_members=2
+top_family_plots=12
+case_mapping=auto
+
+Interpretation:
+- Higher effective_candidate_number = greater MW identity ambiguity.
+- Higher identity_entropy = greater uncertainty among proteins compatible with the MW.
+- Higher mw_discriminability = stronger MW-based identity specificity.
+- Higher mw_auditability_score_0_100 = more distinctive MW neighborhood.
+- These values measure auditability/identity ambiguity, NOT evidence of misconduct.

@@ -1,0 +1,11 @@
+case	gene	display	role	protein_name	mw_kda	mw_effective_candidate_number	mw_auditability_score_0_100	contextual_audit_burden_index	contextual_audit_burden_score_0_100
+AP-1 / cell-cycle neighborhood	FOSL1	FOSL1 / Fra-1	source/context neighborhood	FOS like 1, AP-1 transcription factor subunit	24.904980179999985	2603.550488009315	21.493063628613495	0.8992653795947594	89.92653795947594
+AP-1 / cell-cycle neighborhood	JUN	JUN / AP-1	construct context	Transcription factor Jun	36.08395218	3654.793927864565	2.115787026272964	0.9839932446786437	98.39932446786437
+AP-1 / cell-cycle neighborhood	CCNA2	CCNA2 / Cyclin A2	source/context neighborhood	Cyclin-A2	48.13307457999993	2527.253774405998	32.4788808804154	0.9096966055882582	90.96966055882582
+HSP25 / HSP27 neighborhood	HSPB1	HSPB1 / HSP27	HSP relabeling context	Heat shock protein family B (small) member 1	20.58938908	2509.9824771921935	36.946834069596214	0.8808046716206298	88.08046716206299
+Loading-control context	GAPDH	GAPDH	common marker	Glyceraldehyde-3-phosphate dehydrogenase	35.86808947999999	3668.0014910174777	0.8447647833837113	0.9871708002858669	98.7170800285867
+MEK3 / p44 MAPK neighborhood	MAP2K3	MAP2K3 / MEK3	claimed/target neighborhood	mitogen-activated protein kinase kinase	35.45583007999999	3667.9640854854006	0.8544524529179309	0.9867262953176912	98.67262953176912
+MEK3 / p44 MAPK neighborhood	MAPK3	MAPK3 / ERK1-p44	source/family neighborhood	Mitogen-activated protein kinase	38.24477228	3041.867352537241	8.883592962876852	0.9572670613025304	95.72670613025304
+p38delta / beta-actin neighborhood	MAPK13	MAPK13 / p38delta	claimed/target neighborhood	mitogen-activated protein kinase	41.19661977999999	2765.731070599652	13.771991009842676	0.9557633539407897	95.57633539407897
+p38delta / beta-actin neighborhood	MAPK14	MAPK14 / p38alpha	family context	Mitogen-activated protein kinase 14	41.29328838000002	2758.0306738359554	13.919243586762764	0.9560956988223899	95.60956988223899
+p38delta / beta-actin neighborhood	ACTB	ACTB / beta-actin	marker/source neighborhood	Actin beta	42.08618257999997	2685.9553601242187	15.304580330155781	0.9562748338481886	95.62748338481886

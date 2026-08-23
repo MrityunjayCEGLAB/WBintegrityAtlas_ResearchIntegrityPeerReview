@@ -1,0 +1,2 @@
+marker_annotated_proteins	signaling_annotated_proteins	proteins_with_family_annotation	total_family_memberships	distinct_configured_families_observed	context_weight_ambiguity	context_weight_marker	context_weight_signaling	context_weight_family
+95	1338	4295	4382	16	0.25	0.25	0.25	0.25
