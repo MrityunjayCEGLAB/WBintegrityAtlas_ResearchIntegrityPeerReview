@@ -728,34 +728,6 @@ Figure_legacy_2kda_vs_gaussian.*
 
 This directly documents what changes when hard bin boundaries are replaced by smooth MW neighborhoods.
 
-## Figure 6 case mapping
-
-The case-mapping implementation uses the representative proteins configured in the supplied `generate_figure6_case_mapping.py`.
-
-The default is:
-
-```bash
---case-mapping auto
-```
-
-For a compatible human atlas, outputs are:
-
-```text
-Case_Mapping/
-├── Figure6_case_mapping_legacy_2kda.png/pdf/svg
-├── Figure6_case_mapping_gaussian.png/pdf/svg
-├── Figure6_case_mapping_multipanel.png/pdf/svg
-└── Figure6_case_mapping_mapped_proteins.tsv
-```
-
-Modes:
-
-```bash
---case-mapping auto
---case-mapping on
---case-mapping off
-```
-
 The legacy panel retains the original 2-kDa-bin concept. The Gaussian panel maps the same representative proteins onto the continuous effective-candidate landscape.
 
 > Case mapping is an audit illustration based on documented examples. It must not be interpreted as implying that proteins of similar molecular weight are interchangeable.
