@@ -1,7 +1,7 @@
 WB-IntegrityAtlas molecular-weight auditability analysis
-protein_file=/media/disk1/000mrityunjay/research_integrity_paper/wb_atlas_latest2/wb_atlas_update/mouse_wb_atlas/proteome_wb_integrity_atlas.csv
+protein_file=/media/disk1/000mrityunjay/research_integrity_paper/wb_atlas_latest2/wb_atlas_update/one_protein_per_gene/mouse_wb_atlas/proteome_wb_integrity_atlas.csv
 mw_column=mw_kda
-n_proteins=54857
+n_proteins=21853
 bin_width_kda=2.0
 hard_window_tolerance_kda=2.0
 gaussian_sigma_kda=1.0

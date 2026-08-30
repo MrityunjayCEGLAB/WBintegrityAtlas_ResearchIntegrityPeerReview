@@ -1,10 +1,11 @@
 case	gene	display	role	protein_name	mw_kda	mw_effective_candidate_number	mw_auditability_score_0_100	contextual_audit_burden_index	contextual_audit_burden_score_0_100
-AP-1 / cell-cycle neighborhood	JUN	JUN / AP-1	construct context	Transcription factor Jun	34.35805598000002	2466.741614095373	4.557101024890187	0.9876126375815116	98.76126375815116
-AP-1 / cell-cycle neighborhood	CCNA2	CCNA2 / Cyclin A2	source/context neighborhood	Cyclin-A2	44.10638687999998	2117.3126469781473	24.9130673499268	0.9335463870666615	93.35463870666615
-HSP25 / HSP27 neighborhood	HSPB1	HSPB1 / HSP27	HSP relabeling context	Heat shock protein beta-1	21.671520780000005	2037.297853997956	35.75905929721815	0.9008808425167083	90.08808425167084
-Loading-control context	GAPDH	GAPDH	common marker	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	24.72431328	2134.7465312906934	20.941617862371885	0.9407318126335981	94.0731812633598
-MEK3 / p44 MAPK neighborhood	MAP2K3	MAP2K3 / MEK3	claimed/target neighborhood	mitogen-activated protein kinase kinase	39.26443068	2390.701960683264	7.709553440702777	0.9755124357000912	97.55124357000912
-MEK3 / p44 MAPK neighborhood	MAPK3	MAPK3 / ERK1-p44	source/family neighborhood	Mitogen-activated protein kinase 3	41.94229627999997	2303.4614873931614	12.127104685212299	0.9670834189851212	96.70834189851212
-p38delta / beta-actin neighborhood	MAPK14	MAPK14 / p38alpha	family context	mitogen-activated protein kinase	41.45843118000001	2348.238720640512	11.006131039531475	0.9692120851321775	96.92120851321775
-p38delta / beta-actin neighborhood	ACTB	ACTB / beta-actin	marker/source neighborhood	Actin, beta	42.03612267999997	2291.877564252113	12.410779648609083	0.9665025683322761	96.65025683322762
-p38delta / beta-actin neighborhood	MAPK13	MAPK13 / p38delta	claimed/target neighborhood	Mitogen-activated protein kinase 13	42.59814247999998	2219.731095522666	14.263817715959004	0.9620464362029155	96.20464362029155
+AP-1 / cell-cycle neighborhood	JUN	JUN / AP-1	construct context	Transcription factor Jun	34.35805598000002	1168.913536711254	3.5325495318963673	0.9900296374638936	99.00296374638936
+AP-1 / cell-cycle neighborhood	CCNA2	CCNA2 / Cyclin A2	source/context neighborhood	Cyclin-A2	44.10638687999998	944.1698092744427	30.437622468974524	0.9177778637454281	91.77778637454281
+HSP25 / HSP27 neighborhood	HSPB1	HSPB1 / HSP27	HSP relabeling context	Heat shock protein beta-1	21.671520780000005	954.7385912889857	23.726322664924883	0.6879249530912812	68.79249530912813
+Loading-control context	GAPDH	GAPDH	common marker	Glyceraldehyde-3-phosphate dehydrogenase	35.70397227999999	1180.9159206359557	1.6220335292836952	0.9931696338359283	99.31696338359282
+MEK3 / p44 MAPK neighborhood	MAP2K3	MAP2K3 / MEK3	claimed/target neighborhood	mitogen-activated protein kinase kinase	39.42164328	1039.6600185145892	9.949923797082516	0.9705852777762876	97.05852777762875
+MEK3 / p44 MAPK neighborhood	MAPK3	MAPK3 / ERK1-p44	source/family neighborhood	mitogen-activated protein kinase	48.61637727999991	916.9899408659917	37.437404746353145	0.9047381103107086	90.47381103107087
+Yeast Rtn1-Cherry western-blot lane duplication	RTN1	Rtn1-Cherry	reported duplicated Rtn1 western-blot lanes	Reticulon	82.55643718000022	393.47924983704894	73.30176355323317	0.8081470284885803	80.81470284885803
+p38delta / beta-actin neighborhood	MAPK14	MAPK14 / p38alpha	family context	mitogen-activated protein kinase	41.45843118000001	1007.774250124173	14.516655780535592	0.9616228882694002	96.16228882694003
+p38delta / beta-actin neighborhood	ACTB	ACTB / beta-actin	marker/source neighborhood	Actin, cytoplasmic 1	41.736734579999975	998.0982378146698	15.806662312214236	0.9589112189627909	95.89112189627909
+p38delta / beta-actin neighborhood	MAPK13	MAPK13 / p38delta	claimed/target neighborhood	Mitogen-activated protein kinase 13	42.59814247999998	957.4721877152776	23.285434356629654	0.9397490681125327	93.97490681125326
